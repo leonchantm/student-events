@@ -1,16 +1,21 @@
 # 學生比賽／活動中期清單（Gmail 掃描）
 
-- **掃描日期：** 2026-10-10（Asia/Hong_Kong）
-- **補資料（enrichment）：** 2026-10-11（Asia/Hong_Kong）
+- **掃描日期：** 2026-10-12（Asia/Hong_Kong）— Daily student events Gmail scan
+- **上次發佈／as_of：** 2026-10-11 → 本次更新至 2026-10-12
 - **Gmail 帳戶：** tmchan@skhbbss.edu.hk
-- **搜尋範圍：** after:2025/09/01
-- **收錄活動數：** 40
-- **輸出：** 本機草稿（尚未推 GitHub Pages）
-- **網頁草稿含月曆：** `index.html` 已加入可篩選月曆視圖（顯示截止日／比賽日標記；本機草稿，未推 GitHub）。
+- **本次搜尋：** `after:2026/10/10` + `newer_than:3d`（比賽／競賽／報名／邀請等關鍵字）
+- **收錄活動數：** 41（+1 new）
+- **變更：** 新增「全港校際 AI 航空比賽 2026 - 星宇盃」（截止 2026-10-31；[官網](https://www.creatogether.app/starlux-cup-2026)；分數 3/4/3/3，total_recommend=10）
+- **排除（本次視窗）：** FLL 老師工作坊推廣、AI Go! 校企同行計劃、幸福校園嘉許計劃、商業 STEM 課程推銷、教學工具／講座／書展類郵件
+- **GitHub Pages：** 已推至 leonchantm/student-events
 
 ## 評分摘要
 
 詳見 [RUBRIC.md](RUBRIC.md)。`total` = 規模+獎項+認受性；複雜度獨立。
+
+## 歷史紀錄
+
+以下保留 2026-10-10／10-11 初掃與 enrichment 說明。
 
 ## Enrichment（2026-10-11）
 

@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-10-11T17:20:00+08:00",
+    "generated_at": "2026-10-12T12:05:00+08:00",
     "gmail_account_observed": "tmchan@skhbbss.edu.hk",
-    "search_window": "after:2025/09/01",
-    "as_of": "2026-10-11",
-    "event_count": 40,
+    "search_window": "after:2026/10/10 (daily scan; baseline catalogue after:2025/09/01)",
+    "as_of": "2026-10-12",
+    "event_count": 41,
     "rubric_note": "total_recommend = organizer_scale + awards + recognition (complexity excluded)",
-    "scan_notes": "Gmail confirmed as tmchan@skhbbss.edu.hk. Many forwards from Info@skhbbss.edu.hk. Excluded teacher-PD, admin, marketing-only, and clearly past deadlines (e.g. 減碳校園 9/24). STEAM x BIM 'last Friday' call may have closed; not listed as primary.",
+    "scan_notes": "Daily routine 2026-10-12: Gmail confirmed tmchan@skhbbss.edu.hk. Reviewed ~13 threads in after:2026/10/10 keyword window + newer_than:3d. NEW: starlux-cup-ai-aviation-2026 (Creato 星宇盃；截止 2026-10-31). Excluded: FLL teacher workshop (Trumptech marketing, no HK student deadline in email); AI Go! 校企同行 (school AI Lab program); 幸福校園嘉許計劃 (school award scheme); STEM kit aircraft program (commercial curriculum); Wayground marketing; teacher PD / lectures / book talks. No material updates to existing 40 events.",
     "enrichment": {
       "enriched_at": "2026-10-11T17:20:00+08:00",
       "links_filled": 25,
@@ -16,48 +16,21 @@
   },
   "events": [
     {
-      "id": "hkoi-2026-27",
-      "name": "香港電腦奧林匹克競賽 (HKOI) 2026/27",
-      "name_en": "Hong Kong Olympiad in Informatics 2026/27",
-      "domain": "Computer Science / Programming",
-      "event_dates": "初賽 2026-11-07；決賽 2026-12-05",
-      "deadline": "2026-10-27",
-      "organizer": "教育局 (EDB) × 香港電腦教育學會 (HKACE)；協辦：中大、城大",
-      "eligibility": "全港中學生；每校最多提名 16 人（先到先得）；可用 C++ / Python",
-      "summary": "享負盛名的年度程式設計比賽，亦是國際信息學奧林匹克 (IOI) 香港代表隊初步遴選。配合新高中 ICT 課程，初賽／決賽可用 Python 或 C++。",
-      "official_link": "https://hkoi.org/zh/hkoi/",
+      "id": "grantham-scholars-2026-27",
+      "name": "2026/27 葛量洪傑出學生選舉 (Grantham Scholars of the Year)",
+      "name_en": "Grantham Scholars of the Year Award 2026/27",
+      "domain": "Scholarship / Leadership / General",
+      "event_dates": "提名期（見邀請）",
+      "deadline": "2026-12-09",
+      "organizer": "葛量洪獎學基金 (Grantham Scholarships Fund)",
+      "eligibility": "校長提名傑出學生",
+      "summary": "具高度認受性的全港傑出學生獎學金／選舉，需學校提名。",
+      "official_link": "https://eform.cefs.gov.hk/form/hab009/en/",
       "source": {
-        "subject": "Fwd: 年度學界編程盛事：2026/27 香港電腦奧林匹克競賽(HKOI) 及 HKGOI 現正接受報名.",
-        "date": "2026-10-07",
-        "thread_id": "1a114fcd360efd4b",
-        "message_id": "1a114fcd360efd4b"
-      },
-      "scores": {
-        "organizer_scale": 5,
-        "awards": 5,
-        "recognition": 5,
-        "complexity": 5
-      },
-      "notes": "物理老師亦可轉介有興趣編程的學生。IOI 路徑認受性極高。",
-      "total_recommend": 15,
-      "upcoming": true
-    },
-    {
-      "id": "hk-science-fair-2026-27",
-      "name": "第六屆香港創科展 (Hong Kong Science Fair) 2026-2027",
-      "name_en": "6th Hong Kong Science Fair 2026-2027",
-      "domain": "STEM / Science Innovation",
-      "event_dates": "展覽及頒獎通常於翌年在會展舉行（具體日期見官網）",
-      "deadline": "2026-11-29",
-      "organizer": "香港創新基金",
-      "eligibility": "小四至中六學生及指導老師；網上平台第一階段報名",
-      "summary": "大型創科展覽比賽，歷屆金獎隊可獲安排赴瑞士日內瓦國際發明展。2027 年適逢回歸 30 周年，首次邀請海外隊伍。",
-      "official_link": "https://www.hksciencefair.org.hk/",
-      "source": {
-        "subject": "[立即行動] 香港創科展2026-2027開始接受報名！",
-        "date": "2026-10-02",
-        "thread_id": "1a0fba749b5522cd",
-        "message_id": "1a0fba749b5522cd"
+        "subject": "Fwd: Grantham Scholarships Fund - 2026/27 Grantham Scholars of the Year Award",
+        "date": "2026-10-09",
+        "thread_id": "1a11e5538a604d43",
+        "message_id": "1a11e5538a604d43"
       },
       "scores": {
         "organizer_scale": 5,
@@ -65,7 +38,7 @@
         "recognition": 5,
         "complexity": 4
       },
-      "notes": "第一階段報名截止 2026-11-29；報名平台 https://hksfr.awardsplatform.com/",
+      "notes": "非比賽但高價值學生獎勵；需行政提名。 網上提名截止 2026-12-09 17:00；詳情亦見 https://www.hyab.gov.hk/en/public_forms/forms.htm。",
       "total_recommend": 15,
       "upcoming": true
     },
@@ -97,21 +70,21 @@
       "upcoming": true
     },
     {
-      "id": "grantham-scholars-2026-27",
-      "name": "2026/27 葛量洪傑出學生選舉 (Grantham Scholars of the Year)",
-      "name_en": "Grantham Scholars of the Year Award 2026/27",
-      "domain": "Scholarship / Leadership / General",
-      "event_dates": "提名期（見邀請）",
-      "deadline": "2026-12-09",
-      "organizer": "葛量洪獎學基金 (Grantham Scholarships Fund)",
-      "eligibility": "校長提名傑出學生",
-      "summary": "具高度認受性的全港傑出學生獎學金／選舉，需學校提名。",
-      "official_link": "https://eform.cefs.gov.hk/form/hab009/en/",
+      "id": "hk-science-fair-2026-27",
+      "name": "第六屆香港創科展 (Hong Kong Science Fair) 2026-2027",
+      "name_en": "6th Hong Kong Science Fair 2026-2027",
+      "domain": "STEM / Science Innovation",
+      "event_dates": "展覽及頒獎通常於翌年在會展舉行（具體日期見官網）",
+      "deadline": "2026-11-29",
+      "organizer": "香港創新基金",
+      "eligibility": "小四至中六學生及指導老師；網上平台第一階段報名",
+      "summary": "大型創科展覽比賽，歷屆金獎隊可獲安排赴瑞士日內瓦國際發明展。2027 年適逢回歸 30 周年，首次邀請海外隊伍。",
+      "official_link": "https://www.hksciencefair.org.hk/",
       "source": {
-        "subject": "Fwd: Grantham Scholarships Fund - 2026/27 Grantham Scholars of the Year Award",
-        "date": "2026-10-09",
-        "thread_id": "1a11e5538a604d43",
-        "message_id": "1a11e5538a604d43"
+        "subject": "[立即行動] 香港創科展2026-2027開始接受報名！",
+        "date": "2026-10-02",
+        "thread_id": "1a0fba749b5522cd",
+        "message_id": "1a0fba749b5522cd"
       },
       "scores": {
         "organizer_scale": 5,
@@ -119,62 +92,35 @@
         "recognition": 5,
         "complexity": 4
       },
-      "notes": "非比賽但高價值學生獎勵；需行政提名。 網上提名截止 2026-12-09 17:00；詳情亦見 https://www.hyab.gov.hk/en/public_forms/forms.htm。",
+      "notes": "第一階段報名截止 2026-11-29；報名平台 https://hksfr.awardsplatform.com/",
       "total_recommend": 15,
       "upcoming": true
     },
     {
-      "id": "hkgoi-2026-27",
-      "name": "香港女子電腦奧林匹克競賽 (HKGOI) 2026/27",
-      "name_en": "Hong Kong Girls' Olympiad in Informatics 2026/27",
+      "id": "hkoi-2026-27",
+      "name": "香港電腦奧林匹克競賽 (HKOI) 2026/27",
+      "name_en": "Hong Kong Olympiad in Informatics 2026/27",
       "domain": "Computer Science / Programming",
-      "event_dates": "2026-11-15",
+      "event_dates": "初賽 2026-11-07；決賽 2026-12-05",
       "deadline": "2026-10-27",
-      "organizer": "香港電腦教育學會 (HKACE)；協辦：城大",
-      "eligibility": "全港中學女學生；每校最多提名 6 人；C++ / Python",
-      "summary": "專為中學女生而設的程式設計比賽，亦是歐洲女子信息學奧林匹克 (EGOI) 香港代表隊初步遴選。",
-      "official_link": "https://hkoi.org/zh/hkgoi/",
+      "organizer": "教育局 (EDB) × 香港電腦教育學會 (HKACE)；協辦：中大、城大",
+      "eligibility": "全港中學生；每校最多提名 16 人（先到先得）；可用 C++ / Python",
+      "summary": "享負盛名的年度程式設計比賽，亦是國際信息學奧林匹克 (IOI) 香港代表隊初步遴選。配合新高中 ICT 課程，初賽／決賽可用 Python 或 C++。",
+      "official_link": "https://hkoi.org/zh/hkoi/",
       "source": {
-        "subject": "Fwd: 年度學界編程盛事：2026/27 HKOI 及 HKGOI 現正接受報名.",
+        "subject": "Fwd: 年度學界編程盛事：2026/27 香港電腦奧林匹克競賽(HKOI) 及 HKGOI 現正接受報名.",
         "date": "2026-10-07",
         "thread_id": "1a114fcd360efd4b",
         "message_id": "1a114fcd360efd4b"
       },
       "scores": {
-        "organizer_scale": 4,
-        "awards": 4,
-        "recognition": 4,
+        "organizer_scale": 5,
+        "awards": 5,
+        "recognition": 5,
         "complexity": 5
       },
-      "notes": "與 HKOI 同一郵件通知。",
-      "total_recommend": 12,
-      "upcoming": true
-    },
-    {
-      "id": "space-ai-dream-2026",
-      "name": "全港首屆中小學「航天築夢」航天 AI 創新大賽",
-      "name_en": "Space AI Innovation Contest (航天築夢)",
-      "domain": "STEM / AI / Space",
-      "event_dates": null,
-      "deadline": "2026-10-31",
-      "organizer": "教育局「心繫家國」活動相關",
-      "eligibility": "中小學；免費參加",
-      "summary": "回歸 30 周年「心繫家國」系列活動之一，結合航天與 AI 創新；報名截止 10 月 31 日。",
-      "official_link": "https://www.hkstarcatcher.com/apply.html",
-      "source": {
-        "subject": "Fwd: 全港首屆中小學「航天築夢」航天AI創新大賽——免費參加・10月31日截止報名",
-        "date": "2026-10-02",
-        "thread_id": "1a0fa2063b3583f8",
-        "message_id": "1a0fa2063b3583f8"
-      },
-      "scores": {
-        "organizer_scale": 5,
-        "awards": 3,
-        "recognition": 4,
-        "complexity": 3
-      },
-      "notes": "EDB 相關活動認受性高；獎項細節郵件不全。",
-      "total_recommend": 12,
+      "notes": "物理老師亦可轉介有興趣編程的學生。IOI 路徑認受性極高。",
+      "total_recommend": 15,
       "upcoming": true
     },
     {
@@ -232,6 +178,33 @@
       "upcoming": true
     },
     {
+      "id": "space-ai-dream-2026",
+      "name": "全港首屆中小學「航天築夢」航天 AI 創新大賽",
+      "name_en": "Space AI Innovation Contest (航天築夢)",
+      "domain": "STEM / AI / Space",
+      "event_dates": null,
+      "deadline": "2026-10-31",
+      "organizer": "教育局「心繫家國」活動相關",
+      "eligibility": "中小學；免費參加",
+      "summary": "回歸 30 周年「心繫家國」系列活動之一，結合航天與 AI 創新；報名截止 10 月 31 日。",
+      "official_link": "https://www.hkstarcatcher.com/apply.html",
+      "source": {
+        "subject": "Fwd: 全港首屆中小學「航天築夢」航天AI創新大賽——免費參加・10月31日截止報名",
+        "date": "2026-10-02",
+        "thread_id": "1a0fa2063b3583f8",
+        "message_id": "1a0fa2063b3583f8"
+      },
+      "scores": {
+        "organizer_scale": 5,
+        "awards": 3,
+        "recognition": 4,
+        "complexity": 3
+      },
+      "notes": "EDB 相關活動認受性高；獎項細節郵件不全。",
+      "total_recommend": 12,
+      "upcoming": true
+    },
+    {
       "id": "gba-steam-excellence-2027",
       "name": "第九屆大灣區數字教育 STEAM 卓越獎 2027（香港）",
       "name_en": "9th GBA Digital Education STEAM Excellence Award 2027 (HKSAR)",
@@ -259,6 +232,33 @@
       "upcoming": true
     },
     {
+      "id": "hkgoi-2026-27",
+      "name": "香港女子電腦奧林匹克競賽 (HKGOI) 2026/27",
+      "name_en": "Hong Kong Girls' Olympiad in Informatics 2026/27",
+      "domain": "Computer Science / Programming",
+      "event_dates": "2026-11-15",
+      "deadline": "2026-10-27",
+      "organizer": "香港電腦教育學會 (HKACE)；協辦：城大",
+      "eligibility": "全港中學女學生；每校最多提名 6 人；C++ / Python",
+      "summary": "專為中學女生而設的程式設計比賽，亦是歐洲女子信息學奧林匹克 (EGOI) 香港代表隊初步遴選。",
+      "official_link": "https://hkoi.org/zh/hkgoi/",
+      "source": {
+        "subject": "Fwd: 年度學界編程盛事：2026/27 HKOI 及 HKGOI 現正接受報名.",
+        "date": "2026-10-07",
+        "thread_id": "1a114fcd360efd4b",
+        "message_id": "1a114fcd360efd4b"
+      },
+      "scores": {
+        "organizer_scale": 4,
+        "awards": 4,
+        "recognition": 4,
+        "complexity": 5
+      },
+      "notes": "與 HKOI 同一郵件通知。",
+      "total_recommend": 12,
+      "upcoming": true
+    },
+    {
       "id": "ai-eng-pioneer-2027",
       "name": "2027 AI × Engineering Pioneer Program（城大）",
       "name_en": "2027 AI x Engineering Pioneer Program",
@@ -282,33 +282,6 @@
         "complexity": 4
       },
       "notes": "報名窗口約 2026-10-12 至 2026-11-11。 多活動各有報名期；現列 deadline 為 HK Innovators Summit 報名截止 2026-11-11（最早臨近學生活動）。",
-      "total_recommend": 11,
-      "upcoming": true
-    },
-    {
-      "id": "cuhk-ctf-2026",
-      "name": "香港中文大學網絡安全奪旗賽 2026",
-      "name_en": "CUHK Cybersecurity CTF 2026",
-      "domain": "Computer Science / Cybersecurity",
-      "event_dates": "2026-12-26 09:00 至 2026-12-27 21:00（線上 36 小時）",
-      "deadline": "2026-12-23",
-      "organizer": "香港中文大學（HKACE 支持轉發）",
-      "eligibility": "中學組：隊員須同校，每隊最多 4 人；另設中大組",
-      "summary": "Jeopardy-style CTF，線上連續 36 小時解謎奪旗，勝出者有豐富獎品。",
-      "official_link": "https://docs.google.com/forms/d/e/1FAIpQLSeFf7r_9vI1TLU17QPW3E9EvUhMLDOqoRXDKPJnxkOhW6rYNg/viewform",
-      "source": {
-        "subject": "Fwd: 香港電腦教育學會支持活動：香港中文大學網絡安全奪旗賽2026",
-        "date": "2026-10-08",
-        "thread_id": "1a118ddd85a70f5a",
-        "message_id": "1a118ddd85a70f5a"
-      },
-      "scores": {
-        "organizer_scale": 4,
-        "awards": 3,
-        "recognition": 4,
-        "complexity": 4
-      },
-      "notes": "規則詳見 https://hackmd.io/@RsORw7vVSpitgAtGvKnSfg/By3hzY5Gzg",
       "total_recommend": 11,
       "upcoming": true
     },
@@ -367,6 +340,33 @@
       "upcoming": true
     },
     {
+      "id": "cuhk-ctf-2026",
+      "name": "香港中文大學網絡安全奪旗賽 2026",
+      "name_en": "CUHK Cybersecurity CTF 2026",
+      "domain": "Computer Science / Cybersecurity",
+      "event_dates": "2026-12-26 09:00 至 2026-12-27 21:00（線上 36 小時）",
+      "deadline": "2026-12-23",
+      "organizer": "香港中文大學（HKACE 支持轉發）",
+      "eligibility": "中學組：隊員須同校，每隊最多 4 人；另設中大組",
+      "summary": "Jeopardy-style CTF，線上連續 36 小時解謎奪旗，勝出者有豐富獎品。",
+      "official_link": "https://docs.google.com/forms/d/e/1FAIpQLSeFf7r_9vI1TLU17QPW3E9EvUhMLDOqoRXDKPJnxkOhW6rYNg/viewform",
+      "source": {
+        "subject": "Fwd: 香港電腦教育學會支持活動：香港中文大學網絡安全奪旗賽2026",
+        "date": "2026-10-08",
+        "thread_id": "1a118ddd85a70f5a",
+        "message_id": "1a118ddd85a70f5a"
+      },
+      "scores": {
+        "organizer_scale": 4,
+        "awards": 3,
+        "recognition": 4,
+        "complexity": 4
+      },
+      "notes": "規則詳見 https://hackmd.io/@RsORw7vVSpitgAtGvKnSfg/By3hzY5Gzg",
+      "total_recommend": 11,
+      "upcoming": true
+    },
+    {
       "id": "piccks-2026-27",
       "name": "香港教育城 PICCKS 學生獎勵計劃 2026/27",
       "name_en": "HKEdCity PICCKS Student Award Scheme 2026/27",
@@ -394,56 +394,29 @@
       "upcoming": true
     },
     {
-      "id": "cosmetic-formulation-2026-27",
-      "name": "港澳中學化妝品配方比賽 2026/27",
-      "name_en": "HK-Macau Secondary School Cosmetic Formulation Competition 2026/27",
-      "domain": "Chemistry / STEM",
-      "event_dates": "正式比賽日見主辦更新",
-      "deadline": "2026-10-23",
-      "organizer": "香港城市大學 × 香港化粧品同業協會 (CPAHK)",
-      "eligibility": "港澳中學生",
-      "summary": "隊伍自行設計化妝品配方，使用大會提供原料研發並角逐獎項。化學／實驗取向。",
-      "official_link": "https://www.cityu.edu.hk/chem/cosmetic/",
+      "id": "robofest-mrc-2027",
+      "name": "2027 ROBOFEST × MRC 聯乘挑戰賽（香港區選拔）",
+      "name_en": "2027 ROBOFEST x MRC Challenge (HK Selection)",
+      "domain": "Robotics",
+      "event_dates": "2027",
+      "deadline": "2026-12-10",
+      "organizer": "ROBOFEST / MRC 相關",
+      "eligibility": "學校代表隊",
+      "summary": "ROBOFEST 與 MRC 聯乘挑戰賽香港區選拔邀請。",
+      "official_link": "https://global-robot.ai/zh/competitions/rf-x-mrc-hk",
       "source": {
-        "subject": "Fwd: Join Us for the Hong Kong-Macau Secondary School Cosmetic Formulation Competition 2026/27!",
-        "date": "2026-10-05",
-        "thread_id": "1a10981be4d345f6",
-        "message_id": "1a10981be4d345f6"
+        "subject": "Fwd: 【邀請函】2027 ROBOFEST x MRC 聯乘挑戰賽（香港區選拔賽）",
+        "date": "2026-09-23",
+        "thread_id": "1a0ccf149bbfc9b6",
+        "message_id": "1a0ccf149bbfc9b6"
       },
       "scores": {
         "organizer_scale": 4,
         "awards": 3,
         "recognition": 3,
-        "complexity": 3
+        "complexity": 4
       },
-      "notes": "截止 2026-10-23。聯繫 Cosmetic.Competition@cityu.edu.hk 報名表 https://docs.google.com/forms/d/e/1FAIpQLSdEi6rkm3wMJZyyMP4l3_CGhGrZMbX6E-Dm6RHhunjQHa9tVQ/viewform ；截止 2026-10-23。",
-      "total_recommend": 10,
-      "upcoming": true
-    },
-    {
-      "id": "vtc-bim-2026",
-      "name": "「組裝」夢家園 – BIM Competition 2026",
-      "name_en": "VTC BIM Competition 2026",
-      "domain": "STEM / Construction / BIM",
-      "event_dates": "2026-11-28",
-      "deadline": "2026-10-31",
-      "organizer": "職業訓練局 IVE（建造）",
-      "eligibility": "中學生（附 10 月網上 BIM 培訓；簡介會 2026-10-24）",
-      "summary": "BIM 建造信息模型比賽，比賽日 11 月 28 日；主辦提供培訓工作坊。",
-      "official_link": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=qwXbfulCSEO4kyumJaNQxqu-B1tGeMZKrtir0dF3Hh9URVZUVFFYVExPNjhDVTJMV040SUMxODI0Sy4u&origin=lprLink&route=shorturl",
-      "source": {
-        "subject": "Fwd: VTC -「組裝」夢家園 - BIM Competition 2026 on 28 November 2026",
-        "date": "2026-10-07",
-        "thread_id": "1a113b0a18aa70f6",
-        "message_id": "1a113b0a18aa70f6"
-      },
-      "scores": {
-        "organizer_scale": 4,
-        "awards": 3,
-        "recognition": 3,
-        "complexity": 3
-      },
-      "notes": "聯繫 ty-cn@vtc.edu.hk 報名截止 2026-10-31（郵件原文）。",
+      "notes": "報名表 https://rihk-form.replit.app/f/b831474c-0753-4cd3-8806-b2d5eb88e1c7",
       "total_recommend": 10,
       "upcoming": true
     },
@@ -475,60 +448,6 @@
       "upcoming": true
     },
     {
-      "id": "ai-travel-china-video",
-      "name": "第一屆全港校園電視台「AI帶你遊中國」短視頻大比拼",
-      "name_en": "AI Takes You Across China – Campus TV Short Video Contest",
-      "domain": "AI / Media / Citizenship",
-      "event_dates": "簡介會 2026-10-12",
-      "deadline": "2026-11-13",
-      "organizer": "（HKACE 支持轉發）",
-      "eligibility": "全港中小學；每隊 1–5 學生 + 1–4 指導老師",
-      "summary": "用 AI 生成短片「遊中國」；金獎 HK$10,000。影片提交另截止 2026-12-31。",
-      "official_link": null,
-      "source": {
-        "subject": "Fwd: 【第一屆全港校園電視台「AI帶你遊中國」短視頻大比拼】",
-        "date": "2026-10-09",
-        "thread_id": "1a11df82abdad4d2",
-        "message_id": "1a11df82abdad4d2"
-      },
-      "scores": {
-        "organizer_scale": 3,
-        "awards": 4,
-        "recognition": 3,
-        "complexity": 2
-      },
-      "notes": "報名期至 2026-11-13；影片提交截止 2026-12-31。官方 URL 僅見附件圖片／電話 2881 3113，正文無網址。",
-      "total_recommend": 10,
-      "upcoming": true
-    },
-    {
-      "id": "robofest-mrc-2027",
-      "name": "2027 ROBOFEST × MRC 聯乘挑戰賽（香港區選拔）",
-      "name_en": "2027 ROBOFEST x MRC Challenge (HK Selection)",
-      "domain": "Robotics",
-      "event_dates": "2027",
-      "deadline": "2026-12-10",
-      "organizer": "ROBOFEST / MRC 相關",
-      "eligibility": "學校代表隊",
-      "summary": "ROBOFEST 與 MRC 聯乘挑戰賽香港區選拔邀請。",
-      "official_link": "https://global-robot.ai/zh/competitions/rf-x-mrc-hk",
-      "source": {
-        "subject": "Fwd: 【邀請函】2027 ROBOFEST x MRC 聯乘挑戰賽（香港區選拔賽）",
-        "date": "2026-09-23",
-        "thread_id": "1a0ccf149bbfc9b6",
-        "message_id": "1a0ccf149bbfc9b6"
-      },
-      "scores": {
-        "organizer_scale": 4,
-        "awards": 3,
-        "recognition": 3,
-        "complexity": 4
-      },
-      "notes": "報名表 https://rihk-form.replit.app/f/b831474c-0753-4cd3-8806-b2d5eb88e1c7",
-      "total_recommend": 10,
-      "upcoming": true
-    },
-    {
       "id": "mengxi-stem-2026",
       "name": "「夢溪少年談」國家成就科普計劃 2026 青少年創科實踐挑戰賽",
       "name_en": "Mengxi Youth STEM Practice Challenge 2026",
@@ -552,6 +471,60 @@
         "complexity": 3
       },
       "notes": "計劃官網有挑戰賽頁；2026 屆具體報名截止僅見附件章程（郵件正文未列），未核實則保持 null。聯絡 www.fnty.org.hk / 2652 9123。",
+      "total_recommend": 10,
+      "upcoming": true
+    },
+    {
+      "id": "vtc-bim-2026",
+      "name": "「組裝」夢家園 – BIM Competition 2026",
+      "name_en": "VTC BIM Competition 2026",
+      "domain": "STEM / Construction / BIM",
+      "event_dates": "2026-11-28",
+      "deadline": "2026-10-31",
+      "organizer": "職業訓練局 IVE（建造）",
+      "eligibility": "中學生（附 10 月網上 BIM 培訓；簡介會 2026-10-24）",
+      "summary": "BIM 建造信息模型比賽，比賽日 11 月 28 日；主辦提供培訓工作坊。",
+      "official_link": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=qwXbfulCSEO4kyumJaNQxqu-B1tGeMZKrtir0dF3Hh9URVZUVFFYVExPNjhDVTJMV040SUMxODI0Sy4u&origin=lprLink&route=shorturl",
+      "source": {
+        "subject": "Fwd: VTC -「組裝」夢家園 - BIM Competition 2026 on 28 November 2026",
+        "date": "2026-10-07",
+        "thread_id": "1a113b0a18aa70f6",
+        "message_id": "1a113b0a18aa70f6"
+      },
+      "scores": {
+        "organizer_scale": 4,
+        "awards": 3,
+        "recognition": 3,
+        "complexity": 3
+      },
+      "notes": "聯繫 ty-cn@vtc.edu.hk 報名截止 2026-10-31（郵件原文）。",
+      "total_recommend": 10,
+      "upcoming": true
+    },
+    {
+      "id": "starlux-cup-ai-aviation-2026",
+      "name": "全港校際 AI 航空比賽 2026 - 星宇盃",
+      "name_en": "Hong Kong Inter-school AI Aviation Competition 2026 - STARLUX Cup",
+      "domain": "STEM / AI / Aviation",
+      "event_dates": "賽前工作坊 2026-10-24–25（金鐘 HK TECH 300）；模擬飛行挑戰賽 2026-11-22；AI 航空航線規劃挑戰賽 2026-11-29（地點：香港聖公會聖瑪利堂莫慶堯中學）",
+      "deadline": "2026-10-31",
+      "organizer": "Creato × 香港電腦教育學會 (HKACE)；冠名贊助：星宇航空；支持：HK TECH 300、HKAI Lab",
+      "eligibility": "中學初中組（中一至中三）、高中組（中四至中六）；每隊 2–4 人；費用每隊 HK$3,000（兩隊優惠 HK$4,800）；適用「智啟學教」等撥款",
+      "summary": "第二屆全港校際 AI 航空比賽。學生以飛行模擬器完成起降與航行任務，並用 AI Flight Planning 工具（Alto）按航點、氣象與燃油限制規劃航線，結合航空英語（ICAO 無線電用語）與正向心理學工作坊。中學冠軍可獲星宇航空香港來回台北機票。",
+      "official_link": "https://www.creatogether.app/starlux-cup-2026",
+      "source": {
+        "subject": "Fwd: 【師生同行】從「土炮」模擬器到飛赴台北：老師如何成就學生的機師夢？ ✈️❤️",
+        "date": "2026-10-12",
+        "thread_id": "1a12d6ea456f0337",
+        "message_id": "1a12d6ea456f0337"
+      },
+      "scores": {
+        "organizer_scale": 3,
+        "awards": 4,
+        "recognition": 3,
+        "complexity": 3
+      },
+      "notes": "郵件為 Creato 促銷文案，但官網核實截止日、賽期與獎項。報名表：中學組 Google Form（見郵件）。",
       "total_recommend": 10,
       "upcoming": true
     },
@@ -583,6 +556,33 @@
       "upcoming": true
     },
     {
+      "id": "cosmetic-formulation-2026-27",
+      "name": "港澳中學化妝品配方比賽 2026/27",
+      "name_en": "HK-Macau Secondary School Cosmetic Formulation Competition 2026/27",
+      "domain": "Chemistry / STEM",
+      "event_dates": "正式比賽日見主辦更新",
+      "deadline": "2026-10-23",
+      "organizer": "香港城市大學 × 香港化粧品同業協會 (CPAHK)",
+      "eligibility": "港澳中學生",
+      "summary": "隊伍自行設計化妝品配方，使用大會提供原料研發並角逐獎項。化學／實驗取向。",
+      "official_link": "https://www.cityu.edu.hk/chem/cosmetic/",
+      "source": {
+        "subject": "Fwd: Join Us for the Hong Kong-Macau Secondary School Cosmetic Formulation Competition 2026/27!",
+        "date": "2026-10-05",
+        "thread_id": "1a10981be4d345f6",
+        "message_id": "1a10981be4d345f6"
+      },
+      "scores": {
+        "organizer_scale": 4,
+        "awards": 3,
+        "recognition": 3,
+        "complexity": 3
+      },
+      "notes": "截止 2026-10-23。聯繫 Cosmetic.Competition@cityu.edu.hk 報名表 https://docs.google.com/forms/d/e/1FAIpQLSdEi6rkm3wMJZyyMP4l3_CGhGrZMbX6E-Dm6RHhunjQHa9tVQ/viewform ；截止 2026-10-23。",
+      "total_recommend": 10,
+      "upcoming": true
+    },
+    {
       "id": "lions-ai-challenge",
       "name": "獅子會全港學界 AI 挑戰賽",
       "name_en": "Lions Clubs Territory-wide AI Challenge",
@@ -606,6 +606,33 @@
         "complexity": 3
       },
       "notes": "截止日郵件未寫清。 現有連結為啟動禮／說明會回條（2026-10-17）；比賽本體報名截止未在郵件列明。",
+      "total_recommend": 10,
+      "upcoming": true
+    },
+    {
+      "id": "ai-travel-china-video",
+      "name": "第一屆全港校園電視台「AI帶你遊中國」短視頻大比拼",
+      "name_en": "AI Takes You Across China – Campus TV Short Video Contest",
+      "domain": "AI / Media / Citizenship",
+      "event_dates": "簡介會 2026-10-12",
+      "deadline": "2026-11-13",
+      "organizer": "（HKACE 支持轉發）",
+      "eligibility": "全港中小學；每隊 1–5 學生 + 1–4 指導老師",
+      "summary": "用 AI 生成短片「遊中國」；金獎 HK$10,000。影片提交另截止 2026-12-31。",
+      "official_link": null,
+      "source": {
+        "subject": "Fwd: 【第一屆全港校園電視台「AI帶你遊中國」短視頻大比拼】",
+        "date": "2026-10-09",
+        "thread_id": "1a11df82abdad4d2",
+        "message_id": "1a11df82abdad4d2"
+      },
+      "scores": {
+        "organizer_scale": 3,
+        "awards": 4,
+        "recognition": 3,
+        "complexity": 2
+      },
+      "notes": "報名期至 2026-11-13；影片提交截止 2026-12-31。官方 URL 僅見附件圖片／電話 2881 3113，正文無網址。",
       "total_recommend": 10,
       "upcoming": true
     },
