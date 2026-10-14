@@ -150,7 +150,7 @@ footer { text-align:center; color:var(--muted); font-size:.75rem; padding:0 1rem
 <body>
 <header>
   <h1>學生比賽／活動搜尋 <span class="badge">本機草稿</span></h1>
-  <p>由學校 Gmail（2025-09-01 起）整理 · 評分見 RUBRIC · as of 2026-10-11 HKT</p>
+  <p>由學校 Gmail（2025-09-01 起）整理 · 評分見 RUBRIC · as of 2026-10-14</p>
 </header>
 
 <div class="controls">
@@ -203,13 +203,13 @@ footer { text-align:center; color:var(--muted); font-size:.75rem; padding:0 1rem
 <script>
 const DATA = {
   "meta": {
-    "generated_at": "2026-10-12T12:05:00+08:00",
+    "generated_at": "2026-10-14T12:05:00+08:00",
     "gmail_account_observed": "tmchan@skhbbss.edu.hk",
-    "search_window": "after:2026/10/10 (daily scan; baseline catalogue after:2025/09/01)",
-    "as_of": "2026-10-12",
-    "event_count": 41,
+    "search_window": "after:2026/10/12 (daily scan; baseline catalogue after:2025/09/01)",
+    "as_of": "2026-10-14",
+    "event_count": 45,
     "rubric_note": "total_recommend = organizer_scale + awards + recognition (complexity excluded)",
-    "scan_notes": "Daily routine 2026-10-12: Gmail confirmed tmchan@skhbbss.edu.hk. Reviewed ~13 threads in after:2026/10/10 keyword window + newer_than:3d. NEW: starlux-cup-ai-aviation-2026 (Creato 星宇盃；截止 2026-10-31). Excluded: FLL teacher workshop (Trumptech marketing, no HK student deadline in email); AI Go! 校企同行 (school AI Lab program); 幸福校園嘉許計劃 (school award scheme); STEM kit aircraft program (commercial curriculum); Wayground marketing; teacher PD / lectures / book talks. No material updates to existing 40 events.",
+    "scan_notes": "Daily routine 2026-10-14: Gmail confirmed tmchan@skhbbss.edu.hk. Reviewed ~26 threads after:2026/10/12 keyword window. NEW: hkcert-ctf-2026 (deadline 2026-10-20), yesican-scholarship-16 (deadline 2026-10-31), hk-greenmech-2026-27 (reg deadline 2026-11-20), sca-smart-consumer-4 (智惜碳 school reg 2026-11-27). UPDATED: r4m-2027 event_dates→2027-05-22. Excluded: CLP Education Fund vendor pitch (school grant, not student contest); teacher AI workshops (JC EduElevate, Trumptech Plan4Teach, Sayo, 教育評議會 PD); FLL teacher promo; AI Go! school program; Wayground/Quizizz marketing; CEATE teacher showcase; green building talk; news museum lecture; micro-learning marketing.",
     "enrichment": {
       "enriched_at": "2026-10-11T17:20:00+08:00",
       "links_filled": 25,
@@ -808,7 +808,7 @@ const DATA = {
         "recognition": 3,
         "complexity": 3
       },
-      "notes": "截止日郵件未寫清。 現有連結為啟動禮／說明會回條（2026-10-17）；比賽本體報名截止未在郵件列明。",
+      "notes": "截止日郵件未寫清。 現有連結為啟動禮／說明會回條（2026-10-17）；比賽本體報名截止未在郵件列明。 Daily scan 2026-10-14：再收到啟動禮邀請（10-17）；比賽本體報名連結／截止仍未見公開頁。",
       "total_recommend": 10,
       "upcoming": true
     },
@@ -1195,9 +1195,9 @@ const DATA = {
       "name": "2027 香港 R4M 機械人任務賽",
       "name_en": "2027 Hong Kong R4M Robot Mission Contest",
       "domain": "Robotics",
-      "event_dates": "2027",
+      "event_dates": "2027-05-22（星期六）09:00–18:00；地點待定",
       "deadline": null,
-      "organizer": "日常教育等",
+      "organizer": "日常教育（Eduperience）／Babyboom；世界機關王協會相關香港區選拔",
       "eligibility": "學校隊伍",
       "summary": "香港 R4M 機械人任務賽。",
       "official_link": "https://eduperience.org/hk-r4m-2027/",
@@ -1213,7 +1213,7 @@ const DATA = {
         "recognition": 2,
         "complexity": 3
       },
-      "notes": "日常教育官網頁未在公開摘要列明 2027 屆報名截止；郵件為 Mailchimp 追蹤連結。比賽日期約 2027-05（見官網）。",
+      "notes": "官網確認比賽日期 2027-05-22；2027 屆報名截止仍未在公開頁列明。幼稚園至初中；優勝隊（幼兒組除外）可獲世界機關王大賽資格。Daily scan 2026-10-14 自 Babyboom／HKFYG 轉發郵件再次核對。",
       "total_recommend": 7,
       "upcoming": true
     },
@@ -1323,6 +1323,114 @@ const DATA = {
       },
       "notes": "報名截止 2026-11-02；作品提交 2026-12-04。郵件僅有電話／二維碼，無文字 URL。",
       "total_recommend": 6,
+      "upcoming": true
+    },
+    {
+      "id": "hkcert-ctf-2026",
+      "name": "香港網安奪旗賽 2026（HKCERT CTF）",
+      "name_en": "HKCERT Capture the Flag Challenge 2026",
+      "domain": "Computer Science / Cybersecurity",
+      "event_dates": "初賽 2026-11-06–07（24 小時網上）；決賽 2027-01-07（會展實體）；賽前工作坊 2026-10-10、2026-10-24",
+      "deadline": "2026-10-20",
+      "organizer": "香港電腦保安事故協調中心 (HKCERT)、香港生產力促進局 (HKPC)、數字政策辦公室 (DPO)；HKACE 支持轉發",
+      "eligibility": "中學組：同校學生，由老師報名，每隊通常 1–4 人；另設大專／公開／國際組",
+      "summary": "第七屆大型網絡安全奪旗賽。初賽以遊戲化任務形式線上進行，首 10 隊晉身決賽；題目涵蓋二進制漏洞、密碼學、取證、逆向、Web 等。",
+      "official_link": "https://ctf.hkcert.org/",
+      "source": {
+        "subject": "Fwd: HKACE Supporting: HKCERT Capture the Flag Challenge 2026",
+        "date": "2026-10-14",
+        "thread_id": "1a137bb9cc7a56d5",
+        "message_id": "1a137bb9cc7a56d5"
+      },
+      "scores": {
+        "organizer_scale": 5,
+        "awards": 3,
+        "recognition": 4,
+        "complexity": 5
+      },
+      "notes": "報名截止 2026-10-20（https://forms.hkcert.org/hkcertctf2026）；更改資料須於 2026-10-31 前電郵。免費參賽。",
+      "total_recommend": 12,
+      "upcoming": true
+    },
+    {
+      "id": "yesican-scholarship-16",
+      "name": "第十六屆「原來我得㗎」美國中學交流計劃獎學金",
+      "name_en": "16th “Yes I Can” US High School Exchange Scholarship",
+      "domain": "Scholarship / Exchange",
+      "event_dates": "解說會及筆試 2026-11-07 13:00–17:30（觀塘基督教家庭服務中心）",
+      "deadline": "2026-10-31",
+      "organizer": "「我都得」教育基金（Yes I Can）",
+      "eligibility": "中三至中六、家庭經濟困難學生；公開組約 5 個名額；特別考慮成績非尖子但具夢想的基層學生",
+      "summary": "一年美國中學交流獎學金，涵蓋來回機票、住宿、膳食、學費、保險及生活津貼（約港幣 14.1 萬）。申請後須親身出席解說會及筆試，並至少一位家長／監護人同行解說會。",
+      "official_link": "https://www.yesican.org.hk/",
+      "source": {
+        "subject": "Fwd: 「原來我得㗎」第十六屆獎學金 現已接受報名",
+        "date": "2026-10-14",
+        "thread_id": "1a13839f239bb0bf",
+        "message_id": "1a13839f239bb0bf"
+      },
+      "scores": {
+        "organizer_scale": 3,
+        "awards": 5,
+        "recognition": 3,
+        "complexity": 2
+      },
+      "notes": "官網申請頁下載表格：https://www.yesican.org.hk/ ；最新消息確認截止 2026-10-31。",
+      "total_recommend": 11,
+      "upcoming": true
+    },
+    {
+      "id": "hk-greenmech-2026-27",
+      "name": "香港機關王競賽 2026/27",
+      "name_en": "Hong Kong GreenMech Contest 2026/27",
+      "domain": "STEM / Robotics / Green Energy",
+      "event_dates": "積木創客盃 2027-05-08；機關整合賽 2027-05-15；組件訂購截止 2026-11-04；體驗日 2026-10-17",
+      "deadline": "2026-11-20",
+      "organizer": "香港青年協會；支持：Babyboom Learning、Gigo 智高；創新科技署贊助",
+      "eligibility": "中小學及教育中心學生隊伍（積木創客盃／機關整合賽基礎組／進階組）",
+      "summary": "動手設計與搭建機關組件的 STEAM 賽事，揉合科學原理、再生能源與機械設計；優勝隊可代表香港參加世界機關王大賽。",
+      "official_link": "https://ce.hkfyg.org.hk/teachers-zone/competition/hk_greenmech/",
+      "source": {
+        "subject": "Fwd: 【邀請函】香港機關王競賽 2026/27 及 香港R4M 機械人任務賽",
+        "date": "2026-10-13",
+        "thread_id": "1a133d594eb49aec",
+        "message_id": "1a133d594eb49aec"
+      },
+      "scores": {
+        "organizer_scale": 4,
+        "awards": 3,
+        "recognition": 4,
+        "complexity": 3
+      },
+      "notes": "官網重要日子表：報名截止 2026-11-20；組件訂購截止 2026-11-04。查詢 greenmech@hkfyg.org.hk。",
+      "total_recommend": 11,
+      "upcoming": true
+    },
+    {
+      "id": "sca-smart-consumer-4",
+      "name": "第四屆「智醒消費學堂」（消委會 × 教育局）",
+      "name_en": "4th Smart Consumer Academy (Consumer Council × EDB)",
+      "domain": "Consumer Education / Civic",
+      "event_dates": "「消費‧智專研」計劃書截止 2026-11-13；「消費‧智惜碳」網上問答約 2027-04；頒獎約 2027-07",
+      "deadline": "2026-11-27",
+      "organizer": "消費者委員會 × 教育局；約 30 個協辦／支持機構；數字政策辦公室 IT 創新實驗室轉發",
+      "eligibility": "全港中學生（初級組中一至中三／高級組中四至中六）；以學校名義報名",
+      "summary": "三大主題：理性消費、可持續消費與綠色生活、消費與社區關懷。包括「消費‧智專研」專題研習、「消費‧智惜碳」網上問答及「消費‧智傳人」大使計劃；設獎學金與獎座。",
+      "official_link": "https://www.consumer.org.hk/sca",
+      "source": {
+        "subject": "中學生消費者教育計劃 － 第四屆「智醒消費學堂」",
+        "date": "2026-10-14",
+        "thread_id": "1a1385aa276f47e8",
+        "message_id": "1a1385aa276f47e8"
+      },
+      "scores": {
+        "organizer_scale": 5,
+        "awards": 4,
+        "recognition": 4,
+        "complexity": 2
+      },
+      "notes": "郵件列「智專研／智傳人」學校報名截止 2026-10-09（已過）；「智惜碳」學校報名截止 2026-11-27。官網仍列智專研計劃書 2026-11-13。EDB 通函第 128/2026 號。",
+      "total_recommend": 13,
       "upcoming": true
     }
   ]

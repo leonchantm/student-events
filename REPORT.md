@@ -1,13 +1,18 @@
 # 學生比賽／活動中期清單（Gmail 掃描）
 
-- **掃描日期：** 2026-10-12（Asia/Hong_Kong）— Daily student events Gmail scan
-- **上次發佈／as_of：** 2026-10-11 → 本次更新至 2026-10-12
+- **掃描日期：** 2026-10-14（Asia/Hong_Kong）— Daily student events Gmail scan
+- **上次發佈／as_of：** 2026-10-12 → 本次更新至 2026-10-14
 - **Gmail 帳戶：** tmchan@skhbbss.edu.hk
-- **本次搜尋：** `after:2026/10/10` + `newer_than:3d`（比賽／競賽／報名／邀請等關鍵字）
-- **收錄活動數：** 41（+1 new）
-- **變更：** 新增「全港校際 AI 航空比賽 2026 - 星宇盃」（截止 2026-10-31；[官網](https://www.creatogether.app/starlux-cup-2026)；分數 3/4/3/3，total_recommend=10）
-- **排除（本次視窗）：** FLL 老師工作坊推廣、AI Go! 校企同行計劃、幸福校園嘉許計劃、商業 STEM 課程推銷、教學工具／講座／書展類郵件
-- **GitHub Pages：** 已推至 leonchantm/student-events
+- **本次搜尋：** `after:2026/10/12` + 比賽／競賽／報名／邀請等關鍵字（約 26 封線程）
+- **收錄活動數：** 45（+4 new；1 material update）
+- **變更：**
+  - 新增「香港網安奪旗賽 2026（HKCERT CTF）」（截止 2026-10-20；[官網](https://ctf.hkcert.org/)；分數 5/3/4/5，total_recommend=12）
+  - 新增「第十六屆原來我得㗎美國中學交流獎學金」（截止 2026-10-31；[官網](https://www.yesican.org.hk/)；分數 3/5/3/2，total_recommend=11）
+  - 新增「香港機關王競賽 2026/27」（報名截止 2026-11-20；[官網](https://ce.hkfyg.org.hk/teachers-zone/competition/hk_greenmech/)；分數 4/3/4/3，total_recommend=11）
+  - 新增「第四屆智醒消費學堂」（智惜碳學校報名截止 2026-11-27；[官網](https://www.consumer.org.hk/sca)；分數 5/4/4/2，total_recommend=13）
+  - 更新 r4m-2027 比賽日期為 2027-05-22
+- **排除（本次視窗）：** 中電教育基金外判推銷、教師 AI 工作坊／證書課程、FLL 老師推廣、AI Go! 校企計劃、教學工具／講座／書展類郵件
+- **GitHub Pages：** 待推至 leonchantm/student-events
 
 ## 評分摘要
 
@@ -15,7 +20,8 @@
 
 ## 歷史紀錄
 
-以下保留 2026-10-10／10-11 初掃與 enrichment 說明。
+以下保留較早掃描說明。
+
 
 ## Enrichment（2026-10-11）
 
