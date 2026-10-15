@@ -1,18 +1,16 @@
 # 學生比賽／活動中期清單（Gmail 掃描）
 
-- **掃描日期：** 2026-10-14（Asia/Hong_Kong）— Daily student events Gmail scan
-- **上次發佈／as_of：** 2026-10-12 → 本次更新至 2026-10-14
+- **掃描日期：** 2026-10-15（Asia/Hong_Kong）— Daily student events Gmail scan
+- **上次發佈／as_of：** 2026-10-14 → 本次更新至 2026-10-15
 - **Gmail 帳戶：** tmchan@skhbbss.edu.hk
-- **本次搜尋：** `after:2026/10/12` + 比賽／競賽／報名／邀請等關鍵字（約 26 封線程）
-- **收錄活動數：** 45（+4 new；1 material update）
+- **本次搜尋：** `after:2026/10/14` + 比賽／競賽／報名／邀請等關鍵字（約 18 封線程；另以 `after:2026/10/13` contest 關鍵字覆核）
+- **收錄活動數：** 47（+2 new；1 material update）
 - **變更：**
-  - 新增「香港網安奪旗賽 2026（HKCERT CTF）」（截止 2026-10-20；[官網](https://ctf.hkcert.org/)；分數 5/3/4/5，total_recommend=12）
-  - 新增「第十六屆原來我得㗎美國中學交流獎學金」（截止 2026-10-31；[官網](https://www.yesican.org.hk/)；分數 3/5/3/2，total_recommend=11）
-  - 新增「香港機關王競賽 2026/27」（報名截止 2026-11-20；[官網](https://ce.hkfyg.org.hk/teachers-zone/competition/hk_greenmech/)；分數 4/3/4/3，total_recommend=11）
-  - 新增「第四屆智醒消費學堂」（智惜碳學校報名截止 2026-11-27；[官網](https://www.consumer.org.hk/sca)；分數 5/4/4/2，total_recommend=13）
-  - 更新 r4m-2027 比賽日期為 2027-05-22
-- **排除（本次視窗）：** 中電教育基金外判推銷、教師 AI 工作坊／證書課程、FLL 老師推廣、AI Go! 校企計劃、教學工具／講座／書展類郵件
-- **GitHub Pages：** 待推至 leonchantm/student-events
+  - 新增「創藝傳承・放飛夢想」國際「月球科研站」設備創作比賽（截止 2026-10-30；[報名表](https://forms.gle/stYh7taPDxjUQeb27)；分數 5/3/4/4，total_recommend=12）
+  - 新增「香港電台《大自然知識王》節目錄影學生招募」（截止 2026-10-30；[報名表](https://forms.cloud.microsoft.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAYTa0UJUQkM3VDNRU0o2QkhLWkFXNVk5VENERE82My4u)；分數 5/2/4/2，total_recommend=11）
+  - 更新 ai-eng-pioneer-2027：香港創科高峰會決賽日 → 2027-04-10
+- **排除（本次視窗）：** FEHD 衞生外展、樹木保育工作坊、KPGE 法證資優課程／營隊推廣、培進 DSE 模擬試推銷、教師 AI／PD 工作坊（JC EduElevate、Trumptech、Sayo、LivingWorks）、PISA 教師研討、Edcosys 月球車推銷；航天築夢／YMCA／HKCERT／YesICan／智醒消費學堂等已收錄項目之提醒郵件（無實質變更）
+- **GitHub Pages：** 已推至 leonchantm/student-events
 
 ## 評分摘要
 
