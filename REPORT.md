@@ -1,15 +1,15 @@
 # 學生比賽／活動中期清單（Gmail 掃描）
 
-- **掃描日期：** 2026-10-15（Asia/Hong_Kong）— Daily student events Gmail scan
-- **上次發佈／as_of：** 2026-10-14 → 本次更新至 2026-10-15
+- **掃描日期：** 2026-10-16（Asia/Hong_Kong）— Daily student events Gmail scan
+- **上次發佈／as_of：** 2026-10-15 → 本次更新至 2026-10-16
 - **Gmail 帳戶：** tmchan@skhbbss.edu.hk
-- **本次搜尋：** `after:2026/10/14` + 比賽／競賽／報名／邀請等關鍵字（約 18 封線程；另以 `after:2026/10/13` contest 關鍵字覆核）
-- **收錄活動數：** 47（+2 new；1 material update）
+- **本次搜尋：** `after:2026/10/14` + 比賽／競賽／報名等關鍵字（約 27 封線程；另以 `after:2026/10/15` contest 關鍵字覆核約 15 封）
+- **收錄活動數：** 50（+3 new；0 material updates）
 - **變更：**
-  - 新增「創藝傳承・放飛夢想」國際「月球科研站」設備創作比賽（截止 2026-10-30；[報名表](https://forms.gle/stYh7taPDxjUQeb27)；分數 5/3/4/4，total_recommend=12）
-  - 新增「香港電台《大自然知識王》節目錄影學生招募」（截止 2026-10-30；[報名表](https://forms.cloud.microsoft.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAYTa0UJUQkM3VDNRU0o2QkhLWkFXNVk5VENERE82My4u)；分數 5/2/4/2，total_recommend=11）
-  - 更新 ai-eng-pioneer-2027：香港創科高峰會決賽日 → 2027-04-10
-- **排除（本次視窗）：** FEHD 衞生外展、樹木保育工作坊、KPGE 法證資優課程／營隊推廣、培進 DSE 模擬試推銷、教師 AI／PD 工作坊（JC EduElevate、Trumptech、Sayo、LivingWorks）、PISA 教師研討、Edcosys 月球車推銷；航天築夢／YMCA／HKCERT／YesICan／智醒消費學堂等已收錄項目之提醒郵件（無實質變更）
+  - 新增 2026-2027「氫建未來．小紅花 AI 向善挑戰賽」（截止 2026-11-06；[計劃網頁](https://cn.changingyounglives.org.hk/service/steam/)；分數 4/3/3/3，total_recommend=10）
+  - 新增 學友社「傑出中學生領袖選舉」2026-2027（截止 2026-10-20；[官網](https://www.osl.org.hk/)；分數 4/4/4/4，total_recommend=12）
+  - 新增 FTF 青少年無人機大賽（全國賽）香港區選拔賽（截止 2026-11-05；賽日 2026-11-22；[協會網](http://www.hkdronetechnology.com)；分數 4/3/3/4，total_recommend=10）
+- **排除（本次視窗）：** EDB/HKU 教師 EMI 工作坊、AAS 暑期遊學推廣、中大物理科普講座、綠惜地球十周年通訊、FEHD 衞生外展、樹木保育工作坊、KPGE 法證資優課程、培進 DSE 模擬試推銷、教師 AI／PD（JC EduElevate、Trumptech、LivingWorks）、PISA 教師研討、城大 AI Innovators Summit 提醒（ai-eng-pioneer-2027 已於 10-15 更新）；YMCA／航天築夢／RTHK／ILRS 等已收錄項目之提醒郵件（無實質變更）
 - **GitHub Pages：** 已推至 leonchantm/student-events
 
 ## 評分摘要
