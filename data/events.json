@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-10-16T12:15:00+08:00",
+    "generated_at": "2026-10-19T12:10:00+08:00",
     "gmail_account_observed": "tmchan@skhbbss.edu.hk",
-    "search_window": "after:2026/10/14–15 (daily scan; after:2026/10/15 contest keywords)",
-    "as_of": "2026-10-16",
-    "event_count": 50,
+    "search_window": "after:2026/10/16 (primary contest keywords + full inbox); after:2026/10/15 contest keywords (wider)",
+    "as_of": "2026-10-19",
+    "event_count": 53,
     "rubric_note": "total_recommend = organizer_scale + awards + recognition (complexity excluded)",
-    "scan_notes": "Daily routine 2026-10-16: Gmail tmchan@skhbbss.edu.hk. Reviewed threads after:2026/10/14 keyword window (~27) and after:2026/10/15 contest pass (~15). NEW: cylf-ai-for-good-2026-27 (deadline 2026-11-06), hyc-osl-2026-27 (deadline 2026-10-20), ftf-drone-hk-2026 (deadline 2026-11-05; event 2026-11-22). No material updates to existing catalogue entries. Excluded: EDB/HKU teacher EMI workshops; AAS Summer Study Tours (commercial travel); CUHK physics public lecture; Green Earth anniversary newsletter; FEHD hygiene outreach; CarbonCare tree workshop; KPGE forensic enrichment; 培進 DSE mock sales; teacher AI/PD (JC EduElevate, Trumptech, LivingWorks); PISA teacher seminar; CityU AI Innovators Summit reminder (ai-eng-pioneer-2027 already updated 2026-10-15); YMCA/space-ai-dream/RTHK/ILRS reminders already catalogued.",
+    "scan_notes": "Daily routine 2026-10-19: Gmail tmchan@skhbbss.edu.hk. Reviewed after:2026/10/16 contest-keyword threads (~11) and full after:2026/10/16 inbox (~18), plus after:2026/10/15 contest pass (~24). NEW: iysec-2027 (deadline null; teacher briefing 2026-10-22; official https://iysea.org/iysec/), crotc-tribute-2026 (deadline 2026-11-20; https://www.crotc.org.hk/awardthisyear.html), eduhk-hksar30-slogan-2026 (deadline 2026-11-20; EdUHK Google Form). No material updates to existing catalogue entries. Excluded: Hello Scientists lecture confirmation (ASHK); Coursera/Synology/HKAILAB Apollo commercial; HKEdCity teacher AI pedagogy seminar; PolyU LSGS heritage tour; EDB/HKU teacher workshops; AAS study tours; RISC-V HK Day; CYLF/HYC OSL/FTF/CityU AI Summit/YMCA/RTHK/ILRS/space-ai reminders already catalogued.",
     "enrichment": {
       "enriched_at": "2026-10-11T17:20:00+08:00",
       "links_filled": 25,
@@ -178,33 +178,6 @@
       "upcoming": true
     },
     {
-      "id": "hkcert-ctf-2026",
-      "name": "香港網安奪旗賽 2026（HKCERT CTF）",
-      "name_en": "HKCERT Capture the Flag Challenge 2026",
-      "domain": "Computer Science / Cybersecurity",
-      "event_dates": "初賽 2026-11-06–07（24 小時網上）；決賽 2027-01-07（會展實體）；賽前工作坊 2026-10-10、2026-10-24",
-      "deadline": "2026-10-20",
-      "organizer": "香港電腦保安事故協調中心 (HKCERT)、香港生產力促進局 (HKPC)、數字政策辦公室 (DPO)；HKACE 支持轉發",
-      "eligibility": "中學組：同校學生，由老師報名，每隊通常 1–4 人；另設大專／公開／國際組",
-      "summary": "第七屆大型網絡安全奪旗賽。初賽以遊戲化任務形式線上進行，首 10 隊晉身決賽；題目涵蓋二進制漏洞、密碼學、取證、逆向、Web 等。",
-      "official_link": "https://ctf.hkcert.org/",
-      "source": {
-        "subject": "Fwd: HKACE Supporting: HKCERT Capture the Flag Challenge 2026",
-        "date": "2026-10-14",
-        "thread_id": "1a137bb9cc7a56d5",
-        "message_id": "1a137bb9cc7a56d5"
-      },
-      "scores": {
-        "organizer_scale": 5,
-        "awards": 3,
-        "recognition": 4,
-        "complexity": 5
-      },
-      "notes": "報名截止 2026-10-20（https://forms.hkcert.org/hkcertctf2026）；更改資料須於 2026-10-31 前電郵。免費參賽。",
-      "total_recommend": 12,
-      "upcoming": true
-    },
-    {
       "id": "hyc-osl-2026-27",
       "name": "學友社「傑出中學生領袖選舉」2026-2027",
       "name_en": "Outstanding Student Leaders Award (OSL) 2026-2027 — Hok Yau Club",
@@ -228,6 +201,33 @@
         "complexity": 4
       },
       "notes": "截止 2026-10-20（郵戳為準）或親臨總社；報名表 http://hyc.org.hk/osl/ ；提名專頁 https://www.osl.org.hk/最新消息/2627-提名 。查詢 2397-6116 / osl@hyc.org.hk。",
+      "total_recommend": 12,
+      "upcoming": true
+    },
+    {
+      "id": "hkcert-ctf-2026",
+      "name": "香港網安奪旗賽 2026（HKCERT CTF）",
+      "name_en": "HKCERT Capture the Flag Challenge 2026",
+      "domain": "Computer Science / Cybersecurity",
+      "event_dates": "初賽 2026-11-06–07（24 小時網上）；決賽 2027-01-07（會展實體）；賽前工作坊 2026-10-10、2026-10-24",
+      "deadline": "2026-10-20",
+      "organizer": "香港電腦保安事故協調中心 (HKCERT)、香港生產力促進局 (HKPC)、數字政策辦公室 (DPO)；HKACE 支持轉發",
+      "eligibility": "中學組：同校學生，由老師報名，每隊通常 1–4 人；另設大專／公開／國際組",
+      "summary": "第七屆大型網絡安全奪旗賽。初賽以遊戲化任務形式線上進行，首 10 隊晉身決賽；題目涵蓋二進制漏洞、密碼學、取證、逆向、Web 等。",
+      "official_link": "https://ctf.hkcert.org/",
+      "source": {
+        "subject": "Fwd: HKACE Supporting: HKCERT Capture the Flag Challenge 2026",
+        "date": "2026-10-14",
+        "thread_id": "1a137bb9cc7a56d5",
+        "message_id": "1a137bb9cc7a56d5"
+      },
+      "scores": {
+        "organizer_scale": 5,
+        "awards": 3,
+        "recognition": 4,
+        "complexity": 5
+      },
+      "notes": "報名截止 2026-10-20（https://forms.hkcert.org/hkcertctf2026）；更改資料須於 2026-10-31 前電郵。免費參賽。",
       "total_recommend": 12,
       "upcoming": true
     },
@@ -363,6 +363,33 @@
         "complexity": 4
       },
       "notes": "郵件無公開官網 URL；報名回執 inquiry@ycltesthk.com；詳情在附件 PDF。截止日未在正文列明。",
+      "total_recommend": 12,
+      "upcoming": true
+    },
+    {
+      "id": "iysec-2027",
+      "name": "第九屆「國際青少年創科教育大賽」(IYSEC) 2027",
+      "name_en": "9th International Youth STEAM Education Competition (IYSEC) 2027",
+      "domain": "STEAM / AI / Robotics / Coding / Aerospace",
+      "event_dates": "教師網上簡介會 2026-10-22；2027 年賽事詳情待簡介會後公布（五大主題共約 15 項競賽；2027 增設倫敦賽區）",
+      "deadline": null,
+      "organizer": "國際青少年創科教育協會 (IYSEA)；聯同理大 SPEED STEM EdTech Lab、Techbob Academy、PRISTER Academy、Big Dipper Studio 等",
+      "eligibility": "全港幼稚園、小學及中學學生（各分項規則待公布）",
+      "summary": "香港大型學界創科及人工智能比賽之一。2027 屆主題「智聯家國三十載，智啟未來十五五」，涵蓋機器人與智能終端、低空經濟、編程、人工智能、中國航天等五大主題；另設全能學校／學生大獎及卓越教師大獎。現階段郵件為教師簡介會邀請，學生報名截止尚未公布。",
+      "official_link": "https://iysea.org/iysec/",
+      "source": {
+        "subject": "Fwd: 【邀請函】第九屆「國際青少年創科教育大賽(IYSEC) 2027」",
+        "date": "2026-10-16",
+        "thread_id": "1a143b0eabdc7ccc",
+        "message_id": "1a143b0eabdc7ccc"
+      },
+      "scores": {
+        "organizer_scale": 4,
+        "awards": 4,
+        "recognition": 4,
+        "complexity": 4
+      },
+      "notes": "官網確認 2027 屆主題及倫敦賽區；規則／報名頁目前仍為 2026 資料，不可套用舊截止日。簡介會報名 https://forms.gle/GyvX79oKKfcDRQcz6（教師用）。聯絡 info@iysea.org / 97161813。",
       "total_recommend": 12,
       "upcoming": true
     },
@@ -637,33 +664,6 @@
       "upcoming": true
     },
     {
-      "id": "starlux-cup-ai-aviation-2026",
-      "name": "全港校際 AI 航空比賽 2026 - 星宇盃",
-      "name_en": "Hong Kong Inter-school AI Aviation Competition 2026 - STARLUX Cup",
-      "domain": "STEM / AI / Aviation",
-      "event_dates": "賽前工作坊 2026-10-24–25（金鐘 HK TECH 300）；模擬飛行挑戰賽 2026-11-22；AI 航空航線規劃挑戰賽 2026-11-29（地點：香港聖公會聖瑪利堂莫慶堯中學）",
-      "deadline": "2026-10-31",
-      "organizer": "Creato × 香港電腦教育學會 (HKACE)；冠名贊助：星宇航空；支持：HK TECH 300、HKAI Lab",
-      "eligibility": "中學初中組（中一至中三）、高中組（中四至中六）；每隊 2–4 人；費用每隊 HK$3,000（兩隊優惠 HK$4,800）；適用「智啟學教」等撥款",
-      "summary": "第二屆全港校際 AI 航空比賽。學生以飛行模擬器完成起降與航行任務，並用 AI Flight Planning 工具（Alto）按航點、氣象與燃油限制規劃航線，結合航空英語（ICAO 無線電用語）與正向心理學工作坊。中學冠軍可獲星宇航空香港來回台北機票。",
-      "official_link": "https://www.creatogether.app/starlux-cup-2026",
-      "source": {
-        "subject": "Fwd: 【師生同行】從「土炮」模擬器到飛赴台北：老師如何成就學生的機師夢？ ✈️❤️",
-        "date": "2026-10-12",
-        "thread_id": "1a12d6ea456f0337",
-        "message_id": "1a12d6ea456f0337"
-      },
-      "scores": {
-        "organizer_scale": 3,
-        "awards": 4,
-        "recognition": 3,
-        "complexity": 3
-      },
-      "notes": "郵件為 Creato 促銷文案，但官網核實截止日、賽期與獎項。報名表：中學組 Google Form（見郵件）。",
-      "total_recommend": 10,
-      "upcoming": true
-    },
-    {
       "id": "vtc-bim-2026",
       "name": "「組裝」夢家園 – BIM Competition 2026",
       "name_en": "VTC BIM Competition 2026",
@@ -687,6 +687,33 @@
         "complexity": 3
       },
       "notes": "聯繫 ty-cn@vtc.edu.hk 報名截止 2026-10-31（郵件原文）。",
+      "total_recommend": 10,
+      "upcoming": true
+    },
+    {
+      "id": "starlux-cup-ai-aviation-2026",
+      "name": "全港校際 AI 航空比賽 2026 - 星宇盃",
+      "name_en": "Hong Kong Inter-school AI Aviation Competition 2026 - STARLUX Cup",
+      "domain": "STEM / AI / Aviation",
+      "event_dates": "賽前工作坊 2026-10-24–25（金鐘 HK TECH 300）；模擬飛行挑戰賽 2026-11-22；AI 航空航線規劃挑戰賽 2026-11-29（地點：香港聖公會聖瑪利堂莫慶堯中學）",
+      "deadline": "2026-10-31",
+      "organizer": "Creato × 香港電腦教育學會 (HKACE)；冠名贊助：星宇航空；支持：HK TECH 300、HKAI Lab",
+      "eligibility": "中學初中組（中一至中三）、高中組（中四至中六）；每隊 2–4 人；費用每隊 HK$3,000（兩隊優惠 HK$4,800）；適用「智啟學教」等撥款",
+      "summary": "第二屆全港校際 AI 航空比賽。學生以飛行模擬器完成起降與航行任務，並用 AI Flight Planning 工具（Alto）按航點、氣象與燃油限制規劃航線，結合航空英語（ICAO 無線電用語）與正向心理學工作坊。中學冠軍可獲星宇航空香港來回台北機票。",
+      "official_link": "https://www.creatogether.app/starlux-cup-2026",
+      "source": {
+        "subject": "Fwd: 【師生同行】從「土炮」模擬器到飛赴台北：老師如何成就學生的機師夢？ ✈️❤️",
+        "date": "2026-10-12",
+        "thread_id": "1a12d6ea456f0337",
+        "message_id": "1a12d6ea456f0337"
+      },
+      "scores": {
+        "organizer_scale": 3,
+        "awards": 4,
+        "recognition": 3,
+        "complexity": 3
+      },
+      "notes": "郵件為 Creato 促銷文案，但官網核實截止日、賽期與獎項。報名表：中學組 Google Form（見郵件）。",
       "total_recommend": 10,
       "upcoming": true
     },
@@ -745,33 +772,6 @@
       "upcoming": true
     },
     {
-      "id": "ai-travel-china-video",
-      "name": "第一屆全港校園電視台「AI帶你遊中國」短視頻大比拼",
-      "name_en": "AI Takes You Across China – Campus TV Short Video Contest",
-      "domain": "AI / Media / Citizenship",
-      "event_dates": "簡介會 2026-10-12",
-      "deadline": "2026-11-13",
-      "organizer": "（HKACE 支持轉發）",
-      "eligibility": "全港中小學；每隊 1–5 學生 + 1–4 指導老師",
-      "summary": "用 AI 生成短片「遊中國」；金獎 HK$10,000。影片提交另截止 2026-12-31。",
-      "official_link": null,
-      "source": {
-        "subject": "Fwd: 【第一屆全港校園電視台「AI帶你遊中國」短視頻大比拼】",
-        "date": "2026-10-09",
-        "thread_id": "1a11df82abdad4d2",
-        "message_id": "1a11df82abdad4d2"
-      },
-      "scores": {
-        "organizer_scale": 3,
-        "awards": 4,
-        "recognition": 3,
-        "complexity": 2
-      },
-      "notes": "報名期至 2026-11-13；影片提交截止 2026-12-31。官方 URL 僅見附件圖片／電話 2881 3113，正文無網址。",
-      "total_recommend": 10,
-      "upcoming": true
-    },
-    {
       "id": "aiot-model-2026",
       "name": "「三十港章 慧智北都」AIoT 模型設計比賽",
       "name_en": "AIoT Model Design Competition (心繫家國)",
@@ -795,6 +795,33 @@
         "complexity": 4
       },
       "notes": "中學組報名 https://forms.gle/Nn9141schGVXbPH18",
+      "total_recommend": 10,
+      "upcoming": true
+    },
+    {
+      "id": "ai-travel-china-video",
+      "name": "第一屆全港校園電視台「AI帶你遊中國」短視頻大比拼",
+      "name_en": "AI Takes You Across China – Campus TV Short Video Contest",
+      "domain": "AI / Media / Citizenship",
+      "event_dates": "簡介會 2026-10-12",
+      "deadline": "2026-11-13",
+      "organizer": "（HKACE 支持轉發）",
+      "eligibility": "全港中小學；每隊 1–5 學生 + 1–4 指導老師",
+      "summary": "用 AI 生成短片「遊中國」；金獎 HK$10,000。影片提交另截止 2026-12-31。",
+      "official_link": null,
+      "source": {
+        "subject": "Fwd: 【第一屆全港校園電視台「AI帶你遊中國」短視頻大比拼】",
+        "date": "2026-10-09",
+        "thread_id": "1a11df82abdad4d2",
+        "message_id": "1a11df82abdad4d2"
+      },
+      "scores": {
+        "organizer_scale": 3,
+        "awards": 4,
+        "recognition": 3,
+        "complexity": 2
+      },
+      "notes": "報名期至 2026-11-13；影片提交截止 2026-12-31。官方 URL 僅見附件圖片／電話 2881 3113，正文無網址。",
       "total_recommend": 10,
       "upcoming": true
     },
@@ -853,29 +880,29 @@
       "upcoming": true
     },
     {
-      "id": "clp-lowcarbon-invention-4",
-      "name": "第四屆低碳節能發明大賽（中電）",
-      "name_en": "4th CLP Low-Carbon Energy-Saving Invention Contest",
-      "domain": "STEM / Environment / Physics",
+      "id": "mengxi-stem-2026",
+      "name": "「夢溪少年談」國家成就科普計劃 2026 青少年創科實踐挑戰賽",
+      "name_en": "Mengxi Youth STEM Practice Challenge 2026",
+      "domain": "STEM / National Achievement Science",
       "event_dates": null,
       "deadline": null,
-      "organizer": "中電低碳能源教育中心",
-      "eligibility": "中、小學組；每人一件低碳／節能主題發明設計",
-      "summary": "以 STEM 設計低碳發明；冠軍書券及 3D 打印作品，得獎者有機會參觀大亞灣核電站。加入核能元素可獲加分。",
-      "official_link": "https://forms.gle/NbewzJjNHSBuSTFy8",
+      "organizer": "創新科技署贊助相關計劃",
+      "eligibility": "青少年／中學生",
+      "summary": "由創新科技署贊助的國家成就科普計劃下之創科實踐挑戰賽。",
+      "official_link": "https://fnty-mengxi.org.hk/challenge/",
       "source": {
-        "subject": "Fwd: 【把握機會報名】中電低碳能源教育中心 | 第四屆低碳節能發明大賽",
-        "date": "2026-10-10",
-        "thread_id": "1a123b74239ceea0",
-        "message_id": "1a123b74239ceea0"
+        "subject": "Fwd: 誠邀 貴校學生參加由創新科技署贊助之「夢溪少年談」…青少年創科實踐挑戰賽",
+        "date": "2026-09-23",
+        "thread_id": "1a0ccf2b2cf21bfc",
+        "message_id": "1a0ccf2b2cf21bfc"
       },
       "scores": {
         "organizer_scale": 4,
         "awards": 3,
         "recognition": 3,
-        "complexity": 2
+        "complexity": 3
       },
-      "notes": "物理／能源主題相關。 中心總覽 https://linktr.ee/lowcarbonenergy；截止日僅見附件「比賽詳情」PDF，正文未列，保持 null。",
+      "notes": "計劃官網有挑戰賽頁；2026 屆具體報名截止僅見附件章程（郵件正文未列），未核實則保持 null。聯絡 www.fnty.org.hk / 2652 9123。",
       "total_recommend": 10,
       "upcoming": true
     },
@@ -907,29 +934,29 @@
       "upcoming": true
     },
     {
-      "id": "mengxi-stem-2026",
-      "name": "「夢溪少年談」國家成就科普計劃 2026 青少年創科實踐挑戰賽",
-      "name_en": "Mengxi Youth STEM Practice Challenge 2026",
-      "domain": "STEM / National Achievement Science",
+      "id": "clp-lowcarbon-invention-4",
+      "name": "第四屆低碳節能發明大賽（中電）",
+      "name_en": "4th CLP Low-Carbon Energy-Saving Invention Contest",
+      "domain": "STEM / Environment / Physics",
       "event_dates": null,
       "deadline": null,
-      "organizer": "創新科技署贊助相關計劃",
-      "eligibility": "青少年／中學生",
-      "summary": "由創新科技署贊助的國家成就科普計劃下之創科實踐挑戰賽。",
-      "official_link": "https://fnty-mengxi.org.hk/challenge/",
+      "organizer": "中電低碳能源教育中心",
+      "eligibility": "中、小學組；每人一件低碳／節能主題發明設計",
+      "summary": "以 STEM 設計低碳發明；冠軍書券及 3D 打印作品，得獎者有機會參觀大亞灣核電站。加入核能元素可獲加分。",
+      "official_link": "https://forms.gle/NbewzJjNHSBuSTFy8",
       "source": {
-        "subject": "Fwd: 誠邀 貴校學生參加由創新科技署贊助之「夢溪少年談」…青少年創科實踐挑戰賽",
-        "date": "2026-09-23",
-        "thread_id": "1a0ccf2b2cf21bfc",
-        "message_id": "1a0ccf2b2cf21bfc"
+        "subject": "Fwd: 【把握機會報名】中電低碳能源教育中心 | 第四屆低碳節能發明大賽",
+        "date": "2026-10-10",
+        "thread_id": "1a123b74239ceea0",
+        "message_id": "1a123b74239ceea0"
       },
       "scores": {
         "organizer_scale": 4,
         "awards": 3,
         "recognition": 3,
-        "complexity": 3
+        "complexity": 2
       },
-      "notes": "計劃官網有挑戰賽頁；2026 屆具體報名截止僅見附件章程（郵件正文未列），未核實則保持 null。聯絡 www.fnty.org.hk / 2652 9123。",
+      "notes": "物理／能源主題相關。 中心總覽 https://linktr.ee/lowcarbonenergy；截止日僅見附件「比賽詳情」PDF，正文未列，保持 null。",
       "total_recommend": 10,
       "upcoming": true
     },
@@ -1096,6 +1123,60 @@
       "upcoming": true
     },
     {
+      "id": "crotc-tribute-2026",
+      "name": "向老師致敬學生比賽 2026（敬師運動委員會）",
+      "name_en": "Tribute to Teachers Student Competition 2026 (CROTC)",
+      "domain": "Arts / Chinese / Civic / AI Media",
+      "event_dates": "結果約 2027-01 公布；頒獎典禮暨展覽會日期待公布",
+      "deadline": "2026-11-20",
+      "organizer": "敬師運動委員會 (Committee on Respect Our Teachers Campaign, CROTC)",
+      "eligibility": "中學組：中一至中六（WhatsApp 貼圖、中文徵文初中／高中、AI 短片、中文標語）；亦有幼稚園／小學／特殊學校組",
+      "summary": "全港性敬師主題學生創作比賽。中學組含 WhatsApp 貼圖設計、中文徵文、AI 短片創作及中文標語創作；建議校內先選六強再送交。作品截止 2026-11-20 17:00。",
+      "official_link": "https://www.crotc.org.hk/awardthisyear.html",
+      "source": {
+        "subject": "Fwd: [敬師會] 請即參加 「向老師致敬學生比賽 2026」- 中學組",
+        "date": "2026-10-16",
+        "thread_id": "1a14347ac0e18388",
+        "message_id": "1a14347ac0e18388"
+      },
+      "scores": {
+        "organizer_scale": 3,
+        "awards": 3,
+        "recognition": 3,
+        "complexity": 2
+      },
+      "notes": "中學組章程 PDF：https://www.crotc.org.hk/doc/2026_SEC_Competition.pdf ；主站 www.crotc.org.hk。查詢 6707 6665 / crotccom@gmail.com。",
+      "total_recommend": 9,
+      "upcoming": true
+    },
+    {
+      "id": "eduhk-hksar30-slogan-2026",
+      "name": "教育未來・薪火同行—「慶祝香港回歸祖國 30 周年創意口號設計活動」",
+      "name_en": "EdUHK HKSAR 30th Anniversary Creative Slogan Design Activity",
+      "domain": "Civic / National Education / Creative",
+      "event_dates": "嘉許禮暫定 2027-01 下旬",
+      "deadline": "2026-11-20",
+      "organizer": "香港教育大學學校協作及體驗辦公室 (SPFEO, EdUHK)；經聖公會教育服務部轉發",
+      "eligibility": "中學、小學、幼稚園及特殊學校師生；亦歡迎家長及校友參與",
+      "summary": "學校師生創作慶祝回歸 30 周年口號，並於校內大型活動帶領高呼及錄製短片提交。設學校參與證書及踴躍參與獎。另有教大線上謝師卡平台開放至年底。",
+      "official_link": "https://docs.google.com/forms/d/e/1FAIpQLSd_ZwwMF25rvMaBhcq0ivdisheNQ2VRiQVIRg9zVu4tSGvGnA/viewform",
+      "source": {
+        "subject": "Fwd: 轉傳：教育未來・薪火同行—「慶祝香港回歸祖國 30 周年創意口號設計活動」邀請函",
+        "date": "2026-10-16",
+        "thread_id": "1a1435213f9f1c8b",
+        "message_id": "1a1435213f9f1c8b"
+      },
+      "scores": {
+        "organizer_scale": 4,
+        "awards": 2,
+        "recognition": 3,
+        "complexity": 1
+      },
+      "notes": "公開網頁未另見專頁；官方遞交為郵件所列 Google 表單。謝師卡平台 https://ecard-teachersday.eduhk.hk/ 。查詢 spfeo@eduhk.hk。",
+      "total_recommend": 9,
+      "upcoming": true
+    },
+    {
       "id": "esg-business-2026",
       "name": "2026 ESG 商業創意大賽",
       "name_en": "2026 ESG Business Innovation Competition",
@@ -1123,33 +1204,6 @@
       "upcoming": true
     },
     {
-      "id": "chuangxie-cup-2026",
-      "name": "第二十屆「創協盃」創意科技機械人大賽 2026",
-      "name_en": "20th Chuang Xie Cup Creative Tech Robotics Contest 2026",
-      "domain": "Robotics / AI",
-      "event_dates": "港區賽 2026-12-05；創意設計 2026-12-12",
-      "deadline": null,
-      "organizer": "創協盃組委會",
-      "eligibility": "初級組 7–12 歲；高級組 13–19 歲；須有 ≥20 歲教練",
-      "summary": "含軌跡賽、無人機足球、AI 推樽、電子科技創新設計等；部分項目為世界機器人大賽港區選拔。",
-      "official_link": "https://ctea.org.hk/",
-      "source": {
-        "subject": "Fwd: 誠意邀請參加 2026 第二十屆「創協盃」 創意科技機械人大賽",
-        "date": "2026-09-18",
-        "thread_id": "1a0b1fe7f8ac1898",
-        "message_id": "1a0b1fe7f8ac1898"
-      },
-      "scores": {
-        "organizer_scale": 3,
-        "awards": 3,
-        "recognition": 3,
-        "complexity": 4
-      },
-      "notes": "官網有章程／參賽表格；郵件正文未列報名截止日（賽事 12-05／12-06／12-12）。參賽表格 https://ctea.org.hk/index.php/application-form",
-      "total_recommend": 9,
-      "upcoming": true
-    },
-    {
       "id": "dfc-ai-2026-27",
       "name": "2026–27 DFC × AI 創意行動挑戰賽",
       "name_en": "DFC × AI Creative Action Challenge 2026-27",
@@ -1173,6 +1227,33 @@
         "complexity": 3
       },
       "notes": "啟動禮 2026-10-31；比賽報名／提交截止未在邀請信正文列明。聯絡 dfc@gacity.org。",
+      "total_recommend": 9,
+      "upcoming": true
+    },
+    {
+      "id": "chuangxie-cup-2026",
+      "name": "第二十屆「創協盃」創意科技機械人大賽 2026",
+      "name_en": "20th Chuang Xie Cup Creative Tech Robotics Contest 2026",
+      "domain": "Robotics / AI",
+      "event_dates": "港區賽 2026-12-05；創意設計 2026-12-12",
+      "deadline": null,
+      "organizer": "創協盃組委會",
+      "eligibility": "初級組 7–12 歲；高級組 13–19 歲；須有 ≥20 歲教練",
+      "summary": "含軌跡賽、無人機足球、AI 推樽、電子科技創新設計等；部分項目為世界機器人大賽港區選拔。",
+      "official_link": "https://ctea.org.hk/",
+      "source": {
+        "subject": "Fwd: 誠意邀請參加 2026 第二十屆「創協盃」 創意科技機械人大賽",
+        "date": "2026-09-18",
+        "thread_id": "1a0b1fe7f8ac1898",
+        "message_id": "1a0b1fe7f8ac1898"
+      },
+      "scores": {
+        "organizer_scale": 3,
+        "awards": 3,
+        "recognition": 3,
+        "complexity": 4
+      },
+      "notes": "官網有章程／參賽表格；郵件正文未列報名截止日（賽事 12-05／12-06／12-12）。參賽表格 https://ctea.org.hk/index.php/application-form",
       "total_recommend": 9,
       "upcoming": true
     },

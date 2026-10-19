@@ -1,15 +1,15 @@
 # 學生比賽／活動中期清單（Gmail 掃描）
 
-- **掃描日期：** 2026-10-16（Asia/Hong_Kong）— Daily student events Gmail scan
-- **上次發佈／as_of：** 2026-10-15 → 本次更新至 2026-10-16
+- **掃描日期：** 2026-10-19（Asia/Hong_Kong）— Daily student events Gmail scan
+- **上次發佈／as_of：** 2026-10-16 → 本次更新至 2026-10-19
 - **Gmail 帳戶：** tmchan@skhbbss.edu.hk
-- **本次搜尋：** `after:2026/10/14` + 比賽／競賽／報名等關鍵字（約 27 封線程；另以 `after:2026/10/15` contest 關鍵字覆核約 15 封）
-- **收錄活動數：** 50（+3 new；0 material updates）
+- **本次搜尋：** `after:2026/10/16` 比賽／競賽／報名等關鍵字（約 11 封）+ 全日 inbox（約 18 封）；另以 `after:2026/10/15` contest 關鍵字覆核約 24 封
+- **收錄活動數：** 53（+3 new；0 material updates）
 - **變更：**
-  - 新增 2026-2027「氫建未來．小紅花 AI 向善挑戰賽」（截止 2026-11-06；[計劃網頁](https://cn.changingyounglives.org.hk/service/steam/)；分數 4/3/3/3，total_recommend=10）
-  - 新增 學友社「傑出中學生領袖選舉」2026-2027（截止 2026-10-20；[官網](https://www.osl.org.hk/)；分數 4/4/4/4，total_recommend=12）
-  - 新增 FTF 青少年無人機大賽（全國賽）香港區選拔賽（截止 2026-11-05；賽日 2026-11-22；[協會網](http://www.hkdronetechnology.com)；分數 4/3/3/4，total_recommend=10）
-- **排除（本次視窗）：** EDB/HKU 教師 EMI 工作坊、AAS 暑期遊學推廣、中大物理科普講座、綠惜地球十周年通訊、FEHD 衞生外展、樹木保育工作坊、KPGE 法證資優課程、培進 DSE 模擬試推銷、教師 AI／PD（JC EduElevate、Trumptech、LivingWorks）、PISA 教師研討、城大 AI Innovators Summit 提醒（ai-eng-pioneer-2027 已於 10-15 更新）；YMCA／航天築夢／RTHK／ILRS 等已收錄項目之提醒郵件（無實質變更）
+  - 新增 第九屆「國際青少年創科教育大賽」(IYSEC) 2027（截止未公布；教師簡介會 2026-10-22；[IYSEC 官網](https://iysea.org/iysec/)；分數 4/4/4/4，total_recommend=12）
+  - 新增 向老師致敬學生比賽 2026（截止 2026-11-20；[敬師會比賽頁](https://www.crotc.org.hk/awardthisyear.html)；分數 3/3/3/2，total_recommend=9）
+  - 新增 教大「慶祝香港回歸祖國 30 周年創意口號設計活動」（截止 2026-11-20；[報名表單](https://docs.google.com/forms/d/e/1FAIpQLSd_ZwwMF25rvMaBhcq0ivdisheNQ2VRiQVIRg9zVu4tSGvGnA/viewform)；分數 4/2/3/1，total_recommend=9）
+- **排除（本次視窗）：** Hello Scientists 講座確認（非公開報名賽）；Coursera／Synology／HKAILAB Apollo 商業推廣；香港教育城教師 AI 教學法研討；PolyU LSGS 文物導賞；EDB/HKU 教師工作坊；AAS 遊學；RISC-V Hong Kong Day；CYLF／學友社 OSL／FTF／城大 AI Summit／YMCA／RTHK／ILRS／航天築夢等已收錄項目之提醒（無實質變更）
 - **GitHub Pages：** 已推至 leonchantm/student-events
 
 ## 評分摘要
@@ -19,7 +19,6 @@
 ## 歷史紀錄
 
 以下保留較早掃描說明。
-
 
 ## Enrichment（2026-10-11）
 
