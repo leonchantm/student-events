@@ -1,15 +1,13 @@
 # 學生比賽／活動中期清單（Gmail 掃描）
 
-- **掃描日期：** 2026-10-19（Asia/Hong_Kong）— Daily student events Gmail scan
-- **上次發佈／as_of：** 2026-10-16 → 本次更新至 2026-10-19
+- **掃描日期：** 2026-10-20（Asia/Hong_Kong）— Daily student events Gmail scan
+- **上次發佈／as_of：** 2026-10-19 → 本次更新至 2026-10-20
 - **Gmail 帳戶：** tmchan@skhbbss.edu.hk
-- **本次搜尋：** `after:2026/10/16` 比賽／競賽／報名等關鍵字（約 11 封）+ 全日 inbox（約 18 封）；另以 `after:2026/10/15` contest 關鍵字覆核約 24 封
-- **收錄活動數：** 53（+3 new；0 material updates）
+- **本次搜尋：** `after:2026/10/18` 比賽／競賽／報名等關鍵字（約 13 封）+ `after:2026/10/19` inbox（約 19 封）；另以 `after:2026/10/15` contest 關鍵字覆核
+- **收錄活動數：** 53（0 new；1 material update）
 - **變更：**
-  - 新增 第九屆「國際青少年創科教育大賽」(IYSEC) 2027（截止未公布；教師簡介會 2026-10-22；[IYSEC 官網](https://iysea.org/iysec/)；分數 4/4/4/4，total_recommend=12）
-  - 新增 向老師致敬學生比賽 2026（截止 2026-11-20；[敬師會比賽頁](https://www.crotc.org.hk/awardthisyear.html)；分數 3/3/3/2，total_recommend=9）
-  - 新增 教大「慶祝香港回歸祖國 30 周年創意口號設計活動」（截止 2026-11-20；[報名表單](https://docs.google.com/forms/d/e/1FAIpQLSd_ZwwMF25rvMaBhcq0ivdisheNQ2VRiQVIRg9zVu4tSGvGnA/viewform)；分數 4/2/3/1，total_recommend=9）
-- **排除（本次視窗）：** Hello Scientists 講座確認（非公開報名賽）；Coursera／Synology／HKAILAB Apollo 商業推廣；香港教育城教師 AI 教學法研討；PolyU LSGS 文物導賞；EDB/HKU 教師工作坊；AAS 遊學；RISC-V Hong Kong Day；CYLF／學友社 OSL／FTF／城大 AI Summit／YMCA／RTHK／ILRS／航天築夢等已收錄項目之提醒（無實質變更）
+  - 更新 獅子會全港學界 AI 挑戰賽（`lions-ai-challenge`）：補報名截止 **2026-11-17**；官方連結改為 [比賽頁](https://lionsclubs.org.hk/26-27serviceprojects/lions_ai_competition)；更新主辦／資格／賽程；分數 awards 3→4、complexity 3→4，total_recommend **11**（原 10）
+- **排除（本次視窗）：** BIM Competition 提醒（已收錄、無日期變更）；CYLF／EMSD「氫建未來‧小紅花」再轉發（已收錄 `cylf-ai-for-good-2026-27`）；「心事・開拍」提醒（已收錄）；道路安全 STEAM 工作坊通知（比賽截止仍 2027-03-31）；2027 DSE 物理模擬試（商營模擬試，非公開比賽）；FIRST LEGO League／LEGO 商廠教師工作坊；教師 CPD（PISA／教大／NICHE／校園空氣研討）；Hello Scientists 講座確認；研學考察團；Google／IFTTT 推廣
 - **GitHub Pages：** 已推至 leonchantm/student-events
 
 ## 評分摘要
@@ -19,6 +17,10 @@
 ## 歷史紀錄
 
 以下保留較早掃描說明。
+
+## 掃描 2026-10-19
+
+- as_of 2026-10-19；收錄 53（+3：iysec-2027、crotc-tribute-2026、eduhk-hksar30-slogan-2026）；commit 0af7699。
 
 ## Enrichment（2026-10-11）
 
