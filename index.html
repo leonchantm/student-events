@@ -203,13 +203,13 @@ footer { text-align:center; color:var(--muted); font-size:.75rem; padding:0 1rem
 <script>
 const DATA = {
   "meta": {
-    "generated_at": "2026-10-20T12:05:00+08:00",
+    "generated_at": "2026-10-21T12:15:00+08:00",
     "gmail_account_observed": "tmchan@skhbbss.edu.hk",
-    "search_window": "after:2026/10/18 (contest keywords + full inbox); after:2026/10/19 inbox; after:2026/10/15 contest keywords (wider)",
-    "as_of": "2026-10-20",
-    "event_count": 53,
+    "search_window": "after:2026/10/19 contest keywords; after:2026/10/20 in:inbox; after:2026/10/18 contest wider pass",
+    "as_of": "2026-10-21",
+    "event_count": 54,
     "rubric_note": "total_recommend = organizer_scale + awards + recognition (complexity excluded)",
-    "scan_notes": "Daily routine 2026-10-20: Gmail tmchan@skhbbss.edu.hk. Reviewed after:2026/10/18 contest-keyword threads (~13), after:2026/10/19 inbox (~19), and after:2026/10/15 contest pass. MATERIAL UPDATE: lions-ai-challenge — set deadline 2026-11-17; replace briefing Google Form with official competition page; refresh organizer/eligibility/event_dates/summary/scores (awards 3→4, complexity 3→4, total_recommend 10→11). No new events. Excluded: BIM/CYLF/心事・開拍/道路安全 reminders (already catalogued); DSE physics mock (commercial exam); FLL/LEGO vendor teacher workshops; teacher CPD; Hello Scientists confirmation; commercial study tours.",
+    "scan_notes": "Daily routine 2026-10-21: Gmail tmchan@skhbbss.edu.hk. Reviewed after:2026/10/19 contest-keyword threads (~25) and after:2026/10/20 inbox (~38). NEW: hktag-ctf-dev-2026-27 — HKtag 網絡安全開發大賽（開發開源 CTF 平台）；deadline 2026-11-13；official https://events.hk-tag.org/events/；報名 https://forms.gle/SEanntaMUo27kDir5；scores 3/3/2/4 total 8. MATERIAL UPDATE: piccks-2026-27 — retitle/enrich as 教城「學生創新大賽」2026/27（PICCKS）；refresh eligibility/event_dates/summary/source; complexity 2→3; total_recommend still 11. Excluded: STEAM 知識問答／STEAM 科學技術／BIM／獅子會 AI／心事・開拍／道路安全／CYLF 氫建未來 reminders（已收錄）；航天築夢「飛奔到月球」展覽（已報名校先導活動，非新賽）；環境教育@社區大獎（校級環運會獎項，非學生競賽）；PyCon HK2026（研討會）；DSE 物理模擬試；LEGO／FLL 商廠工作坊；教師 CPD／課程推廣（青年事務基金會 AI 到校、SUN-TECH、BotClass、CorelDRAW 等）。",
     "enrichment": {
       "enriched_at": "2026-10-11T17:20:00+08:00",
       "links_filled": 25,
@@ -705,6 +705,33 @@ const DATA = {
       "upcoming": true
     },
     {
+      "id": "lions-ai-challenge",
+      "name": "獅子會全港學界 AI 挑戰賽",
+      "name_en": "Lions Clubs Territory-wide Inter-school AI Challenge 2026-27",
+      "domain": "AI / STEM",
+      "event_dates": "網上報名至 2026-11-17；免費 AI 講座 2026-11；第一輪 AI 知識測驗 2026-12-05；第二輪即時挑戰賽 2027-01 下旬；總決賽準備／培訓 2027-02；總決賽及頒獎 2027-03 上旬",
+      "deadline": "2026-11-17",
+      "organizer": "國際獅子會中國港澳三〇三區主辦；合辦：香港科技大學工學院及工程教育創新中心、香港教育大學、Alpha Deepmind、香港教育工作者聯會；支持：香港教育城、獅子會青年創科基金；AI 合作夥伴：MiniMax",
+      "eligibility": "高小（小四至小六）、初中（中一至中三）、高中（中四至中六）；以學校為單位；每隊 2–3 人；每校每組最多 3 隊；費用全免",
+      "summary": "全港學界 AI 挑戰賽，三輪淘汰（AI 知識測驗→現場即時挑戰→總決賽「香港一五」深度研究）。設獎金、獎盃及國際機構認可證書，另有 ESG 參與／行動證書；賽期提供兩次免費 AI 講座。",
+      "official_link": "https://lionsclubs.org.hk/26-27serviceprojects/lions_ai_competition",
+      "source": {
+        "subject": "Fwd: 《獅子會全港學界 AI 挑戰賽》報名通知",
+        "date": "2026-10-20",
+        "thread_id": "1a15778bea72f36b",
+        "message_id": "1a15778bea72f36b"
+      },
+      "scores": {
+        "organizer_scale": 4,
+        "awards": 4,
+        "recognition": 3,
+        "complexity": 4
+      },
+      "notes": "報名截止 2026-11-17（郵件「重要日程」）；官網 https://lionsclubs.org.hk/26-27serviceprojects/lions_ai_competition。查詢 ai_challenge@lionsclubs.org.hk / 大會主席金秋 6730 0353 / 區會 2520 0316。舊 Google Form 連結僅為啟動禮回條，已改為比賽官網。",
+      "total_recommend": 11,
+      "upcoming": true
+    },
+    {
       "id": "hk-greenmech-2026-27",
       "name": "香港機關王競賽 2026/27",
       "name_en": "Hong Kong GreenMech Contest 2026/27",
@@ -760,28 +787,28 @@ const DATA = {
     },
     {
       "id": "piccks-2026-27",
-      "name": "香港教育城 PICCKS 學生獎勵計劃 2026/27",
-      "name_en": "HKEdCity PICCKS Student Award Scheme 2026/27",
-      "domain": "General / Self-learning / Creativity",
-      "event_dates": "學年內多項挑戰",
+      "name": "香港教育城「學生創新大賽」2026/27（PICCKS）",
+      "name_en": "HKEdCity Student Innovation Contest 2026/27 (PICCKS)",
+      "domain": "STEM / Innovation / Social Innovation",
+      "event_dates": "線上簡介會 2026-10-23 16:00–16:30；初賽建議書→複賽線上匯報→決賽現場；決賽及展示於學與教博覽",
       "deadline": "2027-01-15",
-      "organizer": "香港教育城",
-      "eligibility": "中小學生",
-      "summary": "PICCKS 學生獎勵計劃，含延展創意自學挑戰等校際比賽元素。",
+      "organizer": "香港教育城（教城）",
+      "eligibility": "小學組（小四至小六）、初中組（中一至中三）、高中組（中四至中六）；每隊 2–6 人同校；每校隊數不限",
+      "summary": "第三屆學生創新大賽，主題「創科同心・智連結：家・校・社區」。從家庭／校園／社區場景發掘真實問題，結合創科、AI 及 IT 提出可行方案。各組冠亞季軍及優異獎，另設最佳匯報、最具創意方案、最佳人工智能運用等特別獎；入圍決賽可於學與教博覽展示。屬 PICCKS 學生獎勵計劃旗下項目。",
       "official_link": "https://www.edcity.hk/home/zh-hant/sic/202627/introduction/",
       "source": {
-        "subject": "Fwd: 誠邀 貴校參加香港教育城「PICCKS學生獎勵計劃2026/27」精彩比賽",
-        "date": "2026-10-06",
-        "thread_id": "1a10f3138897a89a",
-        "message_id": "1a10f3138897a89a"
+        "subject": "Fwd: 誠邀 貴校參加「學生創新大賽 2026/27」",
+        "date": "2026-10-20",
+        "thread_id": "1a1577a47d6ae452",
+        "message_id": "1a1577a47d6ae452"
       },
       "scores": {
         "organizer_scale": 4,
         "awards": 3,
         "recognition": 4,
-        "complexity": 2
+        "complexity": 3
       },
-      "notes": "教育城平台認受性高；門檻相對較低。 PICCKS 為計劃傘下多項比賽；此處 deadline 取學生創新大賽報名截止 2027-01-15。計劃首頁 https://student.edcity.hk/pri/zh-hant/piccks/202627/home/",
+      "notes": "網上報名 https://www.hkedcity.net/registration/form.php?reg_form_id=1527 ；簡介會報名 https://forms.cloud.microsoft/r/rNVTGizrqi 。PICCKS 計劃首頁 https://student.edcity.hk/pri/zh-hant/piccks/202627/home/ 。原泛稱 PICCKS 條目，2026-10-21 按教城邀請信改為以學生創新大賽為主並更新賽制／資格。",
       "total_recommend": 11,
       "upcoming": true
     },
@@ -1107,33 +1134,6 @@ const DATA = {
       },
       "notes": "計劃官網有挑戰賽頁；2026 屆具體報名截止僅見附件章程（郵件正文未列），未核實則保持 null。聯絡 www.fnty.org.hk / 2652 9123。",
       "total_recommend": 10,
-      "upcoming": true
-    },
-    {
-      "id": "lions-ai-challenge",
-      "name": "獅子會全港學界 AI 挑戰賽",
-      "name_en": "Lions Clubs Territory-wide Inter-school AI Challenge 2026-27",
-      "domain": "AI / STEM",
-      "event_dates": "網上報名至 2026-11-17；免費 AI 講座 2026-11；第一輪 AI 知識測驗 2026-12-05；第二輪即時挑戰賽 2027-01 下旬；總決賽準備／培訓 2027-02；總決賽及頒獎 2027-03 上旬",
-      "deadline": "2026-11-17",
-      "organizer": "國際獅子會中國港澳三〇三區主辦；合辦：香港科技大學工學院及工程教育創新中心、香港教育大學、Alpha Deepmind、香港教育工作者聯會；支持：香港教育城、獅子會青年創科基金；AI 合作夥伴：MiniMax",
-      "eligibility": "高小（小四至小六）、初中（中一至中三）、高中（中四至中六）；以學校為單位；每隊 2–3 人；每校每組最多 3 隊；費用全免",
-      "summary": "全港學界 AI 挑戰賽，三輪淘汰（AI 知識測驗→現場即時挑戰→總決賽「香港一五」深度研究）。設獎金、獎盃及國際機構認可證書，另有 ESG 參與／行動證書；賽期提供兩次免費 AI 講座。",
-      "official_link": "https://lionsclubs.org.hk/26-27serviceprojects/lions_ai_competition",
-      "source": {
-        "subject": "Fwd: 《獅子會全港學界 AI 挑戰賽》報名通知",
-        "date": "2026-10-20",
-        "thread_id": "1a15778bea72f36b",
-        "message_id": "1a15778bea72f36b"
-      },
-      "scores": {
-        "organizer_scale": 4,
-        "awards": 4,
-        "recognition": 3,
-        "complexity": 4
-      },
-      "notes": "報名截止 2026-11-17（郵件「重要日程」）；官網 https://lionsclubs.org.hk/26-27serviceprojects/lions_ai_competition。查詢 ai_challenge@lionsclubs.org.hk / 大會主席金秋 6730 0353 / 區會 2520 0316。舊 Google Form 連結僅為啟動禮回條，已改為比賽官網。",
-      "total_recommend": 11,
       "upcoming": true
     },
     {
@@ -1484,6 +1484,33 @@ const DATA = {
         "complexity": 2
       },
       "notes": "截止臨近（2026-10-16）。 報名表來自 VTC/MSTB 轉發郵件。",
+      "total_recommend": 8,
+      "upcoming": true
+    },
+    {
+      "id": "hktag-ctf-dev-2026-27",
+      "name": "HKtag 網絡安全開發大賽 2026–27（打造全開源 CTF 平台）",
+      "name_en": "HKtag Cybersecurity Development Contest 2026–27 (Open-source CTF Platform)",
+      "domain": "Computer Science / Cybersecurity / Software Development",
+      "event_dates": "線上簡介會 2026-10-31 10:00；首輪入圍 2026-11-28；作品提交 2027-04-23；決賽目標於 2027-06 學與教博覽期間",
+      "deadline": "2026-11-13",
+      "organizer": "HKtag（香港科技創新促進組）；香港電腦教育學會 (HKACE) 支持轉發",
+      "eligibility": "高中及大專在讀學生；每隊最多 6 人；高中組／大專組分開評分；不限程式語言；費用全免",
+      "summary": "組隊開發可長期重用的開源 CTF 競賽平台，探索 AI 調難度、多隊挑戰體驗及觀眾可懂的賽程。報名分兩步：隊員各自填表，再由隊長電郵 ≤500 字構思至 cybersecurity@hk-tag.org。另設約 10 場免費網安工作坊（首場 2026-11-21）。",
+      "official_link": "https://events.hk-tag.org/events/",
+      "source": {
+        "subject": "Fwd: 香港電腦教育學會支持活動：🛡️【HKtag 網絡安全開發大賽】⚔️ 打造香港首個全開源 CTF平台！",
+        "date": "2026-10-20",
+        "thread_id": "1a15854d1158b0c9",
+        "message_id": "1a15854d1158b0c9"
+      },
+      "scores": {
+        "organizer_scale": 3,
+        "awards": 3,
+        "recognition": 2,
+        "complexity": 4
+      },
+      "notes": "報名表 https://forms.gle/SEanntaMUo27kDir5 ；查詢 cybersecurity@hk-tag.org／6394 7099。獎項細節郵件未列清，決賽擬於學與教博覽舉行。",
       "total_recommend": 8,
       "upcoming": true
     },

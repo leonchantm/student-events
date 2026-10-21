@@ -1,13 +1,14 @@
 # 學生比賽／活動中期清單（Gmail 掃描）
 
-- **掃描日期：** 2026-10-20（Asia/Hong_Kong）— Daily student events Gmail scan
-- **上次發佈／as_of：** 2026-10-19 → 本次更新至 2026-10-20
+- **掃描日期：** 2026-10-21（Asia/Hong_Kong）— Daily student events Gmail scan
+- **上次發佈／as_of：** 2026-10-20 → 本次更新至 2026-10-21
 - **Gmail 帳戶：** tmchan@skhbbss.edu.hk
-- **本次搜尋：** `after:2026/10/18` 比賽／競賽／報名等關鍵字（約 13 封）+ `after:2026/10/19` inbox（約 19 封）；另以 `after:2026/10/15` contest 關鍵字覆核
-- **收錄活動數：** 53（0 new；1 material update）
+- **本次搜尋：** `after:2026/10/19` 比賽／競賽／報名等關鍵字（約 25 封）+ `after:2026/10/20` inbox（約 38 封）
+- **收錄活動數：** 54（1 new；1 material update）
 - **變更：**
-  - 更新 獅子會全港學界 AI 挑戰賽（`lions-ai-challenge`）：補報名截止 **2026-11-17**；官方連結改為 [比賽頁](https://lionsclubs.org.hk/26-27serviceprojects/lions_ai_competition)；更新主辦／資格／賽程；分數 awards 3→4、complexity 3→4，total_recommend **11**（原 10）
-- **排除（本次視窗）：** BIM Competition 提醒（已收錄、無日期變更）；CYLF／EMSD「氫建未來‧小紅花」再轉發（已收錄 `cylf-ai-for-good-2026-27`）；「心事・開拍」提醒（已收錄）；道路安全 STEAM 工作坊通知（比賽截止仍 2027-03-31）；2027 DSE 物理模擬試（商營模擬試，非公開比賽）；FIRST LEGO League／LEGO 商廠教師工作坊；教師 CPD（PISA／教大／NICHE／校園空氣研討）；Hello Scientists 講座確認；研學考察團；Google／IFTTT 推廣
+  - 新增 HKtag 網絡安全開發大賽 2026–27（`hktag-ctf-dev-2026-27`）：報名／構思截止 **2026-11-13**；官方 [活動頁](https://events.hk-tag.org/events/)；報名 [Google Form](https://forms.gle/SEanntaMUo27kDir5)；分數 規模3／獎項3／認受2／複雜4，total_recommend **8**
+  - 更新 香港教育城「學生創新大賽」2026/27（`piccks-2026-27`）：由泛稱 PICCKS 改為以學生創新大賽為主；補賽制／組別／簡介會；complexity 2→3；total_recommend 仍 **11**；官方 [比賽簡介](https://www.edcity.hk/home/zh-hant/sic/202627/introduction/)
+- **排除（本次視窗）：** STEAM 知識問答／STEAM 科學技術／BIM／獅子會 AI／心事・開拍／道路安全／CYLF 氫建未來（已收錄提醒）；航天築夢「飛奔到月球」展覽（已報名校先導活動）；環境教育@社區大獎（校級環運會獎項）；PyCon HK2026（研討會）；DSE 物理模擬試；LEGO／FLL 商廠工作坊；教師 CPD／課程推廣（青年事務基金會 AI 到校、SUN-TECH、BotClass、CorelDRAW 等）
 - **GitHub Pages：** 已推至 leonchantm/student-events
 
 ## 評分摘要
@@ -17,6 +18,10 @@
 ## 歷史紀錄
 
 以下保留較早掃描說明。
+
+## 掃描 2026-10-20
+
+- as_of 2026-10-20；收錄 53（0 new；1 material update：`lions-ai-challenge` deadline 2026-11-17、官方頁、total 11）；commit 35cbe27。
 
 ## 掃描 2026-10-19
 
@@ -32,7 +37,7 @@
   - `intl-robotics-ai-2027` — 缺截止（商業教育機構推廣；核對賽事認可度後再推薦。 主辦 Walnut Education；詳情 PDF 見 Google Drive（郵件附件連結）。截止日正文未列明。）
   - `ai-travel-china-video` — 缺連結（報名期至 2026-11-13；影片提交截止 2026-12-31。官方 URL 僅見附件圖片／電話 2881 3113，正文無網址。）
   - `mengxi-stem-2026` — 缺截止（計劃官網有挑戰賽頁；2026 屆具體報名截止僅見附件章程（郵件正文未列），未核實則保持 null。聯絡 www.fnty.org.hk / 2652 9123。）
-  - `lions-ai-challenge` — 缺截止（截止日郵件未寫清。 現有連結為啟動禮／說明會回條（2026-10-17）；比賽本體報名截止未在郵件列明。）
+  - `lions-ai-challenge` — 已於 2026-10-20 補截止 **2026-11-17** 及官方比賽頁。
   - `clp-lowcarbon-invention-4` — 缺截止（物理／能源主題相關。 中心總覽 https://linktr.ee/lowcarbonenergy；截止日僅見附件「比賽詳情」PDF，正文未列，保持 null。）
   - `dfc-ai-2026-27` — 缺截止（啟動禮 2026-10-31；比賽報名／提交截止未在邀請信正文列明。聯絡 dfc@gacity.org。）
   - `chuangxie-cup-2026` — 缺截止（官網有章程／參賽表格；郵件正文未列報名截止日（賽事 12-05／12-06／12-12）。參賽表格 https://ctea.org.hk/index.php/application-form）
