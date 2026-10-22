@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-10-21T12:15:00+08:00",
+    "generated_at": "2026-10-22T12:05:00+08:00",
     "gmail_account_observed": "tmchan@skhbbss.edu.hk",
-    "search_window": "after:2026/10/19 contest keywords; after:2026/10/20 in:inbox; after:2026/10/18 contest wider pass",
-    "as_of": "2026-10-21",
-    "event_count": 54,
+    "search_window": "after:2026/10/20 contest keywords; after:2026/10/21 in:inbox; after:2026/10/21 contest keywords",
+    "as_of": "2026-10-22",
+    "event_count": 55,
     "rubric_note": "total_recommend = organizer_scale + awards + recognition (complexity excluded)",
-    "scan_notes": "Daily routine 2026-10-21: Gmail tmchan@skhbbss.edu.hk. Reviewed after:2026/10/19 contest-keyword threads (~25) and after:2026/10/20 inbox (~38). NEW: hktag-ctf-dev-2026-27 — HKtag 網絡安全開發大賽（開發開源 CTF 平台）；deadline 2026-11-13；official https://events.hk-tag.org/events/；報名 https://forms.gle/SEanntaMUo27kDir5；scores 3/3/2/4 total 8. MATERIAL UPDATE: piccks-2026-27 — retitle/enrich as 教城「學生創新大賽」2026/27（PICCKS）；refresh eligibility/event_dates/summary/source; complexity 2→3; total_recommend still 11. Excluded: STEAM 知識問答／STEAM 科學技術／BIM／獅子會 AI／心事・開拍／道路安全／CYLF 氫建未來 reminders（已收錄）；航天築夢「飛奔到月球」展覽（已報名校先導活動，非新賽）；環境教育@社區大獎（校級環運會獎項，非學生競賽）；PyCon HK2026（研討會）；DSE 物理模擬試；LEGO／FLL 商廠工作坊；教師 CPD／課程推廣（青年事務基金會 AI 到校、SUN-TECH、BotClass、CorelDRAW 等）。",
+    "scan_notes": "Daily routine 2026-10-22: Gmail tmchan@skhbbss.edu.hk. Reviewed after:2026/10/20 contest-keyword (~25+) and after:2026/10/21 inbox (~18) / contest (~8). NEW: skydream-aviation-2027 — 2027 Sky Dream 全港學界航空比賽；deadline 2027-03-31；official https://skydream.hk/sky-dream-inter-school-aviation-competition-2027/；scores 3/3/3/4 total 9. No material updates to existing entries.",
     "enrichment": {
       "enriched_at": "2026-10-11T17:20:00+08:00",
       "links_filled": 25,
@@ -903,6 +903,33 @@
         "complexity": 3
       },
       "notes": "聯繫 greenschool@hkgbc.org.hk 網上報名截止 2026-12-31；作品提交至 2027-03-31 18:00。報名表 https://forms.gle/2gLsgvCq51VrCH7J8",
+      "total_recommend": 10,
+      "upcoming": true
+    },
+    {
+      "id": "skydream-aviation-2027",
+      "name": "2027 Sky Dream 全港學界航空比賽",
+      "name_en": "Sky Dream Inter-School Aviation Competition 2027",
+      "domain": "STEM / AI / Aviation",
+      "event_dates": "初賽 2027-05-08（後備 2027-05-15）；決賽 2027-06-26（後備 2027-07-03）；地點聖士提反堂中學；2026-12-31 前報名可享免費老師簡介會＋1.5 小時學生工作坊",
+      "deadline": "2027-03-31",
+      "organizer": "Sky Dream 航空教育；過往兩屆獲運輸及物流局「海運及空運人才培訓基金」(MATF) 資助（2027 屆資助另計）",
+      "eligibility": "小學組／中學組；每隊 4 人；費用每隊 HK$1,499；中學組為 AI Flight Planning 航線規劃＋模擬飛行考核",
+      "summary": "連續兩屆號稱全港最大型學界航空賽事之一（2026：57 校、64 隊）。結合 AI、航空知識與 C172 專業模擬飛行；小學組航空理論（含 AI）＋模擬飛行，中學組 AI Flight Planning＋模擬飛行。截止報名 2027-03-31；冠軍獎為專業客機模擬飛行訓練。",
+      "official_link": "https://skydream.hk/sky-dream-inter-school-aviation-competition-2027/",
+      "source": {
+        "subject": "Fwd: 【名額有限】2027全港學界航空比賽｜12月31日前報名享免費工作坊",
+        "date": "2026-10-21",
+        "thread_id": "1a15d46722f22590",
+        "message_id": "1a15d46722f22590"
+      },
+      "scores": {
+        "organizer_scale": 3,
+        "awards": 4,
+        "recognition": 3,
+        "complexity": 4
+      },
+      "notes": "與已收錄之星宇盃 starlux-cup-ai-aviation-2026（Creato×HKACE，2026 屆）為不同主辦／賽事。報名 Google Form：https://docs.google.com/forms/d/e/1FAIpQLSdtRpk0y8xOgiMF9rlZ1dixNrstUyD_KjkS05ObZ14zuehXgQ/viewform 。冠軍隊伍可獲共兩小時、價值 HK$12,000 的專業 Boeing 737／C919 模擬飛行訓練（現職民航機師教授）。初賽後備 2027-05-15；決賽後備 2027-07-03。",
       "total_recommend": 10,
       "upcoming": true
     },

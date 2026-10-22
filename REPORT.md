@@ -1,14 +1,13 @@
 # 學生比賽／活動中期清單（Gmail 掃描）
 
-- **掃描日期：** 2026-10-21（Asia/Hong_Kong）— Daily student events Gmail scan
-- **上次發佈／as_of：** 2026-10-20 → 本次更新至 2026-10-21
+- **掃描日期：** 2026-10-22（Asia/Hong_Kong）— Daily student events Gmail scan
+- **上次發佈／as_of：** 2026-10-21 → 本次更新至 2026-10-22
 - **Gmail 帳戶：** tmchan@skhbbss.edu.hk
-- **本次搜尋：** `after:2026/10/19` 比賽／競賽／報名等關鍵字（約 25 封）+ `after:2026/10/20` inbox（約 38 封）
-- **收錄活動數：** 54（1 new；1 material update）
+- **本次搜尋：** `after:2026/10/20` 比賽／競賽／報名等關鍵字（約 25 封，另有 next page）+ `after:2026/10/21` inbox（約 18 封）+ `after:2026/10/21` contest 關鍵字（約 8 封）
+- **收錄活動數：** 55（1 new；0 material update）
 - **變更：**
-  - 新增 HKtag 網絡安全開發大賽 2026–27（`hktag-ctf-dev-2026-27`）：報名／構思截止 **2026-11-13**；官方 [活動頁](https://events.hk-tag.org/events/)；報名 [Google Form](https://forms.gle/SEanntaMUo27kDir5)；分數 規模3／獎項3／認受2／複雜4，total_recommend **8**
-  - 更新 香港教育城「學生創新大賽」2026/27（`piccks-2026-27`）：由泛稱 PICCKS 改為以學生創新大賽為主；補賽制／組別／簡介會；complexity 2→3；total_recommend 仍 **11**；官方 [比賽簡介](https://www.edcity.hk/home/zh-hant/sic/202627/introduction/)
-- **排除（本次視窗）：** STEAM 知識問答／STEAM 科學技術／BIM／獅子會 AI／心事・開拍／道路安全／CYLF 氫建未來（已收錄提醒）；航天築夢「飛奔到月球」展覽（已報名校先導活動）；環境教育@社區大獎（校級環運會獎項）；PyCon HK2026（研討會）；DSE 物理模擬試；LEGO／FLL 商廠工作坊；教師 CPD／課程推廣（青年事務基金會 AI 到校、SUN-TECH、BotClass、CorelDRAW 等）
+  - 新增 2027 Sky Dream 全港學界航空比賽（`skydream-aviation-2027`）：報名截止 **2027-03-31**（2026-12-31 前報名享免費簡介會／工作坊）；初賽 **2027-05-08**、決賽 **2027-06-26**；官方 [比賽頁](https://skydream.hk/sky-dream-inter-school-aviation-competition-2027/)；報名 [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdtRpk0y8xOgiMF9rlZ1dixNrstUyD_KjkS05ObZ14zuehXgQ/viewform)；分數 規模3／獎項4／認受3／複雜4，total_recommend **10**（與星宇盃 `starlux-cup-ai-aviation-2026` 為不同主辦／賽事）
+- **排除（本次視窗）：** HKIACF「未來太空科學家種子計劃」發佈暨「飛躍航天・愛地球」微電影頒獎典禮（出席登記截止 10-22，屬典禮／計劃發佈非新賽）；航天築夢「飛奔到月球」展覽（已報名校先導）；STEAM 知識問答／BIM／STEAM 科學技術／獅子會 AI／心事・開拍／道路安全／學生創新大賽／HKtag（已收錄提醒）；室內空氣質素研討會；環境教育@社區大獎；DSE 物理模擬試；LEGO／FLL／CorelDRAW／BotClass／SUN-TECH／青年事務基金會 AI 到校等教師 CPD／商廠推廣；綠惜地球十周年通訊；空白 FAX
 - **GitHub Pages：** 已推至 leonchantm/student-events
 
 ## 評分摘要
@@ -18,6 +17,10 @@
 ## 歷史紀錄
 
 以下保留較早掃描說明。
+
+## 掃描 2026-10-21
+
+- as_of 2026-10-21；收錄 54（+1：hktag-ctf-dev-2026-27；material update：piccks-2026-27）；commit 29aa243。
 
 ## 掃描 2026-10-20
 
