@@ -1,13 +1,13 @@
 # 學生比賽／活動中期清單（Gmail 掃描）
 
-- **掃描日期：** 2026-10-22（Asia/Hong_Kong）— Daily student events Gmail scan
-- **上次發佈／as_of：** 2026-10-21 → 本次更新至 2026-10-22
+- **掃描日期：** 2026-10-23（Asia/Hong_Kong）— Daily student events Gmail scan
+- **上次發佈／as_of：** 2026-10-22 → 本次更新至 2026-10-23
 - **Gmail 帳戶：** tmchan@skhbbss.edu.hk
-- **本次搜尋：** `after:2026/10/20` 比賽／競賽／報名等關鍵字（約 25 封，另有 next page）+ `after:2026/10/21` inbox（約 18 封）+ `after:2026/10/21` contest 關鍵字（約 8 封）
-- **收錄活動數：** 55（1 new；0 material update）
+- **本次搜尋：** `after:2026/10/21` 比賽／競賽／報名等關鍵字（約 21 封）+ `after:2026/10/22` inbox（約 18 封）+ `after:2026/10/22` contest 關鍵字（約 8 封）
+- **收錄活動數：** 56（1 new；0 material update）
 - **變更：**
-  - 新增 2027 Sky Dream 全港學界航空比賽（`skydream-aviation-2027`）：報名截止 **2027-03-31**（2026-12-31 前報名享免費簡介會／工作坊）；初賽 **2027-05-08**、決賽 **2027-06-26**；官方 [比賽頁](https://skydream.hk/sky-dream-inter-school-aviation-competition-2027/)；報名 [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdtRpk0y8xOgiMF9rlZ1dixNrstUyD_KjkS05ObZ14zuehXgQ/viewform)；分數 規模3／獎項4／認受3／複雜4，total_recommend **10**（與星宇盃 `starlux-cup-ai-aviation-2026` 為不同主辦／賽事）
-- **排除（本次視窗）：** HKIACF「未來太空科學家種子計劃」發佈暨「飛躍航天・愛地球」微電影頒獎典禮（出席登記截止 10-22，屬典禮／計劃發佈非新賽）；航天築夢「飛奔到月球」展覽（已報名校先導）；STEAM 知識問答／BIM／STEAM 科學技術／獅子會 AI／心事・開拍／道路安全／學生創新大賽／HKtag（已收錄提醒）；室內空氣質素研討會；環境教育@社區大獎；DSE 物理模擬試；LEGO／FLL／CorelDRAW／BotClass／SUN-TECH／青年事務基金會 AI 到校等教師 CPD／商廠推廣；綠惜地球十周年通訊；空白 FAX
+  - 新增第29屆香港青少年科技創新大賽（`hkysti-29`）：簡介會 **2026-11-13**／**2026-11-20**（Zoom 16:00–17:00）；簡介會報名截止 **2026-11-06**（[Google Form](https://forms.gle/Cvxs6hC69Cb7RvKCA)）；官方 [stic.newgen.org.hk](https://stic.newgen.org.hk/)（公開頁面仍顯示第28屆，**第29屆賽事報名截止未列明，故 deadline=null**）；分數 規模5／獎項5／認受5／複雜4，total_recommend **15**（與同主辦 `intl-science-hk-2027` 國際選拔為不同賽事）
+- **排除（本次視窗）：** 中電教育基金 STEAM 教育計劃（校方資助／廠商協作推廣，非學生賽）；「走進自然·書寫自然」教師 CPD；升旗隊教師講座；LivingWorks 教職員培訓；Mac 裝置管理；BotClass／Curipod／AI03／Preface 等商廠推廣；HKIACF 頒獎典禮／種子計劃發佈提醒（上次已排除）；JC AI 平台模型下架通知；空白 FAX；「史觀」教材／EdData 行政通知
 - **GitHub Pages：** 已推至 leonchantm/student-events
 
 ## 評分摘要
@@ -17,6 +17,10 @@
 ## 歷史紀錄
 
 以下保留較早掃描說明。
+
+## 掃描 2026-10-22
+
+- as_of 2026-10-22；收錄 55（+1：skydream-aviation-2027；0 material update）；commit d9177fc。
 
 ## 掃描 2026-10-21
 
