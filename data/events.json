@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-10-23T12:05:00+08:00",
+    "generated_at": "2026-10-26T12:20:00+08:00",
     "gmail_account_observed": "tmchan@skhbbss.edu.hk",
-    "search_window": "after:2026/10/21 contest keywords; after:2026/10/22 in:inbox; after:2026/10/22 contest keywords",
-    "as_of": "2026-10-23",
-    "event_count": 56,
+    "search_window": "after:2026/10/23 contest keywords; after:2026/10/23 in:inbox; after:2026/10/22 contest keywords",
+    "as_of": "2026-10-26",
+    "event_count": 57,
     "rubric_note": "total_recommend = organizer_scale + awards + recognition (complexity excluded)",
-    "scan_notes": "Daily routine 2026-10-23: Gmail tmchan@skhbbss.edu.hk. Reviewed after:2026/10/21 contest-keyword (~21), after:2026/10/22 inbox (~18), after:2026/10/22 contest (~8). NEW: hkysti-29 — 第29屆香港青少年科技創新大賽；briefing 2026-11-13/11-20; briefing signup by 2026-11-06; competition deadline not yet on official site (https://stic.newgen.org.hk/ still shows 28th); scores 5/5/5/4 total 15. Excluded: CLP Education Fund school grant (vendor promo), teacher CPD nature-writing lecture, flag-raising teacher lecture, vendor BotClass/Curipod/AI03, HKIACF ceremony reminder (prior), LivingWorks staff training, Mac admin training. No material updates to existing entries.",
+    "scan_notes": "Daily routine 2026-10-26: Gmail tmchan@skhbbss.edu.hk. Reviewed after:2026/10/23 contest-keyword (~20), after:2026/10/23 inbox (~25+ page), after:2026/10/22 contest (~24). NEW: rthk-mediaed-4 — 香港電台《傳媒初體驗》第四季；deadline 2026-11-30；official https://app7.rthk.hk/special/mediaed/4th_recruit.htm；scores 5/3/4/4 total 12. UPDATED: space-ai-dream-2026 — event_dates/notes for 2026-11-02 engineering grouping announcement + optional intensive course signup by 2026-11-11 (deadline still 2026-10-31). Excluded: CYLF AI向善 re-forward (already catalogued, no material change); HKNETEA AI大使提名（非比賽）；Hello Scientists 講座提醒；CityUHK BCI workshop；中電教育基金校方資助；教師 CPD（教城AI研討會／IE軟實力／自然書寫／EDB-HKU課程／學友社AI峰會）；廠商（Trumptech／Curipod／欣學陀螺）；eClass 保安；示範課堂；Gifted Forensic 課程。",
     "enrichment": {
       "enriched_at": "2026-10-11T17:20:00+08:00",
       "links_filled": 25,
@@ -263,17 +263,17 @@
       "name": "全港首屆中小學「航天築夢」航天 AI 創新大賽",
       "name_en": "Space AI Innovation Contest (航天築夢)",
       "domain": "STEM / AI / Space",
-      "event_dates": null,
+      "event_dates": "工程挑戰賽分組結果 2026-11-02 公佈（已報名學校）；精讀課程（可選）1 月開課、報名截止 2026-11-11（名額約 50 校）",
       "deadline": "2026-10-31",
       "organizer": "教育局「心繫家國」活動相關",
       "eligibility": "中小學；免費參加",
       "summary": "回歸 30 周年「心繫家國」系列活動之一，結合航天與 AI 創新；報名截止 10 月 31 日。",
       "official_link": "https://www.hkstarcatcher.com/apply.html",
       "source": {
-        "subject": "Fwd: 全港首屆中小學「航天築夢」航天AI創新大賽——免費參加・10月31日截止報名",
-        "date": "2026-10-02",
-        "thread_id": "1a0fa2063b3583f8",
-        "message_id": "1a0fa2063b3583f8"
+        "subject": "【重要提示】「航天築夢」大賽：11月2日工程賽公佈、精讀課程支援及到校拜訪安排",
+        "date": "2026-10-26",
+        "thread_id": "1a17627a27643962",
+        "message_id": "1a17627a27643962"
       },
       "scores": {
         "organizer_scale": 5,
@@ -281,7 +281,34 @@
         "recognition": 4,
         "complexity": 3
       },
-      "notes": "EDB 相關活動認受性高；獎項細節郵件不全。",
+      "notes": "EDB 相關活動認受性高；獎項細節郵件不全。2026-10-26 更新：大會秘書處 Christy Tam（christy.tam@hkata.space／WA 92896335）通知 11-02 公佈工程賽分組；附可選精讀課程（立方衛星／智能太空種植舫艙／太空 AI 機械人；可申請 EDB「智」啟學教撥款）。www.hkata.space",
+      "total_recommend": 12,
+      "upcoming": true
+    },
+    {
+      "id": "rthk-mediaed-4",
+      "name": "香港電台《傳媒初體驗》第四季比賽",
+      "name_en": "RTHK Media Experience Season 4 Contest",
+      "domain": "Media / Broadcasting / Youth Development",
+      "event_dates": "招募 2026-10–11；大專講座／工作坊 2026-12–2027-01；20強面試選8強 2027-01–02；8強港台實習 2027-02–03；8強比賽 2027-04–06；頒獎 2027-07；節目啟播／校園巡迴 2027-08–09",
+      "deadline": "2026-11-30",
+      "organizer": "香港電台 (RTHK)",
+      "eligibility": "全港中學生；每隊 4–6 人（可跨級）；每校報名隊伍數目不限；特別歡迎校園電視台／影音／傳媒興趣同學",
+      "summary": "港台培育青年傳媒人才年度重點項目（對應《青年發展藍圖》）。入圍學生可赴大專交流、到港台參與電視／電台工作坊；四強即日拍即日剪輯比賽；勝出者獲獎座及禮品，並有機會進入港台「太陽計劃」；歷程製作為電視專題播出。",
+      "official_link": "https://app7.rthk.hk/special/mediaed/4th_recruit.htm",
+      "source": {
+        "subject": "Fwd: 誠邀貴校參加香港電台\"傳媒初體驗\"第四季比賽",
+        "date": "2026-10-23",
+        "thread_id": "1a167512d59fd056",
+        "message_id": "1a167512d59fd056"
+      },
+      "scores": {
+        "organizer_scale": 5,
+        "awards": 3,
+        "recognition": 4,
+        "complexity": 4
+      },
+      "notes": "報名表見官網 #form1：https://app7.rthk.hk/special/mediaed/4th_recruit.htm#form1；查詢 mediaed@rthk.gov.hk／導演 Bo Bo Yeung 35250721／90497237。YouTube 往季重溫見郵件。分數：規模5（港台）、獎項3（獎座／禮品／太陽計劃路徑）、認受4、複雜4（多輪面試／實習／決賽）。",
       "total_recommend": 12,
       "upcoming": true
     },

@@ -1,13 +1,14 @@
 # 學生比賽／活動中期清單（Gmail 掃描）
 
-- **掃描日期：** 2026-10-23（Asia/Hong_Kong）— Daily student events Gmail scan
-- **上次發佈／as_of：** 2026-10-22 → 本次更新至 2026-10-23
+- **掃描日期：** 2026-10-26（Asia/Hong_Kong）— Daily student events Gmail scan
+- **上次發佈／as_of：** 2026-10-23 → 本次更新至 2026-10-26
 - **Gmail 帳戶：** tmchan@skhbbss.edu.hk
-- **本次搜尋：** `after:2026/10/21` 比賽／競賽／報名等關鍵字（約 21 封）+ `after:2026/10/22` inbox（約 18 封）+ `after:2026/10/22` contest 關鍵字（約 8 封）
-- **收錄活動數：** 56（1 new；0 material update）
+- **本次搜尋：** `after:2026/10/23` 比賽／競賽／報名等關鍵字（約 20 封）+ `after:2026/10/23` inbox（約 25+ 封／分頁）+ `after:2026/10/22` contest 關鍵字（約 24 封）
+- **收錄活動數：** 57（1 new；1 material update）
 - **變更：**
-  - 新增第29屆香港青少年科技創新大賽（`hkysti-29`）：簡介會 **2026-11-13**／**2026-11-20**（Zoom 16:00–17:00）；簡介會報名截止 **2026-11-06**（[Google Form](https://forms.gle/Cvxs6hC69Cb7RvKCA)）；官方 [stic.newgen.org.hk](https://stic.newgen.org.hk/)（公開頁面仍顯示第28屆，**第29屆賽事報名截止未列明，故 deadline=null**）；分數 規模5／獎項5／認受5／複雜4，total_recommend **15**（與同主辦 `intl-science-hk-2027` 國際選拔為不同賽事）
-- **排除（本次視窗）：** 中電教育基金 STEAM 教育計劃（校方資助／廠商協作推廣，非學生賽）；「走進自然·書寫自然」教師 CPD；升旗隊教師講座；LivingWorks 教職員培訓；Mac 裝置管理；BotClass／Curipod／AI03／Preface 等商廠推廣；HKIACF 頒獎典禮／種子計劃發佈提醒（上次已排除）；JC AI 平台模型下架通知；空白 FAX；「史觀」教材／EdData 行政通知
+  - 新增香港電台《傳媒初體驗》第四季比賽（`rthk-mediaed-4`）：報名截止 **2026-11-30**；官方 [app7.rthk.hk/special/mediaed/4th_recruit.htm](https://app7.rthk.hk/special/mediaed/4th_recruit.htm)；時間表含大專講座／港台工作坊／20強面試／8強實習與比賽／頒獎與太陽計劃路徑；分數 規模5／獎項3／認受4／複雜4，total_recommend **12**
+  - 更新「航天築夢」航天 AI 創新大賽（`space-ai-dream-2026`）：補上 **2026-11-02** 工程挑戰賽分組結果公佈；可選精讀課程報名截止 **2026-11-11**（大賽報名截止仍為 **2026-10-31**）
+- **排除（本次視窗）：** CYLF「氫建未來．小紅花 AI 向善」重發（已收錄、無實質變更）；HKNETEA AI大使提名（非比賽）；Hello Scientists 講座出席提醒；CityUHK BCI workshop；中電教育基金校方資助；教師 CPD（教城 AI 研討會／IE 軟實力／自然書寫／EDB-HKU 課程／學友社 AI 峰會）；廠商推廣（Trumptech／Curipod／欣學陀螺）；eClass 保安；示範課堂；Gifted Forensic 課程；Gemini AI workshop 回條
 - **GitHub Pages：** 已推至 leonchantm/student-events
 
 ## 評分摘要
@@ -17,6 +18,10 @@
 ## 歷史紀錄
 
 以下保留較早掃描說明。
+
+## 掃描 2026-10-23
+
+- as_of 2026-10-23；收錄 56（+1：hkysti-29；0 material update）；commit db39a62。
 
 ## 掃描 2026-10-22
 
