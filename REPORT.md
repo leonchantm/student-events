@@ -1,16 +1,15 @@
 # 學生比賽／活動中期清單（Gmail 掃描）
 
-- **掃描日期：** 2026-10-27（Asia/Hong_Kong）— Daily student events Gmail scan
-- **上次發佈／as_of：** 2026-10-26 → 本次更新至 2026-10-27
+- **掃描日期：** 2026-10-28（Asia/Hong_Kong）— Daily student events Gmail scan
+- **上次發佈／as_of：** 2026-10-27 → 本次更新至 2026-10-28
 - **Gmail 帳戶：** tmchan@skhbbss.edu.hk
-- **本次搜尋：** `after:2026/10/25` 比賽／競賽／報名／挑戰等關鍵字（約 25 封首頁；含昨日以來重疊）
-- **收錄活動數：** 59（2 new；2 material updates）
+- **本次搜尋：** `after:2026/10/26` 比賽／競賽／獎學金／挑戰等關鍵字（焦點為上次掃描後新信；含重疊）
+- **收錄活動數：** 62（3 new；0 material updates）
 - **變更：**
-  - 新增「攜手並肩　打擊電騙」短片製作比賽（`ofca-reel-phone-scam-2026`）：作品提交截止 **2026-12-07** 中午；官方 [ofca.gov.hk reel competition](https://www.ofca.gov.hk/en/consumer_focus/publicity_events/consumer_education_campaigns/2026_consumer_education_campaign/reel_making_competition/index.html)；通訊局主辦；分數 規模5／獎項3／認受4／複雜2，total_recommend **12**
-  - 新增健康學生短片大賽 2027（`ofnaa-healthy-student-video-2027`）：報名截止 **2026-12-31**；官方 [ofnaa.gov.hk/healthystudentvideocontest2027](https://www.ofnaa.gov.hk/healthystudentvideocontest2027)；電影報刊辦×啟賢教育協會；分數 規模5／獎項3／認受3／複雜3，total_recommend **11**
-  - 更新第7屆「愛．創耆樂」挑戰賽（`love-innovate-ageing-7`）：補上比賽日 **2027-02-20**、理大生物醫學工程及體育科技學系／ActionHub、團隊／個人賽 Micro:bit 規則與費用；報名截止仍為 **2026-11-01 23:59**
-  - 更新星宇盃（`starlux-cup-ai-aviation-2026`）：補上次輪賽前工作坊 **2026-11-07–08**（報名截止仍 **2026-10-31**）
-- **排除（本次視窗）：** 獅子會全港學界 AI 挑戰賽重發（已收錄、截止仍 2026-11-17、無實質變更）；STEAM UP 想建理學與教獎項（教師／校本為主）；解密迷宫到校解謎遊戲及展覽；ECF PEP 第二輪 NGO 申請簡介會；航天教學展品推廣；Sayo AI／Aerohub 廠商；富士膠片商業創新峰會；教師 CPD／講座；HKOI 報名確認回條；Teamup 校內 English Carnival；IT 創新實驗室表格確認
+  - 新增 STEM+E Competition 2026/27（`stem-e-2026-27`）：學生報名截止 **2026-11-30**；官方 [spehk.org](https://www.spehk.org/)；STEM+E Consortium × HKSTP × Cyberport；分數 規模4／獎項3／認受4／複雜4，total_recommend **11**
+  - 新增 Step Into STEM 獎學金 2027/28（`step-into-stem-scholarship-2027-28`）：最終申請截止 **2027-05-18**（首階段 2027-03-31；申請開放 2026-11-03）；官方 [ggthk.org/scholarship](https://www.ggthk.org/scholarship/index.jsp?lang=zh)；婦女基金會 × 摩根士丹利；分數 規模4／獎項5／認受4／複雜3，total_recommend **13**
+  - 新增綠色科技青年創想坊（`hkfyg-greentech-youth-lab-2026`）：學校報名截止 **2026-11-06 23:59**；研討會 **2026-12-12**；官方 [HKFYG Leadership Institute](https://leadershipinstitute.hkfyg.org.hk/greentech-youth-learning-lab/index.html)；青協領袖學院 × 恒生銀行；分數 規模4／獎項1／認受3／複雜2，total_recommend **8**
+- **排除（本次視窗）：** AI Lab 課程推廣；「綠校同行」到校無塑日／環保歷奇；教師 CPD／培訓（Grok Bot、AI Pro×Google Classroom、翻轉教學研討、eClass 資安、教城 AI 研討）；已收錄之 OFCA 短片賽／健康學生短片大賽／愛．創耆樂最後召集／星宇盃工作坊／獅子會 AI 挑戰賽重發（無新實質變更）；STEAM UP 學與教獎項（教師／校本）
 - **GitHub Pages：** 已推至 leonchantm/student-events
 
 ## 評分摘要
@@ -20,6 +19,10 @@
 ## 歷史紀錄
 
 以下保留較早掃描說明。
+
+## 掃描 2026-10-27
+
+- as_of 2026-10-27；收錄 59（+2：ofca-reel-phone-scam-2026、ofnaa-healthy-student-video-2027；2 material updates：love-innovate-ageing-7、starlux-cup-ai-aviation-2026）；commit 8221e08。
 
 ## 掃描 2026-10-26
 
