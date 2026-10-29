@@ -6,13 +6,13 @@
       "deadlines_filled": 19,
       "method": "Gmail plaintext bodies + raw_bodies + WebSearch/WebFetch; no invented URLs/dates"
     },
-    "generated_at": "2026-10-28T12:01:19+08:00",
+    "generated_at": "2026-10-29T11:59:04+08:00",
     "gmail_account_observed": "tmchan@skhbbss.edu.hk",
-    "search_window": "after:2026/10/26 contest/比賽/獎學金 keywords (+ focus since last scan 2026-10-27)",
-    "as_of": "2026-10-28",
-    "event_count": 62,
+    "search_window": "after:2026/10/27 contest/比賽/獎學金/微電影/STEM keywords (+ focus since last scan 2026-10-28)",
+    "as_of": "2026-10-29",
+    "event_count": 65,
     "rubric_note": "total_recommend = organizer_scale + awards + recognition (complexity excluded)",
-    "scan_notes": "Daily scan 2026-10-28 HKT. Added STEM+E Competition 2026/27, Step Into STEM Scholarship 2027/28, and HKFYG GreenTech Youth Learning Lab. No material updates to existing entries. Excluded: AI Lab vendor courses; 綠校同行到校無塑日／歷奇; teacher CPD (Grok Bot training, AI Pro/Google Classroom, FlippEducators, eClass security, HKedCity AI seminar); already-listed OFCA/OFNAA/Love·Innovate/STARLUX/Lions AI re-forwards."
+    "scan_notes": "Daily scan 2026-10-29 HKT. Added 《榜樣少年》微電影比賽, 第一屆 AI青年大使計劃 (HKUST CEEAA), and DBS Inter-School STEM Research Symposium kickoff. No material updates to existing entries. Excluded: STEAM UP 學與教獎項（教師／校本，續沿用 10-28 排除）；教師 CPD（Gemini Enterprise、HKPAGT、科技與法律研討、綠色校園教師 PDP、Special Relativity PDP）；綠校同行無塑日／歷奇；AI Lab／Edcosys 課程推廣；已收錄 STEM+E／Step Into STEM／GreenTech／STEAM 科學技術／VTC BIM／愛．創耆樂／星宇盃等重發或提醒。"
   },
   "events": [
     {
@@ -1687,6 +1687,87 @@
       },
       "notes": "報名截止 2026-11-02；作品提交 2026-12-04。郵件僅有電話／二維碼，無文字 URL。",
       "total_recommend": 6,
+      "upcoming": true
+    },
+    {
+      "id": "bangyang-shaonian-microfilm-2026",
+      "name": "《榜樣少年》微電影系列活動比賽——講好香港故事・拍出少年風彩",
+      "name_en": "Role Model Youth Microfilm Series Contest 2026 (Hong Kong)",
+      "domain": "Arts / Media / Civic Education",
+      "event_dates": "免費電影工作坊 2026-11-01 09:00–13:15（旺角中華文化教育中心，現場+Zoom）；作品上傳截止 2027-01-29；評審 2027-01-30 至 02-12；頒獎典禮 2027-03-23（香港中央圖書館）；展出 2027-03-23–27",
+      "deadline": "2027-01-09",
+      "organizer": "中國電影基金會主辦；香港教育局支持；香港教育工作者聯會、中華文化教育中心／香港語言研究中心等協辦；香港蒲公英藝術學院執行",
+      "eligibility": "全港大專、中學及高小；隊制每隊最多 3 人 + 1 位指導老師；每校最多 6 隊；每隊 1 份作品；費用全免",
+      "summary": "慶祝回歸 30 周年的微電影創作比賽，主題「講好香港故事・拍出少年風彩」。分大專／中學／高小組；金／銀／銅／優秀獎（金獎每組 HK$10,000）；獲獎作品可於中央圖書館展出、代表香港參加全國《榜樣少年星光盃》，金銀銅獎成員有機會赴北京交流研學。",
+      "official_link": "https://www.hkfew.org.hk/en/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/item/12870-%E3%80%90%E5%9B%9E%E6%AD%B830%E5%B9%B4%E7%8D%BB%E7%A6%AE%E3%80%91%E3%80%8A%E6%A6%9C%E6%A8%A3%E5%B0%91%E5%B9%B4%E3%80%8B%E5%BE%AE%E9%9B%BB%E5%BD%B1%E7%B3%BB%E5%88%97%E6%B4%BB%E5%8B%95%E6%AF%94%E8%B3%BD%E2%94%80%E2%94%80%E8%AC%9B%E5%A5%BD%E9%A6%99%E6%B8%AF%E6%95%85%E4%BA%8B%E3%83%BB%E6%8B%8D%E5%87%BA%E5%B0%91%E5%B9%B4%E9%A2%A8%E5%BD%A9-%E7%8F%BE%E6%AD%A3%E6%8E%A5%E5%8F%97%E5%A0%B1%E5%90%8D",
+      "source": {
+        "subject": "Fwd: 轉傳:【回歸30年獻禮】誠邀參與《榜樣少年》微電影系列活動比賽 ─ 講好香港故事・拍出少年風彩",
+        "date": "2026-10-29",
+        "thread_id": "1a185aad289b2204",
+        "message_id": "1a185aad289b2204"
+      },
+      "scores": {
+        "organizer_scale": 5,
+        "awards": 4,
+        "recognition": 4,
+        "complexity": 3
+      },
+      "notes": "報名截止 2027-01-09；作品上傳 2027-01-29（準時加 5 分）。章程 PDF https://hkfew.org.hk/images/2026/10/%E6%A6%9C%E6%A8%A3%E5%B0%91%E5%B9%B4%E5%AE%A3%E5%82%B3%E5%86%8A35-AB.pdf ；報名表 https://docs.google.com/forms/d/e/1FAIpQLSc5HgREs5SaZD8MvIbDHk5qt-o5Tu3Xh5FwkEFSOqkK6kyeOw/viewform ；查詢 2782 6922。分數：規模5（中國電影基金會＋教局支持）、獎項4（獎金＋北京交流／全國賽）、認受4、複雜3。",
+      "total_recommend": 13,
+      "upcoming": true
+    },
+    {
+      "id": "ai-youth-ambassador-cee-2026-27",
+      "name": "第一屆 AI青年大使計劃 2026-2027",
+      "name_en": "1st AI Youth Ambassador Programme 2026-2027 (HKUST CEEAA)",
+      "domain": "STEM / AI / Civil Engineering / Smart City",
+      "event_dates": "線上簡介會 2026-10-30 16:00–17:30（Zoom）；計劃期 2026/27 學年（科大工作坊、北部都會區場景實踐；具體日程以主辦通知為準）",
+      "deadline": "2026-11-30",
+      "organizer": "香港科技大學土木及環境工程學系校友會（HKUST CEEAA）；香港家長協進會；兩岸滙智基金會",
+      "eligibility": "中三至中五；學校推薦報名；費用全免；完成可獲「AI青年大使」證書",
+      "summary": "以「AI + 土木工程」為核心，帶領中學生體驗智慧基建、參與科大專屬工作坊，並以北部都會區為場景實踐創新解難。費用全免。",
+      "official_link": null,
+      "source": {
+        "subject": "Fwd: 啟迪未來工程師：誠邀出席「第一屆 AI青年大使計劃」線上簡介會！",
+        "date": "2026-10-29",
+        "thread_id": "1a185a66bbba934f",
+        "message_id": "1a185a66bbba934f"
+      },
+      "scores": {
+        "organizer_scale": 3,
+        "awards": 1,
+        "recognition": 2,
+        "complexity": 2
+      },
+      "notes": "報名截止 2026-11-30（郵件正文）。簡介會 Zoom 見郵件（非長期官網）。公開網頁於掃描時未能核實，故 official_link 為 null；勿與其他同名「AI青年大使」計劃混淆。查詢發起人梁雄光 hkdleung@hotmail.com。分數：規模3、獎項1（證書）、認受2（首屆）、複雜2。",
+      "total_recommend": 6,
+      "upcoming": true
+    },
+    {
+      "id": "dbs-stem-research-symposium-2027",
+      "name": "DBS Inter-School STEM Research Symposium（Kickoff + Spring 2027）",
+      "name_en": "DBS Inter-School STEM Research Symposium (Kickoff Lecture + Spring 2027)",
+      "domain": "STEM / Research / Academic",
+      "event_dates": "Kickoff Lecture 2026-11-27 16:45–18:15（歡迎接待 16:15；拔萃男書院校堂；主講 Prof. Tony F. Chan）；主論壇／Symposium 暫定 2027 春季（詳情於 Kickoff 預告，尚未公布提交指引）",
+      "deadline": "2026-11-20",
+      "organizer": "拔萃男書院 STEAM Union／Symposium Working Group（學生主導）；Honorary Academic Advisor: Prof. Tony F. Chan",
+      "eligibility": "中學生、家長及教師；Kickoff 免費需預先報名",
+      "summary": "由中學生發起的校際 STEM 研究論壇。第一階段為開幕講座（AI、學術研究與教育未來）；第二階段 2027 春季 Symposium 的項目範圍與提交細節將於 Kickoff 預告後公布。",
+      "official_link": "https://DBSSTEMSymposiumkickoff.eventbrite.hk",
+      "source": {
+        "subject": "Fwd: Invitation: DBS Inter-School STEM Research Symposium – Kickoff Lecture by Prof. Tony F. Chan (27 Nov 2026)",
+        "date": "2026-10-28",
+        "thread_id": "1a18168aa7316493",
+        "message_id": "1a18168aa7316493"
+      },
+      "scores": {
+        "organizer_scale": 2,
+        "awards": 1,
+        "recognition": 2,
+        "complexity": 1
+      },
+      "notes": "Kickoff 報名截止 2026-11-20；Eventbrite https://DBSSTEMSymposiumkickoff.eventbrite.hk 。查詢 Marcus Wong dbs23071790@g.dbs.edu.hk。主賽事提交截止尚未公布，不臆造。分數：規模2（單校學生主導聯校邀請）、獎項1、認受2、複雜1（聽講）。",
+      "total_recommend": 5,
       "upcoming": true
     }
   ]
