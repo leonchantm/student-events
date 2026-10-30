@@ -1,15 +1,14 @@
 # 學生比賽／活動中期清單（Gmail 掃描）
 
-- **掃描日期：** 2026-10-29（Asia/Hong_Kong）— Daily student events Gmail scan
-- **上次發佈／as_of：** 2026-10-28 → 本次更新至 2026-10-29
+- **掃描日期：** 2026-10-30（Asia/Hong_Kong）— Daily student events Gmail scan
+- **上次發佈／as_of：** 2026-10-29 → 本次更新至 2026-10-30
 - **Gmail 帳戶：** tmchan@skhbbss.edu.hk
-- **本次搜尋：** `after:2026/10/27` 比賽／競賽／獎學金／微電影／STEM／Symposium 等關鍵字（焦點為上次掃描後新信；含重疊）
-- **收錄活動數：** 65（3 new；0 material updates）
+- **本次搜尋：** `after:2026/10/28` 比賽／競賽／獎學金／微電影／STEM／創科／創新等關鍵字（焦點為上次掃描後新信；含重疊）
+- **收錄活動數：** 66（1 new；1 material update）
 - **變更：**
-  - 新增《榜樣少年》微電影系列活動比賽（`bangyang-shaonian-microfilm-2026`）：報名截止 **2027-01-09**（作品上傳 2027-01-29）；官方 [教聯會消息頁](https://www.hkfew.org.hk/en/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/item/12870-%E3%80%90%E5%9B%9E%E6%AD%B830%E5%B9%B4%E7%8D%BB%E7%A6%AE%E3%80%91%E3%80%8A%E6%A6%9C%E6%A8%A3%E5%B0%91%E5%B9%B4%E3%80%8B%E5%BE%AE%E9%9B%BB%E5%BD%B1%E7%B3%BB%E5%88%97%E6%B4%BB%E5%8B%95%E6%AF%94%E8%B3%BD%E2%94%80%E2%94%80%E8%AC%9B%E5%A5%BD%E9%A6%99%E6%B8%AF%E6%95%85%E4%BA%8B%E3%83%BB%E6%8B%8D%E5%87%BA%E5%B0%91%E5%B9%B4%E9%A2%A8%E5%BD%A9-%E7%8F%BE%E6%AD%A3%E6%8E%A5%E5%8F%97%E5%A0%B1%E5%90%8D)；中國電影基金會 × 教局支持 × 教聯會；分數 規模5／獎項4／認受4／複雜3，total_recommend **13**
-  - 新增第一屆 AI青年大使計劃 2026-2027（`ai-youth-ambassador-cee-2026-27`）：學校推薦報名截止 **2026-11-30**；HKUST CEEAA × 香港家長協進會 × 兩岸滙智基金會；公開官網掃描時未能核實（official_link null）；分數 規模3／獎項1／認受2／複雜2，total_recommend **6**
-  - 新增 DBS Inter-School STEM Research Symposium（`dbs-stem-research-symposium-2027`）：Kickoff 報名截止 **2026-11-20**（講座 2026-11-27）；[Eventbrite](https://DBSSTEMSymposiumkickoff.eventbrite.hk)；拔萃男書院學生主導；主論壇 2027 春季詳情未公布；分數 規模2／獎項1／認受2／複雜1，total_recommend **5**
-- **排除（本次視窗）：** STEAM UP 想建理學與教獎項（教師／校本，續沿用 10-28 排除）；教師 CPD（Gemini Enterprise for Education、HKPAGT 專業群組、科技與法律研討會、綠色校園教師 PDP、Special Relativity PDP）；綠校同行無塑日／環保歷奇；AI Lab／Edcosys 課程推廣；已收錄 STEM+E／Step Into STEM／GreenTech／STEAM 科學技術／VTC BIM／愛．創耆樂／星宇盃等重發或提醒（無新實質變更）
+  - 新增 2026-2027年度元朗區學生全方位增值計劃（`yuen-long-student-enrichment-2026-27`）：元朗民政事務處 × 元朗區中學校長會；截止日僅見附件 PDF（deadline null）；官方公開頁未核實（official_link null）；分數 規模3／獎項2／認受2／複雜2，total_recommend **7**
+  - 更新星宇盃2026（`starlux-cup-ai-aviation-2026`）：Creato 最後召集確認報名截止仍 **2026-10-31**；`event_dates` 補上頒獎禮／InnoTech Funfair **2026-12-13**；官網 FAQ 核實賽期 11-22／11-29；total_recommend 仍 **10**
+- **排除（本次視窗）：** 未來香江國際科創教育論壇（教師／校長 TCS）；國家電網之旅2026（教師考察）；LivingWorks safeTALK／ASIST（教師／家長）；AI DRAWBOT 商業推廣；科學館參觀邀請；AI青年大使簡介會重發（無新實質變更）；教師 CPD（Gemini、科技與法律、綠色校園 PDP 等）；綠校同行／AI Lab 課程推廣；已收錄 STEM+E／Step Into STEM／STEAM 科學技術／VTC BIM／榜樣少年／DBS Symposium 等重發
 - **GitHub Pages：** 已推至 leonchantm/student-events
 
 ## 評分摘要
@@ -19,6 +18,10 @@
 ## 歷史紀錄
 
 以下保留較早掃描說明。
+
+## 掃描 2026-10-29
+
+- as_of 2026-10-29；收錄 65（+3：bangyang-shaonian-microfilm-2026、ai-youth-ambassador-cee-2026-27、dbs-stem-research-symposium-2027；0 material updates）；commit cdecc93。
 
 ## 掃描 2026-10-28
 

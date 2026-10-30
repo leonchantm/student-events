@@ -6,13 +6,13 @@
       "deadlines_filled": 19,
       "method": "Gmail plaintext bodies + raw_bodies + WebSearch/WebFetch; no invented URLs/dates"
     },
-    "generated_at": "2026-10-29T11:59:04+08:00",
+    "generated_at": "2026-10-30T12:05:13+08:00",
     "gmail_account_observed": "tmchan@skhbbss.edu.hk",
-    "search_window": "after:2026/10/27 contest/比賽/獎學金/微電影/STEM keywords (+ focus since last scan 2026-10-28)",
-    "as_of": "2026-10-29",
-    "event_count": 65,
+    "search_window": "after:2026/10/28 contest/比賽/獎學金/微電影/STEM/創科/創新 keywords (+ focus since last scan 2026-10-29)",
+    "as_of": "2026-10-30",
+    "event_count": 66,
     "rubric_note": "total_recommend = organizer_scale + awards + recognition (complexity excluded)",
-    "scan_notes": "Daily scan 2026-10-29 HKT. Added 《榜樣少年》微電影比賽, 第一屆 AI青年大使計劃 (HKUST CEEAA), and DBS Inter-School STEM Research Symposium kickoff. No material updates to existing entries. Excluded: STEAM UP 學與教獎項（教師／校本，續沿用 10-28 排除）；教師 CPD（Gemini Enterprise、HKPAGT、科技與法律研討、綠色校園教師 PDP、Special Relativity PDP）；綠校同行無塑日／歷奇；AI Lab／Edcosys 課程推廣；已收錄 STEM+E／Step Into STEM／GreenTech／STEAM 科學技術／VTC BIM／愛．創耆樂／星宇盃等重發或提醒。"
+    "scan_notes": "Daily scan 2026-10-30 HKT. Added 元朗區學生全方位增值計劃 2026-27. Material update: starlux-cup-ai-aviation-2026 event_dates（頒獎禮／InnoTech Funfair 2026-12-13；截止仍 2026-10-31）. Excluded: 未來香江國際科創教育論壇（教師／校長 TCS）；國家電網之旅2026（教師考察）；LivingWorks safeTALK（教師／家長）；AI DRAWBOT 商業推廣；科學館參觀邀請；AI青年大使簡介會重發（無新實質變更）；教師 CPD／Gemini／科技與法律／綠校同行／AI Lab 等續排除。"
   },
   "events": [
     {
@@ -884,7 +884,7 @@
       "name": "全港校際 AI 航空比賽 2026 - 星宇盃",
       "name_en": "Hong Kong Inter-school AI Aviation Competition 2026 - STARLUX Cup",
       "domain": "STEM / AI / Aviation",
-      "event_dates": "首輪賽前工作坊 2026-10-24–25（金鐘 HK TECH 300）；次輪賽前工作坊 2026-11-07–08；模擬飛行挑戰賽 2026-11-22；AI 航空航線規劃挑戰賽 2026-11-29（地點：香港聖公會聖瑪利堂莫慶堯中學）",
+      "event_dates": "首輪賽前工作坊 2026-10-24–25（金鐘 HK TECH 300）；次輪賽前工作坊 2026-11-07–08；模擬飛行挑戰賽 2026-11-22；AI 航空航線規劃挑戰賽 2026-11-29（地點：香港聖公會聖瑪利堂莫慶堯中學）；頒獎禮／InnoTech Funfair 2026-12-13 11:00–17:00（頒獎 14:00–16:30）",
       "deadline": "2026-10-31",
       "organizer": "Creato × 香港電腦教育學會 (HKACE)；冠名贊助：星宇航空；支持：HK TECH 300、HKAI Lab",
       "eligibility": "中學初中組（中一至中三）、高中組（中四至中六）；每隊 2–4 人；費用每隊 HK$3,000（兩隊優惠 HK$4,800）；適用「智啟學教」等撥款",
@@ -902,7 +902,7 @@
         "recognition": 3,
         "complexity": 3
       },
-      "notes": "郵件為 Creato 促銷文案，但官網核實截止日、賽期與獎項。報名表：中學組 Google Form（見郵件）。 2026-10-27 郵件：首輪工作坊已完成；次輪工作坊 2026-11-07–08；報名截止仍 2026-10-31。",
+      "notes": "郵件為 Creato 促銷文案，但官網核實截止日、賽期與獎項。報名表：中學組 Google Form（見郵件）。 2026-10-27 郵件：首輪工作坊已完成；次輪工作坊 2026-11-07–08；報名截止仍 2026-10-31。 2026-10-30 Creato 最後召集郵件：報名仍截止 2026-10-31 23:59；確認賽期 11-22／11-29；新增頒獎禮／InnoTech Funfair 2026-12-13。",
       "total_recommend": 10,
       "upcoming": true
     },
@@ -1768,6 +1768,33 @@
       },
       "notes": "Kickoff 報名截止 2026-11-20；Eventbrite https://DBSSTEMSymposiumkickoff.eventbrite.hk 。查詢 Marcus Wong dbs23071790@g.dbs.edu.hk。主賽事提交截止尚未公布，不臆造。分數：規模2（單校學生主導聯校邀請）、獎項1、認受2、複雜1（聽講）。",
       "total_recommend": 5,
+      "upcoming": true
+    },
+    {
+      "id": "yuen-long-student-enrichment-2026-27",
+      "name": "2026-2027年度元朗區學生全方位增值計劃",
+      "name_en": "Yuen Long District Student All-round Enrichment Programme 2026-2027",
+      "domain": "Life Planning / Civic / Community / Leadership",
+      "event_dates": "2026/27 學年系列講座、參觀、社福機構培訓及分享會（主題：扎根社區知國情 立足體驗建未來；具體日程見附件章程，正文未列）",
+      "deadline": null,
+      "organizer": "元朗民政事務處主辦；元朗區中學校長會合辦；元朗大會堂協辦",
+      "eligibility": "元朗區中學推薦學生參與（本校屬元朗區）；詳情及表格見郵件附件 PDF",
+      "summary": "透過講座、參觀、社福機構培訓及分享會，引導學生認識自我、定立目標、擴闊視野；歷屆設成果分享及獎項（如優異表現獎、內容充實獎）。",
+      "official_link": null,
+      "source": {
+        "subject": "Fwd: 誠邀推薦學生參與「2026- 2027年度元朗區學生全方位增值計劃」",
+        "date": "2026-10-30",
+        "thread_id": "1a18ad9d2f9f4522",
+        "message_id": "1a18ad9d2f9f4522"
+      },
+      "scores": {
+        "organizer_scale": 3,
+        "awards": 2,
+        "recognition": 2,
+        "complexity": 2
+      },
+      "notes": "報名截止日僅見附件「2026-2027 元朗區全方位增值計劃.pdf」，正文未列，故 deadline null。查詢轉發校 2447 8123 李小姐（十八鄉鄉事委員會公益社中學／元朗區中學校長會）。公開官網 2026-27 屆於掃描時未能核實，official_link null。分數：規模3（區民政處／校長會）、獎項2（歷屆證書類獎）、認受2（區內學界）、複雜2。",
+      "total_recommend": 7,
       "upcoming": true
     }
   ]
