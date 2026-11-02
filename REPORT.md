@@ -1,14 +1,18 @@
 # 學生比賽／活動中期清單（Gmail 掃描）
 
-- **掃描日期：** 2026-10-30（Asia/Hong_Kong）— Daily student events Gmail scan
-- **上次發佈／as_of：** 2026-10-29 → 本次更新至 2026-10-30
+- **掃描日期：** 2026-11-02（Asia/Hong_Kong）— Daily student events Gmail scan
+- **上次發佈／as_of：** 2026-10-30 → 本次更新至 2026-11-02
 - **Gmail 帳戶：** tmchan@skhbbss.edu.hk
-- **本次搜尋：** `after:2026/10/28` 比賽／競賽／獎學金／微電影／STEM／創科／創新等關鍵字（焦點為上次掃描後新信；含重疊）
-- **收錄活動數：** 66（1 new；1 material update）
+- **本次搜尋：** `after:2026/10/29` 比賽／競賽／獎學金／微電影／STEM／創科／創新／短片／Challenge 等關鍵字（焦點為上次掃描後；含週末 10-31／11-01 空隙）
+- **收錄活動數：** 69（3 new；3 material updates）
 - **變更：**
-  - 新增 2026-2027年度元朗區學生全方位增值計劃（`yuen-long-student-enrichment-2026-27`）：元朗民政事務處 × 元朗區中學校長會；截止日僅見附件 PDF（deadline null）；官方公開頁未核實（official_link null）；分數 規模3／獎項2／認受2／複雜2，total_recommend **7**
-  - 更新星宇盃2026（`starlux-cup-ai-aviation-2026`）：Creato 最後召集確認報名截止仍 **2026-10-31**；`event_dates` 補上頒獎禮／InnoTech Funfair **2026-12-13**；官網 FAQ 核實賽期 11-22／11-29；total_recommend 仍 **10**
-- **排除（本次視窗）：** 未來香江國際科創教育論壇（教師／校長 TCS）；國家電網之旅2026（教師考察）；LivingWorks safeTALK／ASIST（教師／家長）；AI DRAWBOT 商業推廣；科學館參觀邀請；AI青年大使簡介會重發（無新實質變更）；教師 CPD（Gemini、科技與法律、綠色校園 PDP 等）；綠校同行／AI Lab 課程推廣；已收錄 STEM+E／Step Into STEM／STEAM 科學技術／VTC BIM／榜樣少年／DBS Symposium 等重發
+  - 新增 中電「校園工程師」能源築未來挑戰賽 2026/27（`clp-eis-energy-future-2026-27`）：報名截止 **2026-12-18**；計劃書 2027-02-01；官網 https://www.clp.com.hk/zh/education-development/engineer-in-school-programme ；分數 規模4／獎項4／認受4／複雜3，total_recommend **12**
+  - 新增 AI 代理線上解難大賽（`trumptech-lenovo-ai-agent-2027`）：尊科 × Lenovo；截止 **2027-01-29**；比賽日 2027-05-15；官網用 trumptech.com（獨立賽事頁未核實）；total_recommend **7**
+  - 新增 未來交通 AIoT 應用大賽（`trumptech-kmb-aiot-transport-2027`）：尊科 × 九巴；截止 **2027-01-29**；比賽日 2027-05-29；total_recommend **7**
+  - 更新第29屆香港青少年科技創新大賽（`hkysti-29`）：主辦郵件確認報名截止 **2027-01-15**、交件 **2027-01-22**（先前 deadline null）
+  - 更新第四屆低碳節能發明大賽（`clp-lowcarbon-invention-4`）：最後召集正文確認截止 **2026-11-13**（先前 null）
+  - 更新「心事・開拍」（`xinshi-shortfilm-2026`）：補齊主辦香港沃土發展社、中一至中四資格、培訓日程 11-02／12／19（重發郵件＋官網核實；截止仍 2026-12-31）
+- **排除（本次視窗）：** World Science Championship（來自行歷可疑 Gmail／USD15／K–G8）；寧夏天文青年考察團（收費交流團非比賽）；GIES 2026 組團參觀；校長／老師十五五講座；CUHK Orchard 教師工作坊；教城 AI 備課研討會；DFC 免費網上培訓重發；DBS STEM Symposium Kickoff 重發（無新實質）；STEMA 教材優惠；價值教育計劃推廣；教師 CPD／Mac 裝置管理等
 - **GitHub Pages：** 已推至 leonchantm/student-events
 
 ## 評分摘要
@@ -18,6 +22,12 @@
 ## 歷史紀錄
 
 以下保留較早掃描說明。
+
+## 掃描 2026-10-30
+
+## 掃描 2026-10-30
+
+- as_of 2026-10-30；收錄 66（+1：yuen-long-student-enrichment-2026-27；1 material update：starlux-cup-ai-aviation-2026）；commit 10e217d。
 
 ## 掃描 2026-10-29
 
