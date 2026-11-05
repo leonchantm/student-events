@@ -1,13 +1,15 @@
 # 學生比賽／活動中期清單（Gmail 掃描）
 
-- **掃描日期：** 2026-11-04（Asia/Hong_Kong）— Daily student events Gmail scan
-- **上次發佈／as_of：** 2026-11-03 → 本次更新至 2026-11-04
+- **掃描日期：** 2026-11-05（Asia/Hong_Kong）— Daily student events Gmail scan
+- **上次發佈／as_of：** 2026-11-04 → 本次更新至 2026-11-05
 - **Gmail 帳戶：** tmchan@skhbbss.edu.hk
-- **本次搜尋：** `after:2026/11/02`–`03` 比賽／競賽／挑戰賽／獎學金／微電影／STEM／創科／創新／短片／Challenge／Competition／Ambassador／大使 等關鍵字（焦點為上次掃描後 Nov 3–4）
-- **收錄活動數：** 71（1 new；0 material updates）
+- **本次搜尋：** `after:2026/11/03`–`04` 比賽／競賽／挑戰賽／獎學金／微電影／STEM／創科／創新／短片／Challenge／Competition／Ambassador／大使／Hackathon／Game Jam／ICAS 等關鍵字（焦點為上次掃描後 Nov 4–5）
+- **收錄活動數：** 73（2 new；1 material update）
 - **變更：**
-  - 新增首屆年度全港中小學 AI 大使計劃（`hknetea-ai-ambassador-2026`）：香港新興科技教育協會（HKNETEA）主辦，數字政策辦公室 IT-LAB 於 2026-11-03 轉發；每校提名 1 師 1 生；提名截止 **2026-11-30**；官網 https://www.hknetea.org/zh/competitions-1/ai-ambassador-initiative ；學生表 https://forms.gle/q4KQVS9efCgNYzxd8 、教師表 https://forms.gle/9F9wSMZRrhz1KmrY9 ；分數 規模4／獎項2／認受3／複雜2，total_recommend **9**（勿與 `ai-youth-ambassador-cee-2026-27` 混淆）
-- **排除／僅提醒（無目錄實質變更）：** CYLF 小紅花最後召集（截止仍 2026-11-06）；中電低碳發明 EDB 倒數（截止仍 2026-11-13）；獅子會 AI 挑戰賽 REMINDER（截止仍 2026-11-17）；Micro Dimension／CIC BIM 硬件推廣（STEAM×BIM 報名已截止）；TURNED-E 課程／科普講堂／教師工作坊／Shaw Prize Lecture；Sayo AI／Groovy 作曲（昨已排除）；Avatech 工作坊
+  - 新增 Haven HK 2026 免費遊戲創作營及黑客松（`haven-hk-2026`）：Hack Club Haven HK；活動 **2026-11-14–15** CDNIS；報名截止 **2026-11-12**；官網 https://havenhk.xyz ；分數 規模3／獎項3／認受2／複雜3，total_recommend **8**
+  - 新增 2027 ICAS 國際聯校學科評估及比賽（`icas-2027`）：ICAN／悉尼大學支持；正式報名截止 **2027-02-19**（早鳥 **2026-12-31**）；官網 https://icas.icanglobaledu.com/ ；分數 規模5／獎項3／認受4／複雜2，total_recommend **12**
+  - 實質更新第六屆香港創科展（`hk-science-fair-2026-27`）：`event_dates` 由「通常翌年會展」改為 **2027-06-26 至 2027-06-27** 香港會議展覽中心展覽暨頒獎（教聯會轉載香港創新基金公布）；第一階段截止仍 **2026-11-29**
+- **排除／僅提醒（無目錄實質變更）：** Step Into STEM 老師簡介會 Zoom 鏈結（日程已列）；CYLF 小紅花最後召集（截止仍 2026-11-06）；中電低碳發明 EDB 倒數（截止仍 2026-11-13）；獅子會 AI 挑戰賽 REMINDER（截止仍 2026-11-17）；HKNETEA AI 大使（昨已入冊）；HKIT 到校體驗工作坊；Steam4All×AI Teachers Alliance（教師計劃）；TURNED-E 水火箭／課程推介；科普講堂；Micro Dimension／CIC BIM 硬件推廣；Sayo AI；航天築夢表單回條（無新日程）
 - **GitHub Pages：** 已推至 leonchantm/student-events
 
 ## 評分摘要
@@ -17,6 +19,23 @@
 ## 歷史紀錄
 
 以下保留較早掃描說明。
+
+## 掃描 2026-11-04
+
+- as_of 2026-11-04；收錄 71（+1：hknetea-ai-ambassador-2026；0 material updates）；commit 352e7e1。
+
+## 評分摘要
+
+詳見 [RUBRIC.md](RUBRIC.md)。`total` = 規模+獎項+認受性；複雜度獨立。
+
+## 歷史紀錄
+
+以下保留較早掃描說明。
+
+
+## 掃描 2026-11-04
+
+- as_of 2026-11-04；收錄 71（+1：hknetea-ai-ambassador-2026；0 material updates）；commit 352e7e1。
 
 ## 掃描 2026-11-03
 

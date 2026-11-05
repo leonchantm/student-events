@@ -6,13 +6,13 @@
       "deadlines_filled": 19,
       "method": "Gmail plaintext bodies + raw_bodies + WebSearch/WebFetch; no invented URLs/dates"
     },
-    "generated_at": "2026-11-04T12:00:22+08:00",
+    "generated_at": "2026-11-05T12:04:26+08:00",
     "gmail_account_observed": "tmchan@skhbbss.edu.hk",
-    "search_window": "after:2026/11/02–03 contest/比賽/競賽/挑戰賽/獎學金/微電影/STEM/創科/創新/短片/Challenge/Competition/Ambassador/大使 keywords (+ focus since last scan 2026-11-03; Nov 3–4 arrivals)",
-    "as_of": "2026-11-04",
-    "event_count": 71,
+    "search_window": "after:2026/11/03–04 contest/比賽/競賽/挑戰賽/獎學金/微電影/STEM/創科/創新/短片/Challenge/Competition/Ambassador/大使/Hackathon/Game Jam/ICAS keywords (focus since last scan 2026-11-04)",
+    "as_of": "2026-11-05",
+    "event_count": 73,
     "rubric_note": "total_recommend = organizer_scale + awards + recognition (complexity excluded)",
-    "scan_notes": "Daily scan 2026-11-04 HKT. Added 首屆年度全港中小學 AI 大使計劃（HKNETEA；DPO IT-LAB 轉發）。No other material catalogue changes. Reminders only (no deadline/link/score change): cylf-ai-for-good-2026-27（最後召集，截止仍 2026-11-06）、clp-lowcarbon-invention-4（EDB 倒數，截止仍 2026-11-13）、lions-ai-challenge（REMINDER，截止仍 2026-11-17）。Excluded: Micro Dimension／CIC BIM 硬件推廣（STEAM×BIM 報名已截止）；TURNED-E AI STEAM 課程推介；創新科技科普講堂（講座）；Trumptech／小樂秒閱／eClass 教師工作坊；Shaw Prize Lecture；Sayo AI／Groovy 作曲大賽（昨已排除）；Avatech 巴士天氣工作坊。"
+    "scan_notes": "Daily scan 2026-11-05 HKT. Added Haven HK 2026 Game Jam/Hackathon; added ICAS 2027. Material update: hk-science-fair-2026-27 event_dates → 2027-06-26–27 HKCEC (HKFEW co-announcement; deadline still 2026-11-29). Reminders only: Step Into STEM teacher Zoom link (dates already listed); CYLF 小紅花最後召集; CLP lowcarbon EDB countdown; lions-ai-challenge REMINDER; hknetea-ai-ambassador already catalogued 2026-11-04. Excluded: HKIT 到校學科體驗工作坊; HKACE Steam4All x AI Teachers Alliance (teacher programme); TURNED-E 水火箭產品／AI STEAM 課程推介; 創新科技科普講堂; Micro Dimension／CIC BIM 硬件推廣; Sayo AI 產品推廣; space-ai-dream form receipt (no new dates)."
   },
   "events": [
     {
@@ -47,17 +47,18 @@
       "name": "第六屆香港創科展 (Hong Kong Science Fair) 2026-2027",
       "name_en": "6th Hong Kong Science Fair 2026-2027",
       "domain": "STEM / Science Innovation",
-      "event_dates": "展覽及頒獎通常於翌年在會展舉行（具體日期見官網）",
+      "event_dates": "展覽暨頒獎典禮 2027-06-26 至 2027-06-27 香港會議展覽中心（入圍隊伍）",
       "deadline": "2026-11-29",
       "organizer": "香港創新基金",
       "eligibility": "小四至中六學生及指導老師；網上平台第一階段報名",
       "summary": "大型創科展覽比賽，歷屆金獎隊可獲安排赴瑞士日內瓦國際發明展。2027 年適逢回歸 30 周年，首次邀請海外隊伍。",
       "official_link": "https://www.hksciencefair.org.hk/",
       "source": {
-        "subject": "[立即行動] 香港創科展2026-2027開始接受報名！",
-        "date": "2026-10-02",
-        "thread_id": "1a0fba749b5522cd",
-        "message_id": "1a0fba749b5522cd"
+        "subject": "[立即行動] 香港創科展2026-2027開始接受報名！🚀",
+        "date": "2026-11-04",
+        "thread_id": "1a1a58112469f311",
+        "message_id": "1a1a58112469f311",
+        "prior_source_note": "Originally catalogued from 2026-10-02 open-registration mail; 2026-11-04 reminder + exhibition dates filled from HKFEW co-announcement."
       },
       "scores": {
         "organizer_scale": 5,
@@ -65,7 +66,7 @@
         "recognition": 5,
         "complexity": 4
       },
-      "notes": "第一階段報名截止 2026-11-29；報名平台 https://hksfr.awardsplatform.com/",
+      "notes": "第一階段報名截止 2026-11-29 23:59；報名平台 https://hksfr.awardsplatform.com/。2026-11-04 再發報名提醒（deadline 不變）。展覽／頒獎日期據教聯會轉載之香港創新基金公布：2027-06-26–27 會展（https://www.hkfew.org.hk/cn/社會/合作/item/12905-hksciencefair）。",
       "total_recommend": 15,
       "upcoming": true
     },
@@ -471,6 +472,33 @@
         "complexity": 3
       },
       "notes": "報名截止 2026-12-18 23:59；計劃書截止 2027-02-01。郵件短鏈 https://e.clp.com.hk/474YaWF 解析至中電「校園工程師」計劃頁；公開報道報名表 https://forms.gle/qgj6mWLPnvUz2CyX8 ；主題頁 https://www.stheadline.com/theme/clp_eis2026 。查詢 alice.choi@clp.com.hk／2678 8816 或 paris.hui@clp.com.hk／2678 6308。分數：規模4（中電＋EDB／HKIE／EdCity）、獎項4（萬元資助＋高額禮券）、認受4、複雜3。",
+      "total_recommend": 12,
+      "upcoming": true
+    },
+    {
+      "id": "icas-2027",
+      "name": "2027 ICAS 國際聯校學科評估及比賽",
+      "name_en": "ICAS Assessments 2027 (International Competitions and Assessments for Schools)",
+      "domain": "Academic Assessment / STEM / Languages",
+      "event_dates": "官方評估期約 2027年3–5月（英文／數學／科學／寫作／資訊科技／拼寫等科目具體試期見官網測試期頁）；學校與個人報名現已開放",
+      "deadline": "2027-02-19",
+      "organizer": "International Centre of Assessments and Nurturing (ICAN)；ICAS 獲悉尼大學支持",
+      "eligibility": "港澳中小學（學校報名）；另設個人報名；科目視程度而定（數學／科學可中英；小三英文版科學科 2027 新推）",
+      "summary": "源自澳洲、獲悉尼大學支持的技能本位國際聯校學科評估及比賽，著重高階思維與解難；提供分題／技能分析報告及國際認可證書／獎章。港澳已實施逾 20 年、累計 400+ 校參與。",
+      "official_link": "https://icas.icanglobaledu.com/",
+      "source": {
+        "subject": "Fwd: [ICAS 2027] School Registration & Webinars Now Open | 2027 ICAS國際聯校學科評估及比賽 學校報名及網上講座現正開放報名",
+        "date": "2026-11-04",
+        "thread_id": "1a1a4d40835e9c92",
+        "message_id": "1a1a4d40835e9c92"
+      },
+      "scores": {
+        "organizer_scale": 5,
+        "awards": 3,
+        "recognition": 4,
+        "complexity": 2
+      },
+      "notes": "正式報名截止 **2027-02-19**；早鳥優惠截止 **2026-12-31**。學校報名 https://icas.icanglobaledu.com/icas-registration/ ；測試期／費用 https://icas.icanglobaledu.com/icas-testing-periods-and-fees/ ；個人報名另頁。網上講座報名 https://forms.gle/vVgqnghXtwofVXDc7 。查詢 assessments@icanglobaledu.com／WhatsApp +852 5201 7988。分數：規模5（悉尼大學支持、41國）／獎項3（證書／獎章＋國際認受）／認受4／複雜2。",
       "total_recommend": 12,
       "upcoming": true
     },
@@ -1474,6 +1502,33 @@
       "upcoming": true
     },
     {
+      "id": "hknetea-ai-ambassador-2026",
+      "name": "首屆年度全港中小學 AI 大使計劃（HKNETEA）",
+      "name_en": "Inaugural Annual AI Ambassador Programme 2026 (HKNETEA)",
+      "domain": "AI / Digital Education / Leadership",
+      "event_dates": "校長提名後：專業賦能工作坊 → 校園實踐與推廣 → 年度全港頒獎禮暨成果展（具體日期以主辦通知為準）",
+      "deadline": "2026-11-30",
+      "organizer": "香港新興科技教育協會 (HKNETEA)；數字政策辦公室 IT 創新實驗室（IT-LAB）轉發邀請",
+      "eligibility": "全港小學及中學；每校由校長提名 1 位教師大使及 1 位學生大使；費用全免",
+      "summary": "香港首個同類型 AI 大使計劃，表揚及培育在人工智能領域具熱忱與潛能的師生；大使於校內推動 AI 素養、同儕培訓與負責任 AI 應用，並獲頒獎典禮表彰及培訓／跨校網絡資源。",
+      "official_link": "https://www.hknetea.org/zh/competitions-1/ai-ambassador-initiative",
+      "source": {
+        "subject": "Invitation to Participate in the AI Ambassador Programme 2026",
+        "date": "2026-11-03",
+        "thread_id": "1a1a0f4cb8679c58",
+        "message_id": "1a1a0f4cb8679c58"
+      },
+      "scores": {
+        "organizer_scale": 4,
+        "awards": 2,
+        "recognition": 3,
+        "complexity": 2
+      },
+      "notes": "提名截止 **2026-11-30**（HKNETEA 2026-10-23 邀請電郵；2026-11-03 數字政策辦公室 IT-LAB 再邀）。學生提名 https://forms.gle/q4KQVS9efCgNYzxd8 ；教師提名 https://forms.gle/9F9wSMZRrhz1KmrY9 。官網 https://www.hknetea.org/zh/competitions-1/ai-ambassador-initiative （英 https://www.hknetea.org/competitions-1/ai-ambassador-initiative）。勿與 HKUST CEEAA「AI青年大使計劃」（`ai-youth-ambassador-cee-2026-27`）混淆。查詢 info@hknetea.org / 2869 6603。分數：規模4／獎項2（頒獎典禮表彰＋培訓網絡，郵件未列現金獎）／認受3／複雜2。",
+      "total_recommend": 9,
+      "upcoming": true
+    },
+    {
       "id": "dfc-ai-2026-27",
       "name": "2026–27 DFC × AI 創意行動挑戰賽",
       "name_en": "DFC × AI Creative Action Challenge 2026-27",
@@ -1528,33 +1583,6 @@
       "upcoming": true
     },
     {
-      "id": "hknetea-ai-ambassador-2026",
-      "name": "首屆年度全港中小學 AI 大使計劃（HKNETEA）",
-      "name_en": "Inaugural Annual AI Ambassador Programme 2026 (HKNETEA)",
-      "domain": "AI / Digital Education / Leadership",
-      "event_dates": "校長提名後：專業賦能工作坊 → 校園實踐與推廣 → 年度全港頒獎禮暨成果展（具體日期以主辦通知為準）",
-      "deadline": "2026-11-30",
-      "organizer": "香港新興科技教育協會 (HKNETEA)；數字政策辦公室 IT 創新實驗室（IT-LAB）轉發邀請",
-      "eligibility": "全港小學及中學；每校由校長提名 1 位教師大使及 1 位學生大使；費用全免",
-      "summary": "香港首個同類型 AI 大使計劃，表揚及培育在人工智能領域具熱忱與潛能的師生；大使於校內推動 AI 素養、同儕培訓與負責任 AI 應用，並獲頒獎典禮表彰及培訓／跨校網絡資源。",
-      "official_link": "https://www.hknetea.org/zh/competitions-1/ai-ambassador-initiative",
-      "source": {
-        "subject": "Invitation to Participate in the AI Ambassador Programme 2026",
-        "date": "2026-11-03",
-        "thread_id": "1a1a0f4cb8679c58",
-        "message_id": "1a1a0f4cb8679c58"
-      },
-      "scores": {
-        "organizer_scale": 4,
-        "awards": 2,
-        "recognition": 3,
-        "complexity": 2
-      },
-      "notes": "提名截止 **2026-11-30**（HKNETEA 2026-10-23 邀請電郵；2026-11-03 數字政策辦公室 IT-LAB 再邀）。學生提名 https://forms.gle/q4KQVS9efCgNYzxd8 ；教師提名 https://forms.gle/9F9wSMZRrhz1KmrY9 。官網 https://www.hknetea.org/zh/competitions-1/ai-ambassador-initiative （英 https://www.hknetea.org/competitions-1/ai-ambassador-initiative）。勿與 HKUST CEEAA「AI青年大使計劃」（`ai-youth-ambassador-cee-2026-27`）混淆。查詢 info@hknetea.org / 2869 6603。分數：規模4／獎項2（頒獎典禮表彰＋培訓網絡，郵件未列現金獎）／認受3／複雜2。",
-      "total_recommend": 9,
-      "upcoming": true
-    },
-    {
       "id": "maritime-ai-film-2026",
       "name": "「說好香港海事故事」生成式 AI 短片創作比賽",
       "name_en": "Tell Hong Kong Maritime Stories – Generative AI Short Film Contest",
@@ -1605,6 +1633,33 @@
         "complexity": 2
       },
       "notes": "學校報名截止 2026-11-06 23:59；Jotform https://form.jotform.com/262931309941460 。英文頁 https://leadershipinstitute.hkfyg.org.hk/greentech-youth-learning-lab/index_en.html 。查詢 2169 0255（梁小姐／何小姐）。屬免費學習系列（非獎金賽）；分數：規模4、獎項1、認受3、複雜2。",
+      "total_recommend": 8,
+      "upcoming": true
+    },
+    {
+      "id": "haven-hk-2026",
+      "name": "Haven HK 2026 免費遊戲創作營及黑客松",
+      "name_en": "Haven HK 2026 Free Game Jam & Hackathon",
+      "domain": "Game Dev / Coding / STEM",
+      "event_dates": "2026-11-14 至 2026-11-15（兩日 10:00–18:00）香港加拿大國際學校（CDNIS）",
+      "deadline": "2026-11-12",
+      "organizer": "Haven Hong Kong（Hack Club）；贊助 Animoca Brands；CDNIS 教師監督；BSD Education 提供優勝者實習機會",
+      "eligibility": "全港中學、年齡 13–18 歲學生；毋須編程／STEM 經驗；須自備手提電腦及充電器；費用全免（含午餐茶點）",
+      "summary": "兩日 Game Jam／黑客松：工作坊（GameMaker、Godot、像素藝術、遊戲設計）、組隊從零創作可玩遊戲、業界導師指導；獎品包括 3D 列印機、禮品卡、軟件訂閱、電子遊戲；優勝者或獲實習機會。",
+      "official_link": "https://havenhk.xyz",
+      "source": {
+        "subject": "Fwd: 【活動邀請】Haven HK 2026 – 免費遊戲創作營及黑客松｜Free Game Jam & Hackathon",
+        "date": "2026-11-05",
+        "thread_id": "1a1a91c209bb7a48",
+        "message_id": "1a1a91c209bb7a48"
+      },
+      "scores": {
+        "organizer_scale": 3,
+        "awards": 3,
+        "recognition": 2,
+        "complexity": 3
+      },
+      "notes": "報名截止 2026-11-12（名額有限）；官網 https://havenhk.xyz ；IG https://www.instagram.com/hk.haven.hackclub/ ；查詢 hong-kong@haven.hackclub.com。Hack Club 國際學生非牟利組織；本地由中六生籌辦、Animoca Brands 贊助。分數：規模3／獎項3（實體獎品＋實習機會）／認受2／複雜3。",
       "total_recommend": 8,
       "upcoming": true
     },
