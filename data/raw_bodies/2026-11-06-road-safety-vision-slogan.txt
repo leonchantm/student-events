@@ -1,0 +1,7 @@
+source: Gmail thread 1a1a9ee6dcbdab35 / message 1a1a9ee6dcbdab35
+date: 2026-11-05 (fwd from iris.yip@impact-cc.com; School Information to tmchan)
+subject: 道路安全願景口號創作比賽 + 免費 AI 短片創作工作坊
+official: https://www.roadsafetyvision.hk/
+deadline: 2026-12-31
+award ceremony: 2027-02-28 D.PARK
+verified: WebFetch competition-details + WebSearch hkcd 2026-11-05
