@@ -1,13 +1,14 @@
 # 學生比賽／活動中期清單（Gmail 掃描）
 
-- **掃描日期：** 2026-11-06（Asia/Hong_Kong）— Daily student events Gmail scan
-- **上次發佈／as_of：** 2026-11-05 → 本次更新至 2026-11-06
+- **掃描日期：** 2026-11-09（Asia/Hong_Kong）— Daily student events Gmail scan
+- **上次發佈／as_of：** 2026-11-06 → 本次更新至 2026-11-09
 - **Gmail 帳戶：** tmchan@skhbbss.edu.hk
-- **本次搜尋：** `after:2026/11/04`–`05` 比賽／競賽／挑戰／大賽／獎學金／STEM／大使／Challenge／Competition／Ambassador／Hackathon／olympiad 等關鍵字（焦點為上次掃描後 Nov 5–6）
-- **收錄活動數：** 74（1 new；0 material updates）
+- **本次搜尋：** `after:2026/11/05`–`06` 比賽／競賽／挑戰／大賽／獎學金／STEM／大使／Challenge／Competition／Ambassador／Hackathon／olympiad 等關鍵字（焦點為上次掃描後 Nov 6 正午起，含週末）；亦輔以創新／徵集／報名／截止／短片／模型
+- **收錄活動數：** 76（2 new；0 material updates）
 - **變更：**
-  - 新增道路安全願景口號創作比賽 2026（`road-safety-vision-slogan-2026`）：道路安全議會主辦（運物局／教育局／警務處等支持）；核心口號＋可選「留心蛋」造型／AI 短片；截止 **2026-12-31**；頒獎 **2027-02-28** D‧PARK；官網 https://www.roadsafetyvision.hk/ ；分數 規模5／獎項4／認受4／複雜2，total_recommend **13**
-- **排除／僅提醒（無目錄實質變更）：** ICE Challenge 2026-27 僅有 Caprikon／HKACE 教師 Zoom 簡介會邀請（2026-11-23；icefoundation.io 尚未公布 2026-27 報名截止，故不入冊）；教城學生活動全導覽 PDF（PICCKS 等已有 `piccks-2026-27`）；Step Into STEM 老師簡介會 Zoom（日程已列）；Haven HK／ICAS／創科展（昨已入冊）；HKIT 到校體驗；教師 AI 研討／Zoala 工作坊；STEAM Alliance 防騙聲明；Edcosys 無人機課程推介
+  - 新增第二屆《品牌守護先鋒》青年知識產權短片比賽（`hkbpa-brand-guardian-2026`）：香港工商品牌保護陣綫主辦（海關／知識產權署支持）；報名截止 **2026-12-31**、作品連結 **2027-01-03**；頒獎 2027年3月海關總部大樓；官網 https://www.hkbpa.org/news.php?id=192 ；分數 規模3／獎項4／認受3／複雜2，total_recommend **10**
+  - 新增環保嘉年華2027暨第26屆環保創意模型設計比賽（`greencouncil-eco-model-2027`）：環保促進會主辦；嘉年華／比賽 **2027-01-24** 九龍公園羅馬廣場；簡介會 Zoom **2026-11-28**；報名截止未在郵件正文或官網嘉年華頁列明（頁面仍顯示 2026 屆），故 deadline 為 null；官網 https://www.greencouncil.org/gc ；分數 規模3／獎項3／認受3／複雜3，total_recommend **9**
+- **排除／僅提醒（無目錄實質變更）：** 敬師會「向老師致敬」11月20日截止提醒（已有 `crotc-tribute-2026`）；中電第四屆低碳節能發明大賽倒數 7 天（已有 `clp-lowcarbon-invention-4`，截止仍 2026-11-13）；ICE Challenge 2026-27 仍僅教師 Zoom 簡介會（11月23日；icefoundation.io 未公布本屆提名／截止）；香港建築中心「建築入門．大學先修班」講座／10 人工作坊（非比賽）；教城學生活動全導覽 PDF（PICCKS 已有 `piccks-2026-27`）；元朗區中學校際游泳比賽校內頒獎申請（賽事已於 2026-10-09 舉行）；HKACE×AWS 教師工作坊、STREAM 合作推介、BEC 回收攤位、廠商推介郵件
 - **GitHub Pages：** 已推至 leonchantm/student-events
 
 ## 評分摘要
@@ -65,37 +66,43 @@
 | 45 | 第一屆全港校園電視台「AI帶你遊中國」短視頻大比拼 | AI / Media / Citizenship | 2026-11-13 | 簡介會 2026-10-12 | （HKACE 支持轉發） | **10** | 3 | 4 | 3 | 2 |  |
 | 46 | 第四屆低碳節能發明大賽（中電） | STEM / Environment / Physics | 2026-11-13 |  | 中電低碳能源教育中心 | **10** | 4 | 3 | 3 | 2 | [link](https://forms.gle/NbewzJjNHSBuSTFy8) |
 | 47 | 香港綠色建築議會「綠色空間　由我創造」學生比賽 2026-2027 | Environment / Design / STEM | 2026-12-31 |  | 香港綠色建築議會 (HKGBC) | **10** | 4 | 3 | 3 | 3 | [link](https://www.hkgbc.org.hk/studentcompetition) |
-| 48 | 2026 ESG 商業創意大賽 | Business / ESG / Innovation | 2026-11-30 |  | IVE（商科）VTC | **9** | 3 | 3 | 3 | 3 | [link](https://docs.google.com/forms/d/e/1FAIpQLSf7FLFoSphyi6gHTK-t6sEOZjR9vBAVkcR7nRP2NN44CmpAUQ/viewform?usp=publish-editor) |
-| 49 | 2026–27 DFC × AI 創意行動挑戰賽 | AI / Design Thinking / Citizenship |  | 啟動禮 2026-10-31 | Design for Change 相關 | **9** | 3 | 3 | 3 | 3 | [link](https://www.dfcworld.org/hongkong) |
-| 50 | World Youth Chemistry Talent Olympiad (WYCTO) 2026 | Chemistry | 2026-09-24 |  | （國際化學人才奧林匹克相關；郵件邀請） | **9** | 3 | 3 | 3 | 4 | [link](https://drive.google.com/drive/folders/1glNfcGxY1NmSezuaXIGkjSY-3AQGVp3Z?usp=sharing) |
-| 51 | 「獅展翼彩·智領低空」中學生及大專生無人機大賽 | STEM / Drone / Robotics | 2026-10-16 |  | 獅子會 | **9** | 3 | 3 | 3 | 4 | [link](https://forms.gle/ukDMMQjqadL9xLQK9) |
-| 52 | 向老師致敬學生比賽 2026（敬師運動委員會） | Arts / Chinese / Civic / AI Media | 2026-11-20 | 結果約 2027-01 公布；頒獎典禮暨展覽會日期待公布 | 敬師運動委員會 (Committee on Respect Our Teachers Campaign, CROTC) | **9** | 3 | 3 | 3 | 2 | [link](https://www.crotc.org.hk/awardthisyear.html) |
-| 53 | 教育未來・薪火同行—「慶祝香港回歸祖國 30 周年創意口號設計活動」 | Civic / National Education / Creative | 2026-11-20 | 嘉許禮暫定 2027-01 下旬 | 香港教育大學學校協作及體驗辦公室 (SPFEO, EdUHK)；經聖公會教育服務部轉發 | **9** | 4 | 2 | 3 | 1 | [link](https://docs.google.com/forms/d/e/1FAIpQLSd_ZwwMF25rvMaBhcq0ivdisheNQ2VRiQVIRg9zVu4tSGvGnA/viewform) |
-| 54 | 理大資訊日 × COMP 高中虛擬戰車編程挑戰賽 | Computer Science / Programming | 2026-10-10 | 配合理大本科入學資訊日 2026 | 香港理工大學電子計算學系 | **9** | 4 | 2 | 3 | 2 | [link](https://polyucomp-turbo2026.site) |
-| 55 | 第7屆「愛．創耆樂」挑戰賽 | STEM / Social Innovation / Ageing | 2026-11-01 | 比賽日 2027-02-20（星期六）；報名截止 2026-11-01 23:59 | 香港理工大學生物醫學工程及體育科技學系（ActionHub） | **9** | 3 | 3 | 3 | 3 | [link](https://actionhub.hk/event_highlight/detail/9TiKEwM8A2gPnkcpP) |
-| 56 | 第二十屆「創協盃」創意科技機械人大賽 2026 | Robotics / AI |  | 港區賽 2026-12-05；創意設計 2026-12-12 | 創協盃組委會 | **9** | 3 | 3 | 3 | 4 | [link](https://ctea.org.hk/) |
-| 57 | 第六屆全港青年 STEAM 比賽暨展覽（由 AI 到 SI）及人工智能素養推廣比賽 | STEAM / AI | 2026-10-31 |  | CFS AISI 等 | **9** | 3 | 3 | 3 | 3 | [link](https://padlet.com/loyl/steam-ai-si-detjvjp7shy011wk) |
-| 58 | 青少年發明家比賽 2027（第21屆） | STEM / Invention | 2026-11-15 |  | Young Inventor Competition（見報名／Facebook） | **9** | 3 | 3 | 3 | 3 | [link](https://forms.gle/RFuSDDWHCdfBPPnS9) |
-| 59 | 首屆年度全港中小學 AI 大使計劃（HKNETEA） | AI / Digital Education / Leadership | 2026-11-30 | 校長提名後：專業賦能工作坊 → 校園實踐與推廣 → 年度全港頒獎禮暨成果展（具體日期以主辦通知為準） | 香港新興科技教育協會 (HKNETEA)；數字政策辦公室 IT 創新實驗室（IT-LAB）轉發邀請 | **9** | 4 | 2 | 3 | 2 | [link](https://www.hknetea.org/zh/competitions-1/ai-ambassador-initiative) |
-| 60 | HKtag 網絡安全開發大賽 2026–27（打造全開源 CTF 平台） | Computer Science / Cybersecurity / Software Development | 2026-11-13 | 線上簡介會 2026-10-31 10:00；首輪入圍 2026-11-28；作品提交 2027-04-23；決賽目標於 2027-06 學與教博覽期間 | HKtag（香港科技創新促進組）；香港電腦教育學會 (HKACE) 支持轉發 | **8** | 3 | 3 | 2 | 4 | [link](https://events.hk-tag.org/events/) |
-| 61 | Haven HK 2026 免費遊戲創作營及黑客松 | Game Dev / Coding / STEM | 2026-11-12 | 2026-11-14 至 2026-11-15（兩日 10:00–18:00）香港加拿大國際學校（CDNIS） | Haven Hong Kong（Hack Club）；贊助 Animoca Brands；CDNIS 教師監督；BSD Education 提供優勝者實習機會 | **8** | 3 | 3 | 2 | 3 | [link](https://havenhk.xyz) |
-| 62 | 「說好香港海事故事」生成式 AI 短片創作比賽 | AI / Media / Maritime | 2026-10-16 |  | VTC 海事服務訓練委員會 (MSTB) | **8** | 3 | 3 | 2 | 2 | [link](https://forms.gle/uu6twpKwjGYqxZS2A) |
-| 63 | 綠色科技青年創想坊（GreenTech Youth Learning Lab）系列活動 | Green Tech / Environment / STEM / Leadership | 2026-11-06 | 研討會 2026-12-12 09:30–13:15（青協大樓鰂魚涌）；互動工作坊日期可配合校曆另行商議 | 香港青年協會領袖學院（HKFYG Leadership Institute）；恒生銀行全力支持 | **8** | 4 | 1 | 3 | 2 | [link](https://leadershipinstitute.hkfyg.org.hk/greentech-youth-learning-lab/index.html) |
-| 64 | 2026-2027 全港校際 STEAM 知識問答比賽 | STEAM / General | 2026-11-30 |  | （郵件邀請） | **7** | 3 | 2 | 2 | 1 | [link](https://hksteamedu.org) |
-| 65 | 2026-2027年度元朗區學生全方位增值計劃 | Life Planning / Civic / Community / Leadership |  | 2026/27 學年系列講座、參觀、社福機構培訓及分享會（主題：扎根社區知國情 立足體驗建未來；具體日程見附件章程，正文未列） | 元朗民政事務處主辦；元朗區中學校長會合辦；元朗大會堂協辦 | **7** | 3 | 2 | 2 | 2 |  |
-| 66 | 2027 香港 R4M 機械人任務賽 | Robotics |  | 2027-05-22（星期六）09:00–18:00；地點待定 | 日常教育（Eduperience）／Babyboom；世界機關王協會相關香港區選拔 | **7** | 3 | 2 | 2 | 3 | [link](https://eduperience.org/hk-r4m-2027/) |
-| 67 | AI 代理線上解難大賽 2026-27（尊科 × Lenovo） | STEM / AI / Digital Literacy | 2027-01-29 | 比賽日 2027-05-15 | 尊科 Trumptech；聯乘 Lenovo | **7** | 3 | 2 | 2 | 2 | [link](https://www.trumptech.com/zh/) |
-| 68 | 「心事・開拍」全港中學生短片比賽 2026 | Arts / Mental Health / Media | 2026-12-31 | 免費網上培訓（自願）：2026-11-02、11-12、11-19 各 16:30–17:15；作品提交截止 2026-12-31 23:59；結果／頒獎暫定 2027-01 | 香港沃土發展社（Institute for Integrated Rural Development, Hong Kong） | **7** | 3 | 2 | 2 | 2 | [link](https://harvest.org.hk/tc/What-We-Do/detail/youth-short-film-2026/) |
-| 69 | 未來交通 AIoT 應用大賽 2026-27（尊科 × 九巴） | STEM / AIoT / Transport / Robotics | 2027-01-29 | 比賽日 2027-05-29 | 尊科 Trumptech；聯乘香港九巴（KMB） | **7** | 3 | 2 | 2 | 3 | [link](https://www.trumptech.com/zh/) |
-| 70 | 道路安全 STEAM 比賽 2026-27 | STEAM / Civic | 2027-03-31 |  | HKNETEA 等 | **7** | 3 | 2 | 2 | 2 | [link](https://roadsafetysteam.hk) |
-| 71 | 青年廣場「YS 無人機足球挑戰賽」 | STEM / Drone |  | 飛越 Teen 際：YS 無人機競飛嘉年華期間 | 青年廣場 (Youth Square) | **7** | 3 | 2 | 2 | 3 | [link](https://www.youthsquare.hk/play/YSDroneFunFest2026) |
-| 72 | STEAM 科學技術比賽 2026 | STEAM | 2026-11-02 |  | （郵件邀請） | **6** | 2 | 2 | 2 | 2 |  |
-| 73 | 第一屆 AI青年大使計劃 2026-2027 | STEM / AI / Civil Engineering / Smart City | 2026-11-30 | 線上簡介會 2026-10-30 16:00–17:30（Zoom）；計劃期 2026/27 學年（科大工作坊、北部都會區場景實踐；具體日程以主辦通知為準） | 香港科技大學土木及環境工程學系校友會（HKUST CEEAA）；香港家長協進會；兩岸滙智基金會 | **6** | 3 | 1 | 2 | 2 |  |
-| 74 | DBS Inter-School STEM Research Symposium（Kickoff + Spring 2027） | STEM / Research / Academic | 2026-11-20 | Kickoff Lecture 2026-11-27 16:45–18:15（歡迎接待 16:15；拔萃男書院校堂；主講 Prof. Tony F. Chan）；主論壇／Symposium 暫定 2027 春季（詳情於 Kickoff 預告，尚未公布提交指引） | 拔萃男書院 STEAM Union／Symposium Working Group（學生主導）；Honorary Academic Advisor: Prof. Tony F. Chan | **5** | 2 | 1 | 2 | 1 | [link](https://DBSSTEMSymposiumkickoff.eventbrite.hk) |
+| 48 | 第二屆《品牌守護先鋒》青年知識產權短片比賽 | Media / Civic Education / Intellectual Property | 2026-12-31 | 報名截止 2026-12-31；作品 Google Drive 連結須於 2027-01-03 前電郵 info@hkbpa.org；頒獎禮 2027年3月（北角渣華道222號香港海關總部大樓，確實時間另行通知） | 香港工商品牌保護陣綫 (Hong Kong Brand Protection Alliance)；香港海關、知識產權署為全力支持機構；特別鳴謝德國寶(香港)有限公司 | **10** | 3 | 4 | 3 | 2 | [link](https://www.hkbpa.org/news.php?id=192) |
+| 49 | 2026 ESG 商業創意大賽 | Business / ESG / Innovation | 2026-11-30 |  | IVE（商科）VTC | **9** | 3 | 3 | 3 | 3 | [link](https://docs.google.com/forms/d/e/1FAIpQLSf7FLFoSphyi6gHTK-t6sEOZjR9vBAVkcR7nRP2NN44CmpAUQ/viewform?usp=publish-editor) |
+| 50 | 2026–27 DFC × AI 創意行動挑戰賽 | AI / Design Thinking / Citizenship |  | 啟動禮 2026-10-31 | Design for Change 相關 | **9** | 3 | 3 | 3 | 3 | [link](https://www.dfcworld.org/hongkong) |
+| 51 | World Youth Chemistry Talent Olympiad (WYCTO) 2026 | Chemistry | 2026-09-24 |  | （國際化學人才奧林匹克相關；郵件邀請） | **9** | 3 | 3 | 3 | 4 | [link](https://drive.google.com/drive/folders/1glNfcGxY1NmSezuaXIGkjSY-3AQGVp3Z?usp=sharing) |
+| 52 | 「獅展翼彩·智領低空」中學生及大專生無人機大賽 | STEM / Drone / Robotics | 2026-10-16 |  | 獅子會 | **9** | 3 | 3 | 3 | 4 | [link](https://forms.gle/ukDMMQjqadL9xLQK9) |
+| 53 | 向老師致敬學生比賽 2026（敬師運動委員會） | Arts / Chinese / Civic / AI Media | 2026-11-20 | 結果約 2027-01 公布；頒獎典禮暨展覽會日期待公布 | 敬師運動委員會 (Committee on Respect Our Teachers Campaign, CROTC) | **9** | 3 | 3 | 3 | 2 | [link](https://www.crotc.org.hk/awardthisyear.html) |
+| 54 | 教育未來・薪火同行—「慶祝香港回歸祖國 30 周年創意口號設計活動」 | Civic / National Education / Creative | 2026-11-20 | 嘉許禮暫定 2027-01 下旬 | 香港教育大學學校協作及體驗辦公室 (SPFEO, EdUHK)；經聖公會教育服務部轉發 | **9** | 4 | 2 | 3 | 1 | [link](https://docs.google.com/forms/d/e/1FAIpQLSd_ZwwMF25rvMaBhcq0ivdisheNQ2VRiQVIRg9zVu4tSGvGnA/viewform) |
+| 55 | 理大資訊日 × COMP 高中虛擬戰車編程挑戰賽 | Computer Science / Programming | 2026-10-10 | 配合理大本科入學資訊日 2026 | 香港理工大學電子計算學系 | **9** | 4 | 2 | 3 | 2 | [link](https://polyucomp-turbo2026.site) |
+| 56 | 第7屆「愛．創耆樂」挑戰賽 | STEM / Social Innovation / Ageing | 2026-11-01 | 比賽日 2027-02-20（星期六）；報名截止 2026-11-01 23:59 | 香港理工大學生物醫學工程及體育科技學系（ActionHub） | **9** | 3 | 3 | 3 | 3 | [link](https://actionhub.hk/event_highlight/detail/9TiKEwM8A2gPnkcpP) |
+| 57 | 第二十屆「創協盃」創意科技機械人大賽 2026 | Robotics / AI |  | 港區賽 2026-12-05；創意設計 2026-12-12 | 創協盃組委會 | **9** | 3 | 3 | 3 | 4 | [link](https://ctea.org.hk/) |
+| 58 | 第六屆全港青年 STEAM 比賽暨展覽（由 AI 到 SI）及人工智能素養推廣比賽 | STEAM / AI | 2026-10-31 |  | CFS AISI 等 | **9** | 3 | 3 | 3 | 3 | [link](https://padlet.com/loyl/steam-ai-si-detjvjp7shy011wk) |
+| 59 | 青少年發明家比賽 2027（第21屆） | STEM / Invention | 2026-11-15 |  | Young Inventor Competition（見報名／Facebook） | **9** | 3 | 3 | 3 | 3 | [link](https://forms.gle/RFuSDDWHCdfBPPnS9) |
+| 60 | 首屆年度全港中小學 AI 大使計劃（HKNETEA） | AI / Digital Education / Leadership | 2026-11-30 | 校長提名後：專業賦能工作坊 → 校園實踐與推廣 → 年度全港頒獎禮暨成果展（具體日期以主辦通知為準） | 香港新興科技教育協會 (HKNETEA)；數字政策辦公室 IT 創新實驗室（IT-LAB）轉發邀請 | **9** | 4 | 2 | 3 | 2 | [link](https://www.hknetea.org/zh/competitions-1/ai-ambassador-initiative) |
+| 61 | 環保嘉年華2027暨第26屆環保創意模型設計比賽 | Environment / STEM / Design |  | 嘉年華／比賽 2027-01-24（星期日）10:00–18:00 九龍公園羅馬廣場；模型車科學原理及比賽規則簡介會 Zoom 2026-11-28（星期六上午，具體時間另行通知） | 環保促進會 (Green Council) | **9** | 3 | 3 | 3 | 3 | [link](https://www.greencouncil.org/gc) |
+| 62 | HKtag 網絡安全開發大賽 2026–27（打造全開源 CTF 平台） | Computer Science / Cybersecurity / Software Development | 2026-11-13 | 線上簡介會 2026-10-31 10:00；首輪入圍 2026-11-28；作品提交 2027-04-23；決賽目標於 2027-06 學與教博覽期間 | HKtag（香港科技創新促進組）；香港電腦教育學會 (HKACE) 支持轉發 | **8** | 3 | 3 | 2 | 4 | [link](https://events.hk-tag.org/events/) |
+| 63 | Haven HK 2026 免費遊戲創作營及黑客松 | Game Dev / Coding / STEM | 2026-11-12 | 2026-11-14 至 2026-11-15（兩日 10:00–18:00）香港加拿大國際學校（CDNIS） | Haven Hong Kong（Hack Club）；贊助 Animoca Brands；CDNIS 教師監督；BSD Education 提供優勝者實習機會 | **8** | 3 | 3 | 2 | 3 | [link](https://havenhk.xyz) |
+| 64 | 「說好香港海事故事」生成式 AI 短片創作比賽 | AI / Media / Maritime | 2026-10-16 |  | VTC 海事服務訓練委員會 (MSTB) | **8** | 3 | 3 | 2 | 2 | [link](https://forms.gle/uu6twpKwjGYqxZS2A) |
+| 65 | 綠色科技青年創想坊（GreenTech Youth Learning Lab）系列活動 | Green Tech / Environment / STEM / Leadership | 2026-11-06 | 研討會 2026-12-12 09:30–13:15（青協大樓鰂魚涌）；互動工作坊日期可配合校曆另行商議 | 香港青年協會領袖學院（HKFYG Leadership Institute）；恒生銀行全力支持 | **8** | 4 | 1 | 3 | 2 | [link](https://leadershipinstitute.hkfyg.org.hk/greentech-youth-learning-lab/index.html) |
+| 66 | 2026-2027 全港校際 STEAM 知識問答比賽 | STEAM / General | 2026-11-30 |  | （郵件邀請） | **7** | 3 | 2 | 2 | 1 | [link](https://hksteamedu.org) |
+| 67 | 2026-2027年度元朗區學生全方位增值計劃 | Life Planning / Civic / Community / Leadership |  | 2026/27 學年系列講座、參觀、社福機構培訓及分享會（主題：扎根社區知國情 立足體驗建未來；具體日程見附件章程，正文未列） | 元朗民政事務處主辦；元朗區中學校長會合辦；元朗大會堂協辦 | **7** | 3 | 2 | 2 | 2 |  |
+| 68 | 2027 香港 R4M 機械人任務賽 | Robotics |  | 2027-05-22（星期六）09:00–18:00；地點待定 | 日常教育（Eduperience）／Babyboom；世界機關王協會相關香港區選拔 | **7** | 3 | 2 | 2 | 3 | [link](https://eduperience.org/hk-r4m-2027/) |
+| 69 | AI 代理線上解難大賽 2026-27（尊科 × Lenovo） | STEM / AI / Digital Literacy | 2027-01-29 | 比賽日 2027-05-15 | 尊科 Trumptech；聯乘 Lenovo | **7** | 3 | 2 | 2 | 2 | [link](https://www.trumptech.com/zh/) |
+| 70 | 「心事・開拍」全港中學生短片比賽 2026 | Arts / Mental Health / Media | 2026-12-31 | 免費網上培訓（自願）：2026-11-02、11-12、11-19 各 16:30–17:15；作品提交截止 2026-12-31 23:59；結果／頒獎暫定 2027-01 | 香港沃土發展社（Institute for Integrated Rural Development, Hong Kong） | **7** | 3 | 2 | 2 | 2 | [link](https://harvest.org.hk/tc/What-We-Do/detail/youth-short-film-2026/) |
+| 71 | 未來交通 AIoT 應用大賽 2026-27（尊科 × 九巴） | STEM / AIoT / Transport / Robotics | 2027-01-29 | 比賽日 2027-05-29 | 尊科 Trumptech；聯乘香港九巴（KMB） | **7** | 3 | 2 | 2 | 3 | [link](https://www.trumptech.com/zh/) |
+| 72 | 道路安全 STEAM 比賽 2026-27 | STEAM / Civic | 2027-03-31 |  | HKNETEA 等 | **7** | 3 | 2 | 2 | 2 | [link](https://roadsafetysteam.hk) |
+| 73 | 青年廣場「YS 無人機足球挑戰賽」 | STEM / Drone |  | 飛越 Teen 際：YS 無人機競飛嘉年華期間 | 青年廣場 (Youth Square) | **7** | 3 | 2 | 2 | 3 | [link](https://www.youthsquare.hk/play/YSDroneFunFest2026) |
+| 74 | STEAM 科學技術比賽 2026 | STEAM | 2026-11-02 |  | （郵件邀請） | **6** | 2 | 2 | 2 | 2 |  |
+| 75 | 第一屆 AI青年大使計劃 2026-2027 | STEM / AI / Civil Engineering / Smart City | 2026-11-30 | 線上簡介會 2026-10-30 16:00–17:30（Zoom）；計劃期 2026/27 學年（科大工作坊、北部都會區場景實踐；具體日程以主辦通知為準） | 香港科技大學土木及環境工程學系校友會（HKUST CEEAA）；香港家長協進會；兩岸滙智基金會 | **6** | 3 | 1 | 2 | 2 |  |
+| 76 | DBS Inter-School STEM Research Symposium（Kickoff + Spring 2027） | STEM / Research / Academic | 2026-11-20 | Kickoff Lecture 2026-11-27 16:45–18:15（歡迎接待 16:15；拔萃男書院校堂；主講 Prof. Tony F. Chan）；主論壇／Symposium 暫定 2027 春季（詳情於 Kickoff 預告，尚未公布提交指引） | 拔萃男書院 STEAM Union／Symposium Working Group（學生主導）；Honorary Academic Advisor: Prof. Tony F. Chan | **5** | 2 | 1 | 2 | 1 | [link](https://DBSSTEMSymposiumkickoff.eventbrite.hk) |
 
 ## 歷史紀錄
 
 以下保留較早掃描說明。
+
+## 掃描 2026-11-06
+
+- as_of 2026-11-06；收錄 74（+1：road-safety-vision-slogan-2026；0 material updates）；commit 0f39217。
 
 ## 掃描 2026-11-05
 

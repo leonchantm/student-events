@@ -6,13 +6,13 @@
       "deadlines_filled": 19,
       "method": "Gmail plaintext bodies + raw_bodies + WebSearch/WebFetch; no invented URLs/dates"
     },
-    "generated_at": "2026-11-06T12:00:04+08:00",
+    "generated_at": "2026-11-09T12:01:57+08:00",
     "gmail_account_observed": "tmchan@skhbbss.edu.hk",
-    "search_window": "after:2026/11/04–05 contest/比賽/競賽/挑戰/大賽/獎學金/STEM/大使/Challenge/Competition/Ambassador/Hackathon/olympiad keywords (focus since last scan 2026-11-05)",
-    "as_of": "2026-11-06",
-    "event_count": 74,
+    "search_window": "after:2026/11/05–06 contest/比賽/競賽/挑戰/大賽/獎學金/STEM/大使/Challenge/Competition/Ambassador/Hackathon/olympiad keywords (focus since last scan 2026-11-06); also 創新/徵集/報名/截止/計劃/活動 and 短片/模型/徵文",
+    "as_of": "2026-11-09",
+    "event_count": 76,
     "rubric_note": "total_recommend = organizer_scale + awards + recognition (complexity excluded)",
-    "scan_notes": "Daily scan 2026-11-06 HKT. Added road-safety-vision-slogan-2026 (Road Safety Council vision slogan + Safegg/AI film extensions; deadline 2026-12-31; official https://www.roadsafetyvision.hk/). Noted but not added: ICE Challenge 2026-27 Caprikon teacher briefing invite only (Nov 23 Zoom; nomination/deadline for 2026-27 not yet on icefoundation.io). EdCity PICCKS guide PDF (already have piccks-2026-27). No material updates to existing entries."
+    "scan_notes": "Daily scan 2026-11-09 HKT. Added hkbpa-brand-guardian-2026 (第二屆《品牌守護先鋒》青年知識產權短片比賽；報名截止 2026-12-31、作品連結 2027-01-03；official https://www.hkbpa.org/news.php?id=192；total_recommend 10). Added greencouncil-eco-model-2027 (環保嘉年華2027暨第26屆環保創意模型設計比賽；嘉年華 2027-01-24 九龍公園羅馬廣場；簡介會 Zoom 2026-11-28；deadline null because neither the invitation body nor greencouncil.org/gc yet lists a 2027 registration cutoff；official https://www.greencouncil.org/gc；total_recommend 9). Noted but not added: CROTC 11-20 reminder (already crotc-tribute-2026, same deadline); CLP 第四屆低碳節能發明大賽 last-call (already clp-lowcarbon-invention-4, deadline still 2026-11-13); ICE Challenge 2026-27 still Caprikon teacher Zoom briefing only (Nov 23; icefoundation.io still shows 2025-26, no 2026-27 nomination/deadline); HKAC『建築入門．大學先修班』講座 2026-11-18／10人工作坊 2026-11-21 (career talk, not a contest); EdCity 學生活動全導覽 PDF (PICCKS already piccks-2026-27; other platform items not separately named with verified official pages); 元朗區中學校際游泳比賽校內頒獎申請 (past event 2026-10-09); HKACE×AWS teacher AI workshops; STREAM academy partnership pitch; BEC RVM booth promo; Class Logic vendor; humanoid-robot vendor; digital accessibility vendor. No material updates to existing entries."
   },
   "events": [
     {
@@ -1286,6 +1286,33 @@
       "upcoming": true
     },
     {
+      "id": "hkbpa-brand-guardian-2026",
+      "name": "第二屆《品牌守護先鋒》青年知識產權短片比賽",
+      "name_en": "2nd Brand Guardian Pioneer Youth Intellectual Property Short Film Competition",
+      "domain": "Media / Civic Education / Intellectual Property",
+      "event_dates": "報名截止 2026-12-31；作品 Google Drive 連結須於 2027-01-03 前電郵 info@hkbpa.org；頒獎禮 2027年3月（北角渣華道222號香港海關總部大樓，確實時間另行通知）",
+      "deadline": "2026-12-31",
+      "organizer": "香港工商品牌保護陣綫 (Hong Kong Brand Protection Alliance)；香港海關、知識產權署為全力支持機構；特別鳴謝德國寶(香港)有限公司",
+      "eligibility": "初中組（中一至中三）及高中組（中四至中六）團體組，每隊 1–5 人；每人只可參加一個組別並只可遞交一份原創作品；豎屏 9:16、90 秒以內（REEL）並附 100 字內簡介",
+      "summary": "以「品牌守護先鋒」為題的青年知識產權短片比賽，旨在提升中學生對知識產權的認識。初中／高中組各設冠軍現金 HK$10,000＋獎盃及獎狀，另有亞／季／優異獎、最具創意獎（各組 HK$2,000）及最積極參與學校獎。",
+      "official_link": "https://www.hkbpa.org/news.php?id=192",
+      "source": {
+        "subject": "Fwd: Reminder : ｢香港工商品牌保護陣綫｣ 第二屆《品牌守護先鋒》_ 青年知識產權短片比賽_ 聖公會白約翰會督中學 校長",
+        "date": "2026-11-06",
+        "thread_id": "1a055ec24e7a8b99",
+        "message_id": "1a1af90466dc20f9"
+      },
+      "scores": {
+        "organizer_scale": 3,
+        "awards": 4,
+        "recognition": 3,
+        "complexity": 2
+      },
+      "notes": "官網 https://www.hkbpa.org/news.php?id=192 確認報名截止 2026-12-31、作品連結須於 2027-01-03 前電郵 info@hkbpa.org（Google Drive 設為知道連結者可檢閱）。網上報名／交件 https://forms.gle/zBbmF1jB6J7RTP1K7 。查詢 2543 1255／info@hkbpa.org 梅小姐。分數：規模3（業界團體；海關／知識產權署為支持機構）、獎項4（每組冠軍現金1萬及多項獎金）、認受3、複雜2。",
+      "total_recommend": 10,
+      "upcoming": true
+    },
+    {
       "id": "esg-business-2026",
       "name": "2026 ESG 商業創意大賽",
       "name_en": "2026 ESG Business Innovation Competition",
@@ -1606,6 +1633,33 @@
         "complexity": 2
       },
       "notes": "提名截止 **2026-11-30**（HKNETEA 2026-10-23 邀請電郵；2026-11-03 數字政策辦公室 IT-LAB 再邀）。學生提名 https://forms.gle/q4KQVS9efCgNYzxd8 ；教師提名 https://forms.gle/9F9wSMZRrhz1KmrY9 。官網 https://www.hknetea.org/zh/competitions-1/ai-ambassador-initiative （英 https://www.hknetea.org/competitions-1/ai-ambassador-initiative）。勿與 HKUST CEEAA「AI青年大使計劃」（`ai-youth-ambassador-cee-2026-27`）混淆。查詢 info@hknetea.org / 2869 6603。分數：規模4／獎項2（頒獎典禮表彰＋培訓網絡，郵件未列現金獎）／認受3／複雜2。",
+      "total_recommend": 9,
+      "upcoming": true
+    },
+    {
+      "id": "greencouncil-eco-model-2027",
+      "name": "環保嘉年華2027暨第26屆環保創意模型設計比賽",
+      "name_en": "Green Carnival 2027 & 26th Environmental Creative Model Design Competition",
+      "domain": "Environment / STEM / Design",
+      "event_dates": "嘉年華／比賽 2027-01-24（星期日）10:00–18:00 九龍公園羅馬廣場；模型車科學原理及比賽規則簡介會 Zoom 2026-11-28（星期六上午，具體時間另行通知）",
+      "deadline": null,
+      "organizer": "環保促進會 (Green Council)",
+      "eligibility": "環保創意模型設計比賽分小學組（P.4–P.6）及中學組（F.1–F.6），每隊 3–4 人，以可循環再用物料設計具環保意念的模型車；另誠邀學校籌辦環保遊戲攤位及參與舞台表演",
+      "summary": "環保促進會主辦的學界年度環保盛事（嘉年華自2004年舉辦；模型設計比賽自2001年）。2027年1月24日於九龍公園羅馬廣場舉行，包括環保遊戲攤位（設「最喜愛攤位佈置大獎」）、不限類型舞台表演（表演者可獲嘉許狀），以及第26屆環保創意模型設計比賽。",
+      "official_link": "https://www.greencouncil.org/gc",
+      "source": {
+        "subject": "Fwd: 環保嘉年華2027暨第26屆環保創意模型設計比賽 - 活動邀請函",
+        "date": "2026-11-07",
+        "thread_id": "1a1b3ed00e69470f",
+        "message_id": "1a1b3ed00e69470f"
+      },
+      "scores": {
+        "organizer_scale": 3,
+        "awards": 3,
+        "recognition": 3,
+        "complexity": 3
+      },
+      "notes": "日期、地點、組別及簡介會見 2026-11-06 主辦郵件（gogreen@greencouncil.org）；查詢 2810 1122／gogreen@greencouncil.org。回條 PDF 隨函（環保嘉年華2027 - 回條.pdf），但郵件正文與掃描時官網嘉年華頁 https://www.greencouncil.org/gc （中文 https://zh.greencouncil.org/gc）均未列 2027 屆報名截止日（官網仍顯示 2026-02-01 第22屆嘉年華／第25屆模型賽結果），故 deadline 保持 null，不臆造。2027 獎金金額亦未在邀請函列明。分數：規模3（本地環保NGO、長年學界盛事）、獎項3（公開頒獎／攤位大獎／嘉許狀；金額未詳）、認受3、複雜3（小組模型車）。",
       "total_recommend": 9,
       "upcoming": true
     },
