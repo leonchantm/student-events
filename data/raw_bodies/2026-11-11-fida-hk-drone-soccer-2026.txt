@@ -1,0 +1,25 @@
+Source: Gmail message 1a1c7ef5dcf3e425 / thread 1a1c7ef5dcf3e425
+From: School Information <Info@skhbbss.edu.hk>
+Date: 2026-11-11T00:07:58Z
+Subject: FAX
+Attachment: scanned 2-page fax RKM_C550i261110183331.pdf (Konica Minolta, created 2026-11-10 18:34 HKT)
+
+Event: 2026 FIDA 香港國際無人機足球系列賽「超越界限」／全港學界無人機足球錦標賽 FIDA Class 20
+Organizer (fax footer / official site): FIDA Hong Kong / IDSA（國際無人機及科技運動協會／Federation of International Drone Association）
+Verified official page (2026-11-11): https://www.fidahk.org/
+(Fax also printed https://idsasports.org and https://fidasports.org; the latter returned HTTP 500 at scan time.)
+
+Dates (official site + fax invitation):
+- 2026-12-01 教育論壇：民青局賽馬會青立方 HYAB JC Y Cube（傳真亦寫柴灣青年廣場）；學校代表每校 2 位免費
+- 2026-12-08 學界賽（小學／中學等組別、SEN 及共融表演組）：聖方濟各大學（將軍澳）
+- 2026-12-13 國際交流日／頒獎：民青局賽馬會青立方；學界賽優勝隊 × FIDA 國際及內地隊伍友誼賽
+
+Deadlines:
+- Official site: 11月20日前報名可參加免費教師簡介會及學生試飛工作坊；報名及繳費截止 2026-11-27
+- Fax reply slip: 學界組截止 2026-11-20；共融表演組截止 2026-11-27
+- Registration opened 2026-11-10 (fax)
+
+Fees (official site): 一般學校 HK$1,000／隊；FIDA HK 會員學校首隊免費、第二隊起 HK$880／隊；SEN 及共融表演組全免；器材租借 Class 20 整套 HK$3,000／隊（數量有限）。（傳真租借金額與官網不一致，目錄採用已核實官網 HK$3,000，不採用未經交叉核實的傳真數字。）
+Awards (official): 費用已包括賽事保險、裁判、全體隊員參賽證書及各組前三名獎牌獎狀。優勝隊可晉級 12-13 國際交流日。
+Team (fax): 3–5 students + 1 lead teacher; multiple teams per school allowed. 「無機亦可參賽」via rental.
+Contact (official/fax): WhatsApp +852 5693 5946; dronesoccer@fidahk.org
