@@ -6,13 +6,13 @@
       "deadlines_filled": 19,
       "method": "Gmail plaintext bodies + raw_bodies + WebSearch/WebFetch; no invented URLs/dates"
     },
-    "generated_at": "2026-11-12T12:05:00+08:00",
+    "generated_at": "2026-11-13T12:05:00+08:00",
     "gmail_account_observed": "tmchan@skhbbss.edu.hk",
-    "search_window": "after:2026/11/10 (focus since last scan 2026-11-11 12:07 HKT); contest/比賽/競賽/挑戰/大賽/獎學金/STEM/工作坊/Challenge/Competition/Hackathon and 創新/報名/截止/計劃/活動",
-    "as_of": "2026-11-12",
-    "event_count": 83,
+    "search_window": "after:2026/11/11 (focus since last scan 2026-11-12 ~12:00 HKT); contest/比賽/競賽/挑戰/大賽/獎學金/STEM/工作坊/Challenge/Competition/Hackathon and 創新/報名/截止/計劃/活動",
+    "as_of": "2026-11-13",
+    "event_count": 85,
     "rubric_note": "total_recommend = organizer_scale + awards + recognition (complexity excluded)",
-    "scan_notes": "Daily scan 2026-11-12 HKT. Added edcity-national-identity-app-2026-27 （國民身份認同應用程式設計比賽 2026/27；registration deadline 2026-12-21；works 2027-01-08 17:00；official https://student.edcity.hk/pri/zh-hant/piccks-post/202627/nationalidentity/ ；total_recommend 10）。Material updates: lions-ai-challenge（第一次線上培訓 2026-11-20 17:00–19:00；報名截止仍為 2026-11-17）；road-safety-steam-2026-27（工作坊2 2026-11-22，工作坊報名截止 2026-11-15；補主辦為道路安全議會及參賽細節；作品截止仍為 2027-03-31；scores 7→10）。Noted but not added: Cambridge AI x Future Humanities Programme（Smart City Academy／Cambridge University EdTech Society，申請截止 2026-11-30，付款截止 2026-12-10；屬收費交流團，旅行社 Nan Hwa，郵件僅提供 Google 表 https://forms.gle/7s6gzYpwZH9QY8uH8 ，未找到獨立官網、費用未在郵件列明，不臆造）；CUHK「科學普及講座：如何獲得諾貝爾獎」2026-12-11（報名截止 2026-12-09，https://www.sci.cuhk.edu.hk/zh-tw/science-for-youth/nobel-lectures ；單場普及講座，與過往排除的論壇同類）；2026「科學與中國」科創大講堂／第四屆「未來香江」國際科創教育論壇 2026-11-17（上次已排除）；共創明「Teen」第五期友師招募（導師／成人招募）；Step Into STEM 老師簡介會 Zoom（已有 step-into-stem-scholarship-2027-28）；尊科「AI 融入學與教」11.27 教師工作坊；HKACE「藝術新時代」教師工作坊；eClass 收費系統管理工作坊；M2T x ERC／Union Unitree R1／Avatech「巴士＋天氣」等到校課程或廠商推介（無公開截止）；KPG／HKGETA Gifted Forensic Science 宣傳（他校 11-06 已舉行課堂及冬令營／競賽附件，未核實為本校可報名公開賽則不收錄）；科學館博物館節嘉年華（公眾活動）；Teamup 校內顯示屏預約；IFTTT 推廣。"
+    "scan_notes": "Daily scan 2026-11-13 HKT. Added wnec-aim-awards-2026-27（2026/27 AIM嘉許獎；提名截止 2026-12-31；頒獎 2027-07；official https://www.wnec.org ；total_recommend 7）及 practifly-aigc-track3-2026（Practifly AI 賽道三 AIGC 文化視覺創作；報名 2026-12-04／交件 2026-12-11／總決賽 2027-01-02 港大；official https://www.infinitylab.hk/ ；total_recommend 7）。Material update: road-safety-steam-2026-27（工作坊2 更正為 2026-11-22 星期日、東華三院郭一葦中學；awards 2→3／total 10→11；作品截止仍 2027-03-31）。Noted but not added: 小小環境師計劃（HKIOE 註冊學校邀請，持續校園計劃、無公開截止）；恩福「好眠有法」教師講座；EDB/HKU PSHE 英語媒介教師課程；學校行政人員領導課程；精神健康急救教師培訓；EdUHK MSc AIEP；未來香江／科創大講堂論壇（上次已排除）；SUN-TECH 航天校園體驗推介；普通話水平測試（教師資助）；Wayground／Google 保安提示。"
   },
   "events": [
     {
@@ -935,6 +935,33 @@
       "upcoming": true
     },
     {
+      "id": "road-safety-steam-2026-27",
+      "name": "道路安全 STEAM 比賽 2026-27",
+      "name_en": "Road Safety STEAM Competition 2026-27",
+      "domain": "STEAM / Civic / Road Safety / Data Visualisation",
+      "event_dates": "工作坊2「交通黑點資料視覺化與分析系統」（對應主題2「交通安全城教育計劃」）2026-11-22（星期日）東華三院郭一葦中學（新界天水圍聚星路三號）：小學組 14:00–15:15（13:45 開始登記）、中學組 15:30–16:45（15:15 開始登記）；工作坊報名截止 **2026-11-15**（費用全免、先到先得；限額小學／中學各 50）；工作坊3「標誌識別與 AI 超速警示系統」2026-12-20（星期日），報名截止 2026-12-13；作品遞交截止 2027-03-31 23:59；網上評審約 2027-04；實體評審約 2027-05；結果／頒獎暫定 2027-10 至 12",
+      "deadline": "2027-03-31",
+      "organizer": "道路安全議會（Road Safety Council）主辦；運輸及物流局、教育局、香港警務處、運輸署、路政署支持；香港新時代科技教育學會（HKNETEA）統籌",
+      "eligibility": "全港中小學；分小學組及中學組；每隊 1–6 名學生及 1 位指導老師",
+      "summary": "道路安全議會主辦的全港中小學 STEAM 比賽，四大主題為行人安全、交通安全城教育計劃、單車安全及不專注駕駛。工作坊2聚焦交通黑點資料視覺化與分析系統；總獎品包括價值超過港幣 60,000 元的書券及豐富獎品，得獎構思或可應用於真實道路場景。",
+      "official_link": "https://roadsafetysteam.hk",
+      "source": {
+        "subject": "Fwd: 【最後召集｜道路安全 STEAM 比賽 2026-27 工作坊2 接受報名】",
+        "date": "2026-11-12",
+        "thread_id": "1a1ce56de4bd70b3",
+        "message_id": "1a1ce56de4bd70b3"
+      },
+      "scores": {
+        "organizer_scale": 5,
+        "awards": 3,
+        "recognition": 3,
+        "complexity": 3
+      },
+      "notes": "2026-11-13 掃描按 HKNETEA「最後召集」郵件及官網 https://roadsafetysteam.hk 更正：工作坊2 為 **2026-11-22（星期日）**（非星期六）、地點 **東華三院郭一葦中學**（天水圍聚星路三號；上次粉嶺甲寅年總理中學紀錄作廢）。郵件報名表 https://forms.gle/iP3XDjPKEycdpaw16 ；官網另列 Workshop 2 https://forms.gle/ZKwbproq4GsavvV9A（報名截止仍為工作坊前一週／時間表列 **2026-11-15**）。獎項按官網／新聞「書券及獎品逾港幣 60,000 元」由 awards 2→3；total_recommend 10→**11**。作品截止仍為 **2027-03-31 23:59**。查詢 2869 6603／info@roadsafetysteam.hk。",
+      "total_recommend": 11,
+      "upcoming": true
+    },
+    {
       "id": "intl-robotics-ai-2027",
       "name": "2027 國際機械人與人工智能比賽（新加坡／廣州）",
       "name_en": "2027 International Robotics AI Competitions (Singapore / Guangzhou)",
@@ -1390,33 +1417,6 @@
         "complexity": 4
       },
       "notes": "與已收錄之星宇盃 starlux-cup-ai-aviation-2026（Creato×HKACE，2026 屆）為不同主辦／賽事。報名 Google Form：https://docs.google.com/forms/d/e/1FAIpQLSdtRpk0y8xOgiMF9rlZ1dixNrstUyD_KjkS05ObZ14zuehXgQ/viewform 。冠軍隊伍可獲共兩小時、價值 HK$12,000 的專業 Boeing 737／C919 模擬飛行訓練（現職民航機師教授）。初賽後備 2027-05-15；決賽後備 2027-07-03。",
-      "total_recommend": 10,
-      "upcoming": true
-    },
-    {
-      "id": "road-safety-steam-2026-27",
-      "name": "道路安全 STEAM 比賽 2026-27",
-      "name_en": "Road Safety STEAM Competition 2026-27",
-      "domain": "STEAM / Civic / Road Safety / Data Visualisation",
-      "event_dates": "工作坊2「交通黑點數據可視化及分析系統」（對應主題2）2026-11-22（星期六）東華三院甲寅年總理中學（粉嶺天峰路3號）：小學組 14:00–15:15（13:45 開始登記）、中學組 15:30–16:45（15:15 開始登記）；工作坊報名截止 **2026-11-15**（費用全免、先到先得）；作品遞交截止 2027-03-31 23:59",
-      "deadline": "2027-03-31",
-      "organizer": "道路安全議會（Road Safety Council）主辦；運輸及物流局、教育局、香港警務處、運輸署、路政署支持；香港新時代科技教育學會（HKNETEA）統籌",
-      "eligibility": "全港中小學；分小學組及中學組；每隊 1–6 名學生及 1 位指導老師",
-      "summary": "道路安全議會主辦的全港中小學 STEAM 比賽，四大主題為行人安全、交通安全城教育計劃、單車安全及不專注駕駛。工作坊2聚焦交通黑點數據可視化及分析系統，幫助學生把 STEAM 應用於道路安全教育。",
-      "official_link": "https://roadsafetysteam.hk",
-      "source": {
-        "subject": "FAX",
-        "date": "2026-11-11",
-        "thread_id": "1a1c9704185f85b0",
-        "message_id": "1a1c9704185f85b0"
-      },
-      "scores": {
-        "organizer_scale": 5,
-        "awards": 2,
-        "recognition": 3,
-        "complexity": 3
-      },
-      "notes": "2026-11-12 掃描按 2026-11-10 道路安全議會傳真（學校 2026-11-11 15:08 HKT 轉發）及官網核實並 enrichment。作品遞交截止仍為 **2027-03-31 23:59**。工作坊2報名 https://forms.gle/iP3XDiPKEvcdpaw16 ，截止 **2026-11-15**；個人每次限一人，團體須上載 Excel 範本。查詢 2869 6603／info@roadsafetysteam.hk 梁小姐。分數由原先規模3／獎項2／認受2／複雜2 調整為規模5（道路安全議會主辦，運物局、教育局、警方、運輸署、路政署支持，與道路安全願景口號賽主辦層級一致）／獎項2（傳真及既有資料未列獎金或獎項細則，不臆造）／認受3／複雜3。",
       "total_recommend": 10,
       "upcoming": true
     },
@@ -2011,6 +2011,60 @@
         "complexity": 1
       },
       "notes": "報名以電郵表格＋支票；截止 2026-11-30。主辦網站域名來自電郵 info@hksteamedu.org（未獨立核實首頁可用性）。",
+      "total_recommend": 7,
+      "upcoming": true
+    },
+    {
+      "id": "practifly-aigc-track3-2026",
+      "name": "Practifly AI 全國總決賽賽道三「AIGC 文化視覺創作」（三十載・同行——我眼中的家與灣區）",
+      "name_en": "Practifly AI National Grand Final Track 3 — AIGC Cultural Visual Creation 2026",
+      "domain": "AI / Media / Civic Education / National Education / Visual Arts",
+      "event_dates": "報名最遲 2026-12-04；提交作品最遲 2026-12-11；總決賽及入圍匯報 2027-01-02 假香港大學；成績及報告 2027-01-09",
+      "deadline": "2026-12-04",
+      "organizer": "香港學與教知識庫委員會主辦；Infinity Lab R&D Limited 承辦（Practifly AI 全國總決賽大會秘書處）；賽道三學術指導：華南師範大學傅承哲副教授",
+      "eligibility": "小一至中六個人參賽；入圍、評審及獎項按年級；創作主題「三十載・同行——我眼中的家與灣區」，子題「香江故事」或「灣區同心」二選一；作品為 30–60 秒短片或四至八格連環圖，連同不多於 200 字創作說明；於 Heritage AI 網上平台完成",
+      "summary": "迎向香港特別行政區成立三十周年的 AIGC 文化視覺創作賽道：學生用生成式 AI 把家人經歷或城市三十年變化創作成短片或連環圖。作品可作價值觀教育／國民教育學習成果展示。總決賽註冊每名學生 HK$500（含評審、報告及證書）；培訓學習包 HK$150 自選；華南師範大學國情教育課程不另收費。學校獎設「家國傳承卓越學校」。",
+      "official_link": "https://www.infinitylab.hk/",
+      "source": {
+        "subject": "Fwd: 【價值觀教育・中史・人文科】香港特區成立三十周年 學生 AI 創作｜華南師範大學國情教育課程・總決賽假香港大學舉行",
+        "date": "2026-11-12",
+        "thread_id": "1a1ce8a47ba21a3a",
+        "message_id": "1a1ce8a47ba21a3a"
+      },
+      "scores": {
+        "organizer_scale": 3,
+        "awards": 2,
+        "recognition": 2,
+        "complexity": 2
+      },
+      "notes": "補充資料郵件 2026-11-13（Heritage AI 平台介紹）確認日程與費用；查詢 info@infinitylab.hk／+852 5795 3263。公開官網為承辦方 https://www.infinitylab.hk/（介紹 Practifly／Heritage AI 及總決賽於港大）；未另見獨立賽事落地頁，不臆造報名 URL。總決賽註冊收費 HK$500，筆記於 notes，不影響欄位。分數：規模3（知識庫委員會＋EdTech 承辦／大學學術指導）／獎項2（證書、學校獎、老師嘉許狀；郵件未列現金獎）／認受2／複雜2。",
+      "total_recommend": 7,
+      "upcoming": true
+    },
+    {
+      "id": "wnec-aim-awards-2026-27",
+      "name": "2026/27 AIM嘉許獎（Alliance of Innovation Makers Awards）",
+      "name_en": "2026/27 Alliance of Innovation Makers (AIM) Awards",
+      "domain": "Innovation / STEM / Design / Engineering / Entrepreneurship",
+      "event_dates": "提名截止 2026-12-31；團隊資料提交截止 2027-03-31；AIM 頒獎典禮 2027-07（入選作品迷你展覽攤位）",
+      "deadline": "2026-12-31",
+      "organizer": "世界新經濟議會有限公司（World New Economy Council Ltd.，WNEC；《稅務條例》第88條豁免繳稅慈善機構）AIM 工作指導委員會",
+      "eligibility": "中三或以上學生的項目或計劃書；須於 2023/24 至 2026/27 學年期間參加過香港公開比賽；由學校提名學生團隊",
+      "summary": "表揚在創意、創新及應用科技、設計與工程方面表現卓越、推動社區改善及可持續發展的學生團隊。入選團隊獲 AIM 嘉許證書、頒獎典禮邀請、迷你展覽攤位展示機會，並可獲考慮參與 WNEC 其後發展活動（上屆部分畢業生曾參加 100 日挑戰孵化計劃）。",
+      "official_link": "https://www.wnec.org",
+      "source": {
+        "subject": "Fwd: 2026/27 AIM嘉許獎｜Nominate Student Teams",
+        "date": "2026-11-13",
+        "thread_id": "1a1d2a2fa45aa8bd",
+        "message_id": "1a1d2a2fa45aa8bd"
+      },
+      "scores": {
+        "organizer_scale": 3,
+        "awards": 2,
+        "recognition": 2,
+        "complexity": 2
+      },
+      "notes": "提名表格 https://forms.gle/xBEXaHHwitFRzBsH6 ；查詢 SC@WNEC.ORG／WhatsApp 9365 1292。官網 https://www.wnec.org 確認機構；郵件內 sendibm 追蹤連結不採用為 official_link。分數：規模3（本地慈善／NGO 議會）／獎項2（嘉許證書＋典禮＋展覽＋發展路徑考慮；郵件未列獎金，不臆造）／認受2／複雜2（提名既有公開賽作品）。",
       "total_recommend": 7,
       "upcoming": true
     },
