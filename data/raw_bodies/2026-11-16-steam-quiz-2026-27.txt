@@ -1,0 +1,56 @@
+ID 1a1e2e4e084df0fe
+THREAD 1a1e2e4e084df0fe
+DATE 2026-11-16T05:46:12Z
+SUBJ Fwd: 2026-2027 全港校際STEAM知識問答比賽
+FROM School Information <Info@skhbbss.edu.hk>
+ATTS [{'filename': 'image.png', 'mimeType': 'image/png', 'sizeBytes': 23589, 'attachmentId': 'ANGjdJ_FKUMSoQ41JJK2imBYaKiMAFWASKPslEWXchRuUzA2rj15f3xflhhWhYN_W6TnjmRVMj3NSVGBXyid0hcwGPClPbNmLuKBircWHQxpCcStbkzTqCGatfjesODlOLcYPXebUqfmJArbhkCqx_jZWk-JtAIwTL5B7rY36ZaguJZ-cpFGcDZQWHgvjOkOYfa8OfjO41DzCbqRJY5sQ5OXiOkeOX_oQlK0r0zBfQxm58IxbQjCGgK09xDZFPqiJjGtMPovB-aS1Yd4bg2nDtBbxqF7pTlfgnOv9kk7Mo4Qg4WQHUgLfouftMx4IngKBlg4-OHMSBmFsQpeS066OhDusd2naKv2MZt6M4pGMvQui0nnFmoW4EPnvMNJhrlYnnRAx-CPvnN3I3A3NUOT'}, {'filename': 'Enrollment form 2026-27.xlsx', 'mimeType': 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'sizeBytes': 14936, 'attachmentId': 'ANGjdJ8m7mjFM6LGPb4AbL8vSDGzVYPH8nWLEvaGKm3ybRyyvSL_TbxBAj9lD4d44z4VV0V0rKabDUHQAOB7zt4rRS79YhXt4clizOtm7FMyV4Wt9y9s9AnanvwJI27BHb1JmVqgBT9tEe62DBaoeh6QFJjlj_XABuNamkZ111LESYRDlD9bFFSP6FRv0cw8qsDZnaG9qJAbfoKCpsFK1C5MgxAjVvyYWUmJfB6U6NjCvbGk9Gt-W67fLB92RZ4LlVBLRYi-d-3Du0dFuO7JxWViNzbcozRH6vEw-kyR_l5nPLSdOWuMdty5APR6MyEE-kuf9uUeea4w5CyiBvG54StnZO_s6NzoKs1PkkgZ49TP7aCgQqiRmLV0yJE7uh8bC7JMrbPg-RYdgvAtOM7d'}, {'filename': '全港校際STEAM 知識問答比賽 2026-27 比賽詳情_初中組.pdf', 'mimeType': 'application/pdf', 'sizeBytes': 282997, 'attachmentId': 'ANGjdJ_tD7eV_zks8vnS0TADDLzAwIjr-kGbz01rxCijBRb67H4DdyVrw1DqDKEZ20eefShJqutfsxukuL23AmSf2hCfSA7hUtolivlf-Wa9rpn270llc0UjIbGAD7KnG8-pfIH63J0Ls60TTJW0Gvyt-YWlFNMK23EtMrlNDmG1F1Yx7J8xGBoKz-VxsN8BHqwfEFADUpaEFfbt-mFJUkKZjf2sA2XwfOaBmy4v7GQrNbNWZoNBZjyGyezkBdpAfAXhwftALchzbAgVYLmTENQrt2iugPlEQwIMb5eXYodvTgjHjXHjdY_a5Ss9-s1WFjb5WdbBijq3l56BvNOi_89xCYwgWDekkJX5MPwI20DkREN76JpMLmcAxW6WPUISG3PYYgo_VTbdD3dwljfF'}, {'filename': '樣本題目 (Secondary) 2026-27.pdf', 'mimeType': 'application/pdf', 'sizeBytes': 444385, 'attachmentId': 'ANGjdJ8NV_pY4otQAIf952aZYNplPYbs35quhvS_UNLIEe5silQ_V_Ka1l6SswJgHTjwLRw9z6hFbEwrBTtGJblY0mjqwpDOK3sMdKLbRMW9fO_qKrS0gSBsaITllh_aP2n1FKc5uNIGysgmQBXCkKG31cu08GD12KGlX7-Or4tCy56g3riE2ZKsvhpAU6bGJFaKnw2lfKtcO2TCWqRGMKfe8GiNpEAs4dOCy5fBUfFkUrS3IMgGCPD6WPcN3KsT4MGttM2HUaT6JZi9Ux60yyHSz2AGZmQoeyduobiVmPWi3-WtqGjmNjhnebhytPop-cyav4gxoSc3dvoLf6wRRVLCafVkHnDD5-sXGzNSN5Npk8yFPDTsAxnrYCTCEcNJUuHr-O4u4qUb3D5zd2xkqJUI20gmTfJWFB_PL3i5ug'}]
+
+---------- Forwarded message ---------
+寄件者： HK STEAM Education Association <info@hksteamedu.org>
+Date: 2026年11月16日週一 下午1:00
+Subject: 2026-2027 全港校際STEAM知識問答比賽
+To:
+
+
+STEM負責老師/ 科學科負責老師，
+
+全港校際STEAM 知識問答比賽 2026-2027現正接受報名。 比賽由香港科創教育協會主辦，希望藉此提升學生的STEAM 基礎知識。
+
+*比賽對象:*
+高小組(小四至小六)*，*初中組(中一至中三)
+
+*比賽內容*(*見附件之題目樣本):      *
+比賽題目參考了香港教育局的各STEAM 相關科目之課程文件，涵蓋科學、科技應用、數學、編程及邏輯等範疇。題目着重考核STEAM
+思維，而非背誦課本知識。題目附以充足資訊以助學生運用STEAM 思維應對不熟悉的情境。
+
+*比賽獎項：*
+高小組及初中組均設個人及學校團體獎項。個人獎項方面，學生不用和其他參賽同學比較，只要達80%/65/50%
+答對率，便可相應獲金/銀/銅獎。所有參賽同學均會獲發獎狀。
+另設團體獎項以嘉許表現優秀的學校，得獎學校會獲頒獎盃乙座(印有校名)。指導老師亦會獲得「傑出科創指導老師獎」。 比賽詳情可參考附件。
+
+*報名費用:*
+每位學生120元 (包括獎狀及成績報告)，參賽學校需有不少於15人參加。
+
+*報名方法：*
+填妥附件之報名表格，電郵至info@hksteamedu.org 及
+郵寄報名費用的劃線支票至:   九龍長沙灣永康街9號18樓1806室
+<https://www.google.com/maps/search/%E4%B9%9D%E9%BE%8D%E9%95%B7%E6%B2%99%E7%81%A3%E6%B0%B8%E5%BA%B7%E8%A1%979%E8%99%9F18%E6%A8%931806%E5%AE%A4?entry=gmail&source=g>
+                                                                香港科創教育協會
+信封請註明「2026-27全港校際 STEAM 知識問答比賽」報名。
+支票抬頭請寫 「香港科創教育協會有限公司」或「*HONG KONG STEAM EDUCATION ASSOCIATION LITMITED*」
+
+*報名截止日期: *
+2026年11月30日
+
+比賽詳情,報名表及題目樣本請見附件或以下QR code:
+
+
+如有任何查詢，歡迎請致電29549400/ 92443959(whatsapp) 或電郵至info@hksteamedu.org
+
+祝
+教安
+
+香港科創教育協會  Hong Kong STEAM Education Association
+Address: Unit 1806, 18/F, 9 Wong Hong Street, Cheung Sha Wan, Kowloon
+Tel : 29549400/ 92443959(whatsapp) │Email : *info@hksteamedu.org*
+<info@hksteamedu.org>
