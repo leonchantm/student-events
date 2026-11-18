@@ -6,13 +6,13 @@
       "deadlines_filled": 19,
       "method": "Gmail plaintext bodies + raw_bodies + WebSearch/WebFetch; no invented URLs/dates"
     },
-    "generated_at": "2026-11-17T12:30:00+08:00",
+    "generated_at": "2026-11-18T12:45:00+08:00",
     "gmail_account_observed": "tmchan@skhbbss.edu.hk",
-    "search_window": "after:2026/11/15 (focus since last scan 2026-11-16 ~11:56 HKT); contest/比賽/競賽/挑戰/大賽/獎學金/STEM/工作坊/Challenge/Competition/Hackathon and 創新/報名/截止/計劃/活動",
-    "as_of": "2026-11-17",
-    "event_count": 89,
+    "search_window": "after:2026/11/16 (focus since last scan 2026-11-17 ~12:02 HKT); contest/比賽/競賽/挑戰/大賽/獎學金/STEM/工作坊/Challenge/Competition/Hackathon and 創新/報名/截止/計劃/活動",
+    "as_of": "2026-11-18",
+    "event_count": 92,
     "rubric_note": "total_recommend = organizer_scale + awards + recognition (complexity excluded)",
-    "scan_notes": "Daily scan 2026-11-17 HKT. Added piccks-winter-warmth-2026 (PICCKS winter self-learning challenge; deadline 2026-12-20; tasks 2026-12-14 to 2027-01-04; official https://student.edcity.hk/pri/zh-hant/piccks-selflearning-winterwarmth/ ; total_recommend 8) and fses-green-ideas-2026 (Small Ideas Big Changes green ideas contest; register by 2026-12-04 / submit ideas by 2027-04-09 / ceremony 2027-06-19; official SENSE calendar page; total_recommend 9). Updated steam-quiz-2026-27 (organizer confirmed as Hong Kong STEAM Education Association; added groups, gold/silver/bronze and school trophies, fee HKD 120; awards 2->3, total_recommend 7->8; deadline still 2026-11-30). Noted but not added: Hong Kong Teachers Dream Fund 2026-27 (teachers only); TIMSS 2027 briefing (assessment briefing, not an open contest); Hello Scientists Yuen Kwok-yung talk was a 2026-10-27 past event photo follow-up; HKPL Hong Kong Memory public lecture series; GreenMech and R4M reminders (GreenMech deadline still 2026-11-20 23:59, R4M event still 2027-05-22 with unpublished registration deadline); HKYSTI 29 reminder (deadline still 2027-01-15); teacher software/cruise promotions; Ocean Park Dynamic Physics application sent by the teacher, not a new public invitation."
+    "scan_notes": "Daily scan 2026-11-18 HKT. Added hkie-engseeds-2026-27 (HKIE EngSeeds Programme for S1-S3; EDB and CIC supported; free; apply per activity via https://forms.cloud.microsoft/r/uZP0iLuPwX ; official https://hkie.org.hk/tc/teachers-students-zone/engseeds/ ; first listed activity 2026-11-28; per-activity registration deadlines not stated on the leaflet, deadline left null; total_recommend 9); ysa-heyuan-aviation-eco-2026 (HKYSA Heyuan aviation and industrial ecology study tour; 2026-12-23 to 2026-12-25; deadline 2026-12-04; HYAB/YDC-funded; official http://www.ysa.hk/ ; form https://forms.gle/y33fCFqL4KgEJYyz6 ; total_recommend 7); and ccc-floral-workshop-2027 (CCC Hong Kong Secondary School Principals Association traditional Chinese floral art workshop at CCC Ming Kei College on 2027-01-23; deadline 2026-12-02; form https://forms.gle/mZPe37moQDc39NLB8 ; no standalone official website; total_recommend 6). Noted but not added: ITED20270124 Computational Physics workshops (teachers only, TCS); 11.27 Trumptech AI-in-teaching experience workshop (teacher product workshop); space-teaching-exhibit vendor promotion; AI in Education Application Exhibition 2026 (teachers/education-workers exhibition, CPD); Smart ECF online tutorial for school funding applications; HKAI Lab A03 humanoid robot course promotion; EduHK indoor air quality project closing ceremony on 2026-12-12 (ceremony/sharing, poster awards already judged; not a new open student contest); Ocean Park Dynamic Physics remains the teacher's own application, not a new public invitation."
   },
   "events": [
     {
@@ -2417,6 +2417,87 @@
       },
       "notes": "資料以 2026-11-16 主辦邀請信（2026-11-17 轉寄至學校郵箱）為準：截止提交登記 **2026-12-04**；截止提交點子 **2027-04-09**；頒獎典禮 **2027-06-19**。邀請信未附專屬比賽網址，只列提交平台 MintMind.ai 及主辦網站 www.fses.hk（掃描當日首頁未見本比賽專頁）。official_link 採用社創校園（SENSE，聯絡 sense@fses.hk／與主辦同一地址）公開活動頁，該頁列有分組現金券金額（冠軍小學 $300／中學 $600／大專 $1,000 等），但未列 2027-04-09 交件及 2027-06-19 頒獎；該兩項日期以邀請信為準，不採用第三方彙整站可能過時的日程。個人可於 MintMind.ai 註冊提交；學校集體參賽可聯絡 sdgschool@fses.hk／6371 9951。分數：規模4（港交所慈善基金資助、教育局支持的全港賽，主辦為社企學會）／獎項3（每組冠亞季軍及優異獎現金券最高 $1,000、學校獎座、電子證明）／認受2（2026 年公開邀請，尚未見廣泛學界路徑）／複雜2（平台作答，輕量準備）。",
       "total_recommend": 9,
+      "upcoming": true
+    },
+    {
+      "id": "hkie-engseeds-2026-27",
+      "name": "香港工程師學會「工程Seeds」計劃（EngSeeds Programme）",
+      "name_en": "HKIE EngSeeds Programme",
+      "domain": "STEM / Engineering / Career / Life Planning",
+      "event_dates": "計劃已展開，活動費用全免。附件一單張所列近期活動（細節以學會專頁為準，單張註明或會改期）：Colours and Architecture – Painting Technology in the Construction Industry 2026-11-28（星期六）10:00–12:00；Explore Engineering with PolyU 2026-12-29（星期四）09:00–17:00；Hydrogen Talent Development 2027-01-09（星期六）上午場；Development, Continuity, Sustainability: Empowering Next-Gen Talents towards Carbon Neutrality – District Cooling System 2027-01-09（星期六）14:00–16:30；2026–2027 STEM x Marine Vehicles Design and Construction Competition – STEM x Marine Vehicle Control & AI Self-Learning/Object Recognition Workshop 2027-01-16（星期六）09:00–13:00及17:00（單張所列時段；結束時間如未完整顯示則不補寫）；Build & Control – Create Your Own Smart Building System 2027-01-16（星期六）下午場；HKUST – Engineering STEAM Day! 2027-01-23（星期六）09:30–12:30；EngSeeds x CSHK Dream With STEAM 2027-01-23（星期六）09:30–11:30；2026–2027 STEM x Marine Vehicles Design and Construction Competition – 3D Printing & Model Making Workshop 2027-01-30（星期六）09:00–13:00；Wind Energy Challenge 2027-01-30（星期六）下午場；Design & Discover – Design Own 3D Space with BIM 2027-02-27（星期六）；單張註明另有更多活動",
+      "deadline": null,
+      "organizer": "香港工程師學會（The Hong Kong Institution of Engineers, HKIE）；獲教育局及建造業議會支持，並與多間開辦工程相關課程的本地大專院校簽訂合作備忘錄",
+      "eligibility": "專為中一至中三學生而設。學校可就各項工作坊、參觀活動及交流會提名 1 至 5 名學生。獲推薦學生須：現正就讀中一至中三；對工程及創新科技範疇具濃厚興趣，並願與專業人士及同儕交流行業發展與職涯規劃；積極參與各項學習及體驗活動；及有意於未來修讀 STEAM 或工程相關學科。須填妥家長或監護人同意書隨提名表格提交；學校須委派至少一名教師擔任計劃聯絡代表。所有活動費用全免。名額有限。",
+      "summary": "協助初中生及早認識工程專業、升學途徑及職涯發展，涵蓋建造及基建、人工智能及數碼工程、機械人及自動化、ESG及可持續基建、生物醫學及健康科技，以及可再生及先進能源系統六大範疇，並介紹學會轄下 22 個工程界別。透過工作坊、工程項目參觀、大學設施考察及專業交流，學生可與工程師及業界直接交流。出席活動後可獲出席證書；如符合計劃指定要求，將獲頒由香港工程師學會及相關合作單位認可的證書。學會正與合作院校、企業及機構商討拓展職場體驗機會，表現優秀的學員將有機會參與企業參訪、職場體驗或其他進階學習活動。",
+      "official_link": "https://hkie.org.hk/tc/teachers-students-zone/engseeds/",
+      "source": {
+        "subject": "Fwd: 香港工程師學會 ─「工程Seeds」計劃 邀請函 | HKIE ─ \"EngSeeds\" Programme_Invitation Letter",
+        "date": "2026-11-18",
+        "thread_id": "1a1ec1729ce91e35",
+        "message_id": "1a1ec1729ce91e35"
+      },
+      "scores": {
+        "organizer_scale": 4,
+        "awards": 2,
+        "recognition": 3,
+        "complexity": 2
+      },
+      "notes": "2026-11-17 學會發信，2026-11-18 轉寄至學校郵箱。網上報名 https://forms.cloud.microsoft/r/uZP0iLuPwX ，須於各項活動截止報名日前提交；單張及郵件均未列各場活動的具體報名截止日，deadline 留空，不臆造。英文專頁 https://hkie.org.hk/teachers-students-zone/engseeds/ 。查詢 engseedshkie@hkie.org.hk。單張註明條款適用，活動詳情或會更改，以學會專頁為準。STEM x Marine Vehicles 比賽僅見於單張工作坊名稱，未另附獨立章程或截止日，不另立目錄條目。分數：規模4（學會層級、教育局及建造業議會支持，並與多間院校簽備忘錄）／獎項2（出席證書；符合要求可獲學會及合作單位認可證書；職場體驗仍在商討）／認受3／複雜2。",
+      "total_recommend": 9,
+      "upcoming": true
+    },
+    {
+      "id": "ysa-heyuan-aviation-eco-2026",
+      "name": "「科創築夢·綠色匠心」河源航空科技及工業生態考察團",
+      "name_en": "Heyuan Aviation Technology and Industrial Ecology Study Tour (HKYSA)",
+      "domain": "STEM / Aviation / Environment / National Education / Civic Education",
+      "event_dates": "2026-12-23 至 2026-12-25（3天2夜）。12-23 上午香園圍口岸集合（海報：上午 9 時），乘車赴河源（約 2.5 小時），下午參訪愛樂飛航空大世界；12-24 上午河源市中小學生綜合實踐基地，下午河源市博物館（河源恐龍博物館）及河源市野趣溝研學實踐教育基地；12-25 上午萬綠湖及農夫山泉河源生產基地，下午總結分享會後乘車返回，香園圍口岸解散。行程據邀請函附件三「初定行程」，或會調整。",
+      "deadline": "2026-12-04",
+      "organizer": "香港青年科學家協會（Hong Kong Young Scientist Association, HKYSA）主辦；河源市高新區科學技術協會協辦；獲民政及青年事務局、青年發展委員會「青年內地交流資助計劃」資助",
+      "eligibility": "邀請函對象為中學生；海報列活動對象為 12–35 歲香港青年。額滿 40 人即止，或需通過遴選面試。報名要求：具求知慾並對新事物抱持開放態度；對創科和航空感興趣；熱愛交流及認識新朋友；優先未曾參加 2026-27 年度「青年內地交流資助計劃」下的其他內地交流項目。獲資助後團費每名 HK$500（含交通、住宿、餐飲及保險）。",
+      "summary": "三天兩夜河源考察，結合航空科普、綠色工業與德育實踐。學員參觀愛樂飛航空大世界（含阻力傘競賽、真機教學平台等），在綜合實踐基地及野趣溝研學基地參與國家安全講座、趣味物理科普實驗及 AI 技術實操，並探訪萬綠湖水源保護區與農夫山泉河源智慧生產基地，認識生態保育與綠色智造。完成所有交流團相關配套活動後可獲頒發出席證書。",
+      "official_link": "http://www.ysa.hk/",
+      "source": {
+        "subject": "Fwd: 「科創築夢·綠色匠心」河源航空科技及工業生態考察團招募-香港青年科學家協會",
+        "date": "2026-11-18",
+        "thread_id": "1a1ec99861d8f2db",
+        "message_id": "1a1ec99861d8f2db"
+      },
+      "scores": {
+        "organizer_scale": 4,
+        "awards": 1,
+        "recognition": 2,
+        "complexity": 2
+      },
+      "notes": "請於 2026-12-04 前填寫報名表 https://forms.gle/y33fCFqL4KgEJYyz6 。查詢活動籌委會黃小姐 9129-6271／hkysa2022@gmail.com。邀請函日期為 2026-11-10，2026-11-18 轉寄至學校郵箱。協會網站 http://www.ysa.hk/ 於掃描當日未見本團專頁，official_link 用協會官網，不臆造內頁連結。分數：規模4（民青局及青年發展委員會資助的內地交流）／獎項1（出席證書）／認受2／複雜2（三天兩夜考察，或需面試）。",
+      "total_recommend": 7,
+      "upcoming": true
+    },
+    {
+      "id": "ccc-floral-workshop-2027",
+      "name": "2026/27學年「心繫家國」——慶祝香港回歸祖國30周年暨「花藝同心」中國傳統插花工作坊",
+      "name_en": "Hearts Connected with the Motherland — Traditional Chinese Floral Art Workshop (HKSAR 30th Anniversary)",
+      "domain": "Arts / Culture / National Education / Civic Education",
+      "event_dates": "2027-01-23（星期六）12:30–16:30，中華基督教會銘基書院（九龍大角咀橡樹街 16 號）。內容包括由張超老師統籌的慶祝回歸 30 周年主題花展、「中國傳統插花專題講座」、經典「瓶花」示範，以及學生分組體驗瓶花插作或傳統「撒技法」。成功錄取之學校將於 2026-12-08 或以前收到電郵確認。",
+      "deadline": "2026-12-02",
+      "organizer": "中華基督教會香港區會中學校長會；首席主講嘉賓及榮譽顧問：張超老師（「傳統插花」國家級非物質文化遺產傳承人）",
+      "eligibility": "全港中學以學校為單位推薦 4 至 6 名學生參加，並須由一位校內教師帶隊。名額 24 所學校，先到先得，額滿即止。報名期 2026-11-18 至 2026-12-02。",
+      "summary": "以中國傳統插花藝術弘揚中華優秀傳統文化，增進師生對國家級非物質文化遺產的認知，並結合香港回歸祖國 30 周年主題，厚植家國情懷。主講嘉賓張超老師為「傳統插花」國家級非遺傳承人及「插花撒技法」非遺代表性傳承人。",
+      "official_link": "https://forms.gle/mZPe37moQDc39NLB8",
+      "source": {
+        "subject": "Fwd: 【誠邀參與】2026/27學年「心繫家國」—— 慶祝香港回歸祖國 30 周年暨「花藝同心」中國傳統插花工作坊（2027年1月23日）",
+        "date": "2026-11-18",
+        "thread_id": "1a1ec5b316b83809",
+        "message_id": "1a1ec5b316b83809"
+      },
+      "scores": {
+        "organizer_scale": 3,
+        "awards": 1,
+        "recognition": 2,
+        "complexity": 1
+      },
+      "notes": "郵件及附件未附獨立活動網站，official_link 採用附件所列報名表 https://forms.gle/mZPe37moQDc39NLB8 ，不臆造其他網址。查詢中華基督教會銘基書院校長張佩姍博士（電話：2392 3963）。分數：規模3（區會中學校長會面向全港中學邀請）／獎項1（工作坊，附件未列獎項）／認受2／複雜1。",
+      "total_recommend": 6,
       "upcoming": true
     }
   ]
