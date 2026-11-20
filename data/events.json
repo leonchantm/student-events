@@ -6,13 +6,13 @@
       "deadlines_filled": 19,
       "method": "Gmail plaintext bodies + raw_bodies + WebSearch/WebFetch; no invented URLs/dates"
     },
-    "generated_at": "2026-11-19T12:40:00+08:00",
+    "generated_at": "2026-11-20T12:15:17+08:00",
     "gmail_account_observed": "tmchan@skhbbss.edu.hk",
-    "search_window": "after:2026/11/17 (focus since last scan 2026-11-18 ~12:07 HKT); contest/比賽/競賽/挑戰/大賽/獎學金/STEM/工作坊/Challenge/Competition/Hackathon and 創新/報名/截止/計劃/活動/講座/考察/培訓/邀請/誠邀; also reviewed all mail after:2026/11/18",
-    "as_of": "2026-11-19",
-    "event_count": 94,
+    "search_window": "after:1795060603 (since last scan 2026-11-19 ~11:56 HKT); contest/比賽/競賽/挑戰/大賽/獎學金/STEM/工作坊/Challenge/Competition/Hackathon and 創新/報名/截止/計劃/活動/講座/考察/培訓/邀請/誠邀; also reviewed all mail after:2026/11/19 and after-scan faxes",
+    "as_of": "2026-11-20",
+    "event_count": 95,
     "rubric_note": "total_recommend = organizer_scale + awards + recognition (complexity excluded)",
-    "scan_notes": "Daily scan 2026-11-19 HKT. Added lingnan-humanitarian-innovation-expo-2026 (Lingnan University OSL exhibition and school-group visits 2026-12-17 to 2026-12-19 at West Kowloon M+ Teaching Building 1405; official form https://lingnan.asia.qualtrics.com/jfe/form/SV_bpastfEuCMQazUq ; email and form both write deadline as 2026年11月31日, which is not a valid calendar date, so deadline left null; total_recommend 7); and amo-dinosaur-exhibition-2026-27 (AMO/DEVB 'Sighting Dragons in the Field' exhibition 2026-11-20 to 2027-05-12 at Hong Kong Heritage Discovery Centre, free admission plus school applications for free transport and docent until 2027-05-12; official https://www.amo.gov.hk/tc/visitor-centre/exhibitions/heritage-discovery-centre/dinosaur-exhibition/index.html ; total_recommend 8). Enriched clp-eis-energy-future-2026-27 with online briefing time 2026-11-24 15:30–16:30 (teachers only, Microsoft Teams); contest deadline still 2026-12-18. Noted but not added: Ednovators EdFest 2027 (teachers/education workers, 2027-01-09); HKAGE regional talks (parents of gifted children); HKAI Lab embodied AI robotic-hand course promotion; EDB & HKU EMI science-teaching course for teachers (TCS ECP020250022); JC GoAI teaching-resource questionnaire; ITED20270124 Computational Physics workshops (teachers only, TCS; arrived just after the 2026-11-18 scan); internal student-award application notices; Ocean Park Dynamic Physics remains the teacher's own application, not a new public invitation."
+    "scan_notes": "Daily scan 2026-11-20 HKT. Added gysc-2026 (2026年全球青年學者挑戰賽 / Global Young Scholar Challenge 2026; registration deadline 2026-12-01; online heat 2026-12-04 to 2026-12-06; global finals listed as 2027-01-31 online in the prospectus Competition information, while the official website says January 2027 in Thailand, details TBC; official https://brightfutureacademic.org/global-young-scholar-challenge/ ; total_recommend 8). Noted but not added: Hong Kong Creative Intelligence Summit 2026 Educator Day (teachers, 2026-11-30); EdCity AI-in-teaching seminar (teachers, 2026-12-03); EdCity/EDB/EdUHK AIED Forum (principals and teachers, 2026-11-26 to 2026-11-27); S.A.S. Electric / DOBOT AI and robotics summit (vendor education forum, 2026-11-30); HKDO multicultural carnival (vendor school-hiring pitch, no public student event dates); Edcosys Silicon Valley study-tour marketing (no dates or deadline in the email); ITED20260035I laboratory-technician course (teachers); CLP Engineer in School briefing re-forward (briefing 2026-11-24 already recorded on 2026-11-19); QEF e-learning device funding faxes (school admin); HKATA teacher workshop reminder; Ocean Park Dynamic Physics remains the teacher's own application; University of Macau + Hong Kong Gifted Education Teachers' Association + ASK Gifted 4-page fax (arrived 2026-11-20 11:47 HKT) could only be read as letterhead because the mail attachment exceeded the reader cap, so name, dates and links were not verified and it was not catalogued."
   },
   "events": [
     {
@@ -827,6 +827,33 @@
       "upcoming": true
     },
     {
+      "id": "polyu-sytc-2027",
+      "name": "理大科學青年人才比賽2027（PolyU SCIENCE Young Talents Competition 2027）",
+      "name_en": "PolyU SCIENCE Young Talents Competition 2027",
+      "domain": "Science / Physics / Chemistry / Biology",
+      "event_dates": "網上簡介會 2026-12-03 16:30–17:15；預賽 2027-01-30 10:30–12:00 理大校園（後備 2027-01-31）；決賽及頒獎 2027-04-17 09:00–17:30 理大實驗室（後備 2027-04-18，見 notes）；約 2027-01 初確認成功申請，約 2027-02 公布決賽隊伍",
+      "deadline": "2026-12-18",
+      "organizer": "香港理工大學理學院（PolyU Faculty of Science）",
+      "eligibility": "持有效香港身份證、於 2026/27 學年就讀香港境內學校的中四至中五（Grade 10–11 / Year 11–12）學生；每隊 3–4 名學生另加 1 位本校導師；每校最多提名 1 隊；免費報名",
+      "summary": "理學院年度兩輪科學比賽，涵蓋生物與食品科學、化學、物理。預賽為 90 分鐘隊伍選擇題（90 題；約 70% 按 HKDSE 課程、30% 擴展知識；答對 +2、答錯 −1；英文／繁體中文），成績佔決賽 25%。決賽須親身在理大實驗室／教室完成 3 項各 90 分鐘任務。冠軍現金港幣 20,000、亞軍 10,000、季軍 5,000；另設團隊表現優異獎各港幣 1,000；得獎者報讀理大將獲優先考慮。",
+      "official_link": "https://www.polyu.edu.hk/fs/news-and-events/polyu-science-young-talents-competition/",
+      "source": {
+        "subject": "Fwd: [Invitation] PolyU SCIENCE Young Talents Competition 2027 – Nurturing Future Scientists",
+        "date": "2026-11-16",
+        "thread_id": "1a1e27af2851b08d",
+        "message_id": "1a1e27af2851b08d"
+      },
+      "scores": {
+        "organizer_scale": 4,
+        "awards": 4,
+        "recognition": 3,
+        "complexity": 4
+      },
+      "notes": "網上報名 2026-11-16 至 12-18：https://forms.gle/eMHFDBvdhfdKJx4Y8 ；簡介會報名 https://forms.gle/sqDjvA4frzmYEewG9 。查詢 fs.sytc@polyu.edu.hk／2766 5057。官方短鏈 https://polyu.hk/RzcKf 重定向至上述官網。惡劣天氣後備：預賽 2027-01-31；決賽中文頁為 2027-04-18（星期日，與決賽週六 2027-04-17 相符），英文頁誤植 18 April 2026，不採用。分數：規模4（大學理學院校級單位）／獎項4（現金最高 2 萬另加升學優先考慮；非獎學金故不評 5）／認受3（至少 2024 年起舉辦的理學院年度賽）／複雜4（兩輪、預賽加實驗室任務）。",
+      "total_recommend": 11,
+      "upcoming": true
+    },
+    {
       "id": "cuhk-ctf-2026",
       "name": "香港中文大學網絡安全奪旗賽 2026",
       "name_en": "CUHK Cybersecurity CTF 2026",
@@ -931,6 +958,33 @@
         "complexity": 3
       },
       "notes": "網上報名 https://www.hkedcity.net/registration/form.php?reg_form_id=1527 ；簡介會報名 https://forms.cloud.microsoft/r/rNVTGizrqi 。PICCKS 計劃首頁 https://student.edcity.hk/pri/zh-hant/piccks/202627/home/ 。原泛稱 PICCKS 條目，2026-10-21 按教城邀請信改為以學生創新大賽為主並更新賽制／資格。",
+      "total_recommend": 11,
+      "upcoming": true
+    },
+    {
+      "id": "ibc-2027",
+      "name": "第二十一屆中學基建模型創作比賽2027（Infrastructure Building Competition for Secondary Schools）",
+      "name_en": "21st Infrastructure Building Competition for Secondary Schools 2027",
+      "domain": "STEM / Engineering / Construction / Physics",
+      "event_dates": "簡介會 2027-01-30（星期六）；模型製作日 2027-02-27（星期六）；初賽 2027-03-20（星期六）；決賽 2027-04-24（星期六，暫定）；地點 IVE（青衣）或待定",
+      "deadline": "2027-01-23",
+      "organizer": "職業訓練局香港專業教育學院（IVE, VTC）主辦；香港建造商會（HKCA）、香港理工大學合辦；發展局、教育局、房屋局等政府部門支持",
+      "eligibility": "主辦委員會邀請函：全港中一至中六；每隊 3–5 人，每校最多報 3 隊（名額視整體報名人數分配）。VTC「專+導航」活動頁列出對象為中二至中六。",
+      "summary": "自 2004 年舉辦的學界基建模型比賽，上屆近 160 隊參加。隊伍以木條及膠水設計並建造建築模型，於初賽及決賽進行負重／震台測試，認識結構力學與工程設計。晉級初賽隊伍可獲獎品，決賽另設多個獎項。",
+      "official_link": "https://vpetpro.vtc.edu.hk/zh-hant/activities-and-sharing/upcoming-activities/detail/263",
+      "source": {
+        "subject": "Fwd: Invitation to Join the 21st Infrastructure Building Competition for Secondary Schools 2027 (第二十一屆中學基建模型創作比賽2027)",
+        "date": "2026-11-16",
+        "thread_id": "1a1e206fdd3ad66c",
+        "message_id": "1a1e206fdd3ad66c"
+      },
+      "scores": {
+        "organizer_scale": 4,
+        "awards": 3,
+        "recognition": 4,
+        "complexity": 4
+      },
+      "notes": "報名及比賽詳情連結見邀請函／海報 QR（VTC 專+導航頁寫「活動詳情有待公布」，尚未刊出報名表，不臆造連結）。查詢 Mr. Aaron CHUNG 2436 8518（電話或 WhatsApp）／ty-cn@vtc.edu.hk。具體日程以主辦委員會 2026-11-16 邀請函為準。分數：規模4（VTC/IVE 聯同商會及理大，政府政策局支持）／獎項3（初賽及決賽有獎，金額未列）／認受4（第二十一屆、上屆約 160 隊、學界長期活動）／複雜4（多輪製作與測試）。",
       "total_recommend": 11,
       "upcoming": true
     },
@@ -1718,6 +1772,33 @@
       "upcoming": true
     },
     {
+      "id": "fses-green-ideas-2026",
+      "name": "小想法 • 大改變—全港可持續發展與綠色點子個人比賽2026",
+      "name_en": "Small Ideas, Big Changes — Territory-wide Sustainable Development and Green Ideas Individual Competition 2026",
+      "domain": "Sustainability / SDGs / Environment / STEAM / AI",
+      "event_dates": "開放提交 2026-09-21；截止提交登記 2026-12-04；截止提交點子 2027-04-09；頒獎典禮 2027-06-19",
+      "deadline": "2026-12-04",
+      "organizer": "豐盛社企學會（Fullness Social Enterprises Society, FSES）主辦；香港交易所慈善基金資助；獲教育局支持。策略夥伴包括社創校園（SENSE）等（見公開活動頁）",
+      "eligibility": "全港小學、中學及大專院校在校學生；設高小組、初中組、高中組及大專組。費用全免。可個人於指定平台 MintMind.ai 註冊提交，或由學校／院校安排集體參賽並由負責老師聯絡大會統一開設帳號。",
+      "summary": "為推動聯合國 2030 可持續發展目標普及化，引導學生善用生成式 AI 自主學習與批判思考。參賽者於指定平台 MintMind.ai 探索全球及香港的環境、社會、經濟議題，從日常生活及校園經驗出發，提出具創意、可行性及在地性的綠色點子（公開活動頁列明須在平台回答 5 條問題）。每組設冠、亞、季軍及優異獎，獲頒證書及現金券（邀請信：最高達 1,000 元）；中小學另設「最積極參與學校獎」（獎座）；凡成功提交有效作品者獲電子參賽證明。大會亦提供入校工作坊、簡介會及專題課程等校本支援。",
+      "official_link": "https://www.sense-program.hk/secalendar/%E5%B0%8F%E6%83%B3%E6%B3%95-%C2%B7-%E5%A4%A7%E6%94%B9%E8%AE%8A%E2%80%94%E5%85%A8%E6%B8%AF%E5%8F%AF%E6%8C%81%E7%BA%8C%E7%99%BC%E5%B1%95%E8%88%87%E7%B6%A0%E8%89%B2%E9%BB%9E%E5%AD%90%E5%80%8B%E4%BA%BA%E6%AF%94%E8%B3%BD-2026",
+      "source": {
+        "subject": "Fwd: 【誠邀參與】獲教育局支持 之「小想法 • 大改變—全港可持續發展與綠色點子個人比賽2026」",
+        "date": "2026-11-17",
+        "thread_id": "1a1e6effcfd23257",
+        "message_id": "1a1e6effcfd23257"
+      },
+      "scores": {
+        "organizer_scale": 4,
+        "awards": 3,
+        "recognition": 2,
+        "complexity": 2
+      },
+      "notes": "資料以 2026-11-16 主辦邀請信（2026-11-17 轉寄至學校郵箱）為準：截止提交登記 **2026-12-04**；截止提交點子 **2027-04-09**；頒獎典禮 **2027-06-19**。邀請信未附專屬比賽網址，只列提交平台 MintMind.ai 及主辦網站 www.fses.hk（掃描當日首頁未見本比賽專頁）。official_link 採用社創校園（SENSE，聯絡 sense@fses.hk／與主辦同一地址）公開活動頁，該頁列有分組現金券金額（冠軍小學 $300／中學 $600／大專 $1,000 等），但未列 2027-04-09 交件及 2027-06-19 頒獎；該兩項日期以邀請信為準，不採用第三方彙整站可能過時的日程。個人可於 MintMind.ai 註冊提交；學校集體參賽可聯絡 sdgschool@fses.hk／6371 9951。分數：規模4（港交所慈善基金資助、教育局支持的全港賽，主辦為社企學會）／獎項3（每組冠亞季軍及優異獎現金券最高 $1,000、學校獎座、電子證明）／認受2（2026 年公開邀請，尚未見廣泛學界路徑）／複雜2（平台作答，輕量準備）。",
+      "total_recommend": 9,
+      "upcoming": true
+    },
+    {
       "id": "dfc-ai-2026-27",
       "name": "2026–27 DFC × AI 創意行動挑戰賽",
       "name_en": "DFC × AI Creative Action Challenge 2026-27",
@@ -1795,6 +1876,33 @@
         "complexity": 4
       },
       "notes": "官網有章程／參賽表格；郵件正文未列報名截止日（賽事 12-05／12-06／12-12）。參賽表格 https://ctea.org.hk/index.php/application-form",
+      "total_recommend": 9,
+      "upcoming": true
+    },
+    {
+      "id": "hkie-engseeds-2026-27",
+      "name": "香港工程師學會「工程Seeds」計劃（EngSeeds Programme）",
+      "name_en": "HKIE EngSeeds Programme",
+      "domain": "STEM / Engineering / Career / Life Planning",
+      "event_dates": "計劃已展開，活動費用全免。附件一單張所列近期活動（細節以學會專頁為準，單張註明或會改期）：Colours and Architecture – Painting Technology in the Construction Industry 2026-11-28（星期六）10:00–12:00；Explore Engineering with PolyU 2026-12-29（星期四）09:00–17:00；Hydrogen Talent Development 2027-01-09（星期六）上午場；Development, Continuity, Sustainability: Empowering Next-Gen Talents towards Carbon Neutrality – District Cooling System 2027-01-09（星期六）14:00–16:30；2026–2027 STEM x Marine Vehicles Design and Construction Competition – STEM x Marine Vehicle Control & AI Self-Learning/Object Recognition Workshop 2027-01-16（星期六）09:00–13:00及17:00（單張所列時段；結束時間如未完整顯示則不補寫）；Build & Control – Create Your Own Smart Building System 2027-01-16（星期六）下午場；HKUST – Engineering STEAM Day! 2027-01-23（星期六）09:30–12:30；EngSeeds x CSHK Dream With STEAM 2027-01-23（星期六）09:30–11:30；2026–2027 STEM x Marine Vehicles Design and Construction Competition – 3D Printing & Model Making Workshop 2027-01-30（星期六）09:00–13:00；Wind Energy Challenge 2027-01-30（星期六）下午場；Design & Discover – Design Own 3D Space with BIM 2027-02-27（星期六）；單張註明另有更多活動",
+      "deadline": null,
+      "organizer": "香港工程師學會（The Hong Kong Institution of Engineers, HKIE）；獲教育局及建造業議會支持，並與多間開辦工程相關課程的本地大專院校簽訂合作備忘錄",
+      "eligibility": "專為中一至中三學生而設。學校可就各項工作坊、參觀活動及交流會提名 1 至 5 名學生。獲推薦學生須：現正就讀中一至中三；對工程及創新科技範疇具濃厚興趣，並願與專業人士及同儕交流行業發展與職涯規劃；積極參與各項學習及體驗活動；及有意於未來修讀 STEAM 或工程相關學科。須填妥家長或監護人同意書隨提名表格提交；學校須委派至少一名教師擔任計劃聯絡代表。所有活動費用全免。名額有限。",
+      "summary": "協助初中生及早認識工程專業、升學途徑及職涯發展，涵蓋建造及基建、人工智能及數碼工程、機械人及自動化、ESG及可持續基建、生物醫學及健康科技，以及可再生及先進能源系統六大範疇，並介紹學會轄下 22 個工程界別。透過工作坊、工程項目參觀、大學設施考察及專業交流，學生可與工程師及業界直接交流。出席活動後可獲出席證書；如符合計劃指定要求，將獲頒由香港工程師學會及相關合作單位認可的證書。學會正與合作院校、企業及機構商討拓展職場體驗機會，表現優秀的學員將有機會參與企業參訪、職場體驗或其他進階學習活動。",
+      "official_link": "https://hkie.org.hk/tc/teachers-students-zone/engseeds/",
+      "source": {
+        "subject": "Fwd: 香港工程師學會 ─「工程Seeds」計劃 邀請函 | HKIE ─ \"EngSeeds\" Programme_Invitation Letter",
+        "date": "2026-11-18",
+        "thread_id": "1a1ec1729ce91e35",
+        "message_id": "1a1ec1729ce91e35"
+      },
+      "scores": {
+        "organizer_scale": 4,
+        "awards": 2,
+        "recognition": 3,
+        "complexity": 2
+      },
+      "notes": "2026-11-17 學會發信，2026-11-18 轉寄至學校郵箱。網上報名 https://forms.cloud.microsoft/r/uZP0iLuPwX ，須於各項活動截止報名日前提交；單張及郵件均未列各場活動的具體報名截止日，deadline 留空，不臆造。英文專頁 https://hkie.org.hk/teachers-students-zone/engseeds/ 。查詢 engseedshkie@hkie.org.hk。單張註明條款適用，活動詳情或會更改，以學會專頁為準。STEM x Marine Vehicles 比賽僅見於單張工作坊名稱，未另附獨立章程或截止日，不另立目錄條目。分數：規模4（學會層級、教育局及建造業議會支持，並與多間院校簽備忘錄）／獎項2（出席證書；符合要求可獲學會及合作單位認可證書；職場體驗仍在商討）／認受3／複雜2。",
       "total_recommend": 9,
       "upcoming": true
     },
@@ -1934,6 +2042,87 @@
       "upcoming": true
     },
     {
+      "id": "steam-quiz-2026-27",
+      "name": "2026-2027 全港校際 STEAM 知識問答比賽",
+      "name_en": "Territory-wide Inter-school STEAM Quiz 2026-27",
+      "domain": "STEAM / General",
+      "event_dates": null,
+      "deadline": "2026-11-30",
+      "organizer": "香港科創教育協會（Hong Kong STEAM Education Association）",
+      "eligibility": "高小組（小四至小六）、初中組（中一至中三）；每校不少於 15 人參加",
+      "summary": "由香港科創教育協會主辦的校際 STEAM 知識問答比賽，題目參考教育局相關課程文件，涵蓋科學、科技應用、數學、編程及邏輯，着重考核 STEAM 思維而非背誦。高小組及初中組均設個人獎（達 80%／65%／50% 答對率分別獲金／銀／銅獎，全體獲獎狀）及學校團體獎（得獎學校獲印有校名獎盃；指導老師可獲「傑出科創指導老師獎」）。報名費每名學生港幣 120 元（包括獎狀及成績報告）。",
+      "official_link": "https://hksteamedu.org",
+      "source": {
+        "subject": "Fwd: 2026-2027 全港校際STEAM知識問答比賽",
+        "date": "2026-09-23",
+        "thread_id": "1a0cbde6d20ac6be",
+        "message_id": "1a0cbde6d20ac6be"
+      },
+      "scores": {
+        "organizer_scale": 3,
+        "awards": 3,
+        "recognition": 2,
+        "complexity": 1
+      },
+      "notes": "2026-11-16 主辦 info@hksteamedu.org 邀請信確認主辦為香港科創教育協會，並補充組別、獎項及費用；報名截止仍為 **2026-11-30**。報名：填妥附件表格電郵 info@hksteamedu.org，並郵寄劃線支票至九龍長沙灣永康街 9 號 18 樓 1806 室（抬頭「香港科創教育協會有限公司」或信中英文名稱）。查詢 2954 9400／9244 3959（WhatsApp）。比賽日期僅見附件 PDF，本次未從正文抽出，故 event_dates 維持未列，不臆造。分數：規模3（本地專業／教育團體）／獎項3（校際獎盃及金銀銅獎狀；由原 2 分上調）／認受2／複雜1。官網域名來自主辦電郵（https://hksteamedu.org）。來源郵件 2026-11-16 thread/message 1a1e2e4e084df0fe。",
+      "total_recommend": 8,
+      "upcoming": true
+    },
+    {
+      "id": "gysc-2026",
+      "name": "2026年全球青年學者挑戰賽（Global Young Scholar Challenge）",
+      "name_en": "Global Young Scholar Challenge 2026 (GYSC)",
+      "domain": "Science / STEM / AI / Medical Innovation / English Academic Literacy",
+      "event_dates": "網上初賽（公開考試）2026-12-04 至 2026-12-06（期間可應考）；閱讀材料於初賽前兩星期經學生平台發放。全球決賽：章程「Competition information」列 2027-01-31（網上）；官方網頁則寫 2027年1月於泰國作項目匯報／答辯，詳情待確認。金／銀獎另獲泰國決賽邀請。",
+      "deadline": "2026-12-01",
+      "organizer": "Bright Future Academic（官方頁並歸入 NOVA World Championship Olympiad）；香港／澳門報名及網上初賽由 Miss Man International Education 接待",
+      "eligibility": "亞洲（包括香港、澳門、泰國）學生。初級 Discoverer 組：Grade 4–6（小學）；高級 Scholar 組：Grade 7–12（中學）。同級別內按年級排名。比賽提供中、英文試題。",
+      "summary": "以「閱讀英文書籍和期刊，成為科學家」為題的開卷學術挑戰。2026 主題為 Deep Tech in Medical & Wellness Innovation（人工智能與醫療保健）。初級組為科普閱讀及 60 分鐘 30 題選擇題；高級組 75 分鐘，包括醫療科技／數據分析選擇題及創業創新短文／個案。按百分位頒金／銀／銅／優異獎，各級最高分另設美元 100（或等值）獎學金。",
+      "official_link": "https://brightfutureacademic.org/global-young-scholar-challenge/",
+      "source": {
+        "subject": "FAX",
+        "date": "2026-11-20",
+        "thread_id": "1a1f692fc60633c1",
+        "message_id": "1a1f692fc60633c1"
+      },
+      "scores": {
+        "organizer_scale": 3,
+        "awards": 3,
+        "recognition": 2,
+        "complexity": 3
+      },
+      "notes": "2026-11-20 09:29 HKT 學校轉寄傳真（檔名 RKM_C550i261119115504.pdf；傳真頭 From +852 30168657、19-Nov-2026 11:59、Page 1 of 2）。郵件工具只能讀到截斷附件，首頁橫額已核實中英文名稱及「閱讀英文書籍和期刊，成為科學家」／Grade 4–12；賽程、截止、獎項、報名連結改以官方章程及官網核對，並無臆造。官方頁 https://brightfutureacademic.org/global-young-scholar-challenge/ ；章程 PDF https://drive.google.com/file/d/1ZY2_IkUabXeN4wPpEkIpDTDtW_S9Iz6X/view ；個人報名 https://forms.gle/RJnMu18m4xUu6HCk8 ；學校報名表 https://docs.google.com/spreadsheets/d/1wmkQAHlvCJmX0CL7pVHLOHou3GPybrxD/edit?usp=sharing 。deadline 採用章程「Competition information」所列報名截止 2026-12-01；同份章程較前段落曾將 Registration Deadline 寫成 4–6 December 2026（與初賽同窗），Miss Man 日程表則將 4–6/12/2026 標為個人網上考核、2027-01-31 為線上競賽。官網時間軸未列出具體十二月日期，僅寫 Phase 1 Registration 及「GYS GLOBAL ROUND : JANUARY 2027 THAILAND / Details: To be confirmed」。費用：電子證書 HK$100／連紙本證書 HK$130／連紙本證書及獎牌 HK$190／電子＋紙本＋獎牌 HK$200（澳門幣另列）。查詢 hkoffice@missmaneducation.com 或 +852 5918 5176／+852 6714 3779。分數：規模3（地區性私人學術賽，評審含泰國大學學者，香港由教育機構接待；非教育局或大型奧賽機構）／獎項3（獎牌、百分位獎項、各級最高分美元100獎學金、泰國決賽邀請惟詳情待確認）／認受2／複雜3。",
+      "total_recommend": 8,
+      "upcoming": true
+    },
+    {
+      "id": "piccks-winter-warmth-2026",
+      "name": "PICCKS學生獎勵計劃2026/27—冬日暖意自學挑戰",
+      "name_en": "PICCKS Student Award Scheme 2026/27 — Winter Warmth Self-Learning Challenge",
+      "domain": "Self-learning / Communication & Collaboration / EdTech",
+      "event_dates": "自學任務通知期 2026-12-14 至 2027-01-04（星期六、日及公眾假期除外）",
+      "deadline": "2026-12-20",
+      "organizer": "香港教育城（Hong Kong Education City）",
+      "eligibility": "全港中、小學生（須持有教城學生帳戶）。可以學校名義報名（表格電郵 katarina.but@hkecl.net），或學生以個人身分用教城帳戶填寫網上表格。單次報名即代表參加全年各期主題自學挑戰。",
+      "summary": "教城「PICCKS主題自學挑戰」本期以學習特質「溝通和協作」（C）為主題，鼓勵學生在學習中主動表達、接納多元觀點。成功報名者會於 2026-12-14 至 2027-01-04（星期六、日及公眾假期除外）經已登記電郵收到自學任務通知，須以教城帳戶登入完成指定任務（例如聖誕主題答題、於「教城學生」應用程式收藏主題學習卡、人工智能網上自學課程，以及「我的年度小記」投稿）。完成指定日數的任務可獲文具套裝或小校園夾公仔金幣等獎勵，全體參加者獲電子證書；小學及中學組各設「積極學校參與獎」，嘉許學生參與人數最多的前 10 間學校（實體證書）。教師以學校名義報名可於活動完結後獲學校參與報告。",
+      "official_link": "https://student.edcity.hk/pri/zh-hant/piccks-selflearning-winterwarmth/",
+      "source": {
+        "subject": "Fwd: 誠邀參加PICCKS學生獎勵計劃2026/27—冬日暖意自學挑戰",
+        "date": "2026-11-17",
+        "thread_id": "1a1e6fd18d6cfcaa",
+        "message_id": "1a1e6fd18d6cfcaa"
+      },
+      "scores": {
+        "organizer_scale": 4,
+        "awards": 2,
+        "recognition": 2,
+        "complexity": 1
+      },
+      "notes": "報名截止 **2026-12-20**。個人報名 https://www.hkedcity.net/registration/form.php?reg_form_id=1539 ；學校報名表（郵件所附連結）https://student.edcity.hk/pri/wp-content/uploads/2026/09/延展創意自學挑戰_學校報名表格.xlsx 。官網獎項表：完成 14 日任務 20 名文具套裝、10 日 100 名小校園夾公仔金幣、7 日 150 名小校園金幣 500 個；並列完成則先完成者優先。查詢畢小姐 Katarina But 3527 7133／katarina.but@hkecl.net。與學生創新大賽條目（piccks-2026-27）分開：此為 PICCKS 計劃下的假期主題自學挑戰。分數：規模4（教城主辦）／獎項2（文具、金幣、電子證書及學校證書）／認受2／複雜1。官網於 2026-11-17 核實。",
+      "total_recommend": 8,
+      "upcoming": true
+    },
+    {
       "id": "skydream-air-crash-2027",
       "name": "2027 航空解謎聯校活動：飛行事故調查行動",
       "name_en": "Sky Dream Inter-school Air Crash Investigation 2027",
@@ -1957,6 +2146,33 @@
         "complexity": 2
       },
       "notes": "與已收錄之 `skydream-aviation-2027`（2027 Sky Dream 全港學界航空比賽，截止 2027-03-31）為同一主辦的不同活動。報名截止 **2027-01-31**；官網 https://skydream.hk/air-crash-investigation-inter-school-2027/ 。免費只包 2 月 27 日聯校活動。查詢 WhatsApp／電話 5537 3997。分數：規模3／獎項3（團體及個人冠亞季軍；獎金未列，不臆造）／認受2／複雜2（一日活動，預備課程可選）。",
+      "total_recommend": 8,
+      "upcoming": true
+    },
+    {
+      "id": "amo-dinosaur-exhibition-2026-27",
+      "name": "見龍在田：赤洲與中國內地恐龍化石展（團體導賞及免費交通接送）",
+      "name_en": "Sighting Dragons in the Field: An Exhibition of Dinosaur Fossils from Port Island and the Chinese Mainland (school group docent and free transportation)",
+      "domain": "Science / Biology / Citizenship and Social Development / National Education",
+      "event_dates": "展覽期 2026-11-20 至 2027-05-12，香港文物探知館（尖沙咀九龍公園），免費入場。開放時間：星期一至三及星期五 10:00–18:00；星期六、日及公眾假期 10:00–19:00；聖誕前夕及農曆新年除夕 10:00–17:00；星期四（公眾假期除外）、農曆年初一及初二休館。學校團體導賞（粵語、普通話、英語）於星期一至三及星期五提供；英文申請表列時段 10:15–16:15，每節約 1 小時。",
+      "deadline": "2027-05-12",
+      "organizer": "發展局古物古蹟辦事處（Antiquities and Monuments Office, Development Bureau）",
+      "eligibility": "免費入場，公開展覽。免費導賞及交通接送只供本地註冊慈善團體、非牟利機構、幼稚園、中小學、特殊學校、專上學院及大學以團體申請。由即日起至 2027-05-12 可申請；導賞於星期一至三及星期五（公眾假期除外）舉行。郵件寫導賞以 20 人為一組、每節約 1 小時、參加人數不限；英文申請表列每節最少 10 人、參加人數不限。免費交通為 27 或 60 座旅遊巴士，每節核准時段 4 小時（含行車及等候），只提供予申請本展覽導賞的團體，結果最遲於導賞日前 10 個工作天通知。",
+      "summary": "展覽共展出 66 組珍貴展品，包括香港赤洲出土的全部恐龍骨骼化石，以及全國白堊紀恐龍化石。來自內地的 46 組化石中，34 組為國家一級重點保護古生物化石，大部分為首次在香港展出。亮點包括相信來自同一隻「泰坦巨龍形類」恐龍的赤洲化石、擁有完整頭骨的徐氏亞洲暴龍骨骼、具骨質頭冠但無上下牙齒的斑嵴龍頭骨、諸城暴龍頜骨、竊蛋龍類長形蛋，以及帶有胚胎的恐龍蛋化石。內容切合科學、生物、公民及社會發展科，讓學生認識香港首次發現的恐龍化石、國家在恐龍研究的成就，以及古生物學與國家自然歷史。",
+      "official_link": "https://www.amo.gov.hk/tc/visitor-centre/exhibitions/heritage-discovery-centre/dinosaur-exhibition/index.html",
+      "source": {
+        "subject": "Fwd: 古物古蹟辦事處e-通訊 : 「見龍在田：赤洲與中國內地恐龍化石展」團體導賞免費交通接送服務 / e-News of AMO: Free Transportation and Docent Service for Groups of \"Sighting Dragons in the Field: An Exhibition of Dinosaur Fossils from Port Island and the Chinese Mainland\"",
+        "date": "2026-11-19",
+        "thread_id": "1a1f1259e61e2d94",
+        "message_id": "1a1f1259e61e2d94"
+      },
+      "scores": {
+        "organizer_scale": 5,
+        "awards": 1,
+        "recognition": 2,
+        "complexity": 1
+      },
+      "notes": "2026-11-18 古物古蹟辦事處發信，2026-11-19 轉寄至學校郵箱。英文專頁 https://www.amo.gov.hk/en/visitor-centre/exhibitions/heritage-discovery-centre/dinosaur-exhibition/index.html 。中文申請表 https://www.amo.gov.hk/filemanager/amo/en/content_2568/DSG_Dino-TC.pdf ；英文申請表 https://www.amo.gov.hk/filemanager/amo/en/content_2568/DSG_Dino-EN.pdf （郵件所載路徑，不另行改寫）。deadline 採用郵件所述免費交通及導賞申請窗期終日 2027-05-12（與展覽結束日相同）；公眾可於開放時間免費入場，不一定須經此申請。查詢 2208 4487／registration@amo.gov.hk。分數：規模5（發展局部門政府機構）／獎項1（免費參觀／導賞，未列獎項）／認受2／複雜1。",
       "total_recommend": 8,
       "upcoming": true
     },
@@ -1988,33 +2204,6 @@
       "upcoming": true
     },
     {
-      "id": "steam-quiz-2026-27",
-      "name": "2026-2027 全港校際 STEAM 知識問答比賽",
-      "name_en": "Territory-wide Inter-school STEAM Quiz 2026-27",
-      "domain": "STEAM / General",
-      "event_dates": null,
-      "deadline": "2026-11-30",
-      "organizer": "香港科創教育協會（Hong Kong STEAM Education Association）",
-      "eligibility": "高小組（小四至小六）、初中組（中一至中三）；每校不少於 15 人參加",
-      "summary": "由香港科創教育協會主辦的校際 STEAM 知識問答比賽，題目參考教育局相關課程文件，涵蓋科學、科技應用、數學、編程及邏輯，着重考核 STEAM 思維而非背誦。高小組及初中組均設個人獎（達 80%／65%／50% 答對率分別獲金／銀／銅獎，全體獲獎狀）及學校團體獎（得獎學校獲印有校名獎盃；指導老師可獲「傑出科創指導老師獎」）。報名費每名學生港幣 120 元（包括獎狀及成績報告）。",
-      "official_link": "https://hksteamedu.org",
-      "source": {
-        "subject": "Fwd: 2026-2027 全港校際STEAM知識問答比賽",
-        "date": "2026-09-23",
-        "thread_id": "1a0cbde6d20ac6be",
-        "message_id": "1a0cbde6d20ac6be"
-      },
-      "scores": {
-        "organizer_scale": 3,
-        "awards": 3,
-        "recognition": 2,
-        "complexity": 1
-      },
-      "notes": "2026-11-16 主辦 info@hksteamedu.org 邀請信確認主辦為香港科創教育協會，並補充組別、獎項及費用；報名截止仍為 **2026-11-30**。報名：填妥附件表格電郵 info@hksteamedu.org，並郵寄劃線支票至九龍長沙灣永康街 9 號 18 樓 1806 室（抬頭「香港科創教育協會有限公司」或信中英文名稱）。查詢 2954 9400／9244 3959（WhatsApp）。比賽日期僅見附件 PDF，本次未從正文抽出，故 event_dates 維持未列，不臆造。分數：規模3（本地專業／教育團體）／獎項3（校際獎盃及金銀銅獎狀；由原 2 分上調）／認受2／複雜1。官網域名來自主辦電郵（https://hksteamedu.org）。來源郵件 2026-11-16 thread/message 1a1e2e4e084df0fe。",
-      "total_recommend": 8,
-      "upcoming": true
-    },
-    {
       "id": "practifly-aigc-track3-2026",
       "name": "Practifly AI 全國總決賽賽道三「AIGC 文化視覺創作」（三十載・同行——我眼中的家與灣區）",
       "name_en": "Practifly AI National Grand Final Track 3 — AIGC Cultural Visual Creation 2026",
@@ -2038,6 +2227,33 @@
         "complexity": 2
       },
       "notes": "補充資料郵件 2026-11-13（Heritage AI 平台介紹）確認日程與費用；查詢 info@infinitylab.hk／+852 5795 3263。公開官網為承辦方 https://www.infinitylab.hk/（介紹 Practifly／Heritage AI 及總決賽於港大）；未另見獨立賽事落地頁，不臆造報名 URL。總決賽註冊收費 HK$500，筆記於 notes，不影響欄位。分數：規模3（知識庫委員會＋EdTech 承辦／大學學術指導）／獎項2（證書、學校獎、老師嘉許狀；郵件未列現金獎）／認受2／複雜2。",
+      "total_recommend": 7,
+      "upcoming": true
+    },
+    {
+      "id": "ysa-heyuan-aviation-eco-2026",
+      "name": "「科創築夢·綠色匠心」河源航空科技及工業生態考察團",
+      "name_en": "Heyuan Aviation Technology and Industrial Ecology Study Tour (HKYSA)",
+      "domain": "STEM / Aviation / Environment / National Education / Civic Education",
+      "event_dates": "2026-12-23 至 2026-12-25（3天2夜）。12-23 上午香園圍口岸集合（海報：上午 9 時），乘車赴河源（約 2.5 小時），下午參訪愛樂飛航空大世界；12-24 上午河源市中小學生綜合實踐基地，下午河源市博物館（河源恐龍博物館）及河源市野趣溝研學實踐教育基地；12-25 上午萬綠湖及農夫山泉河源生產基地，下午總結分享會後乘車返回，香園圍口岸解散。行程據邀請函附件三「初定行程」，或會調整。",
+      "deadline": "2026-12-04",
+      "organizer": "香港青年科學家協會（Hong Kong Young Scientist Association, HKYSA）主辦；河源市高新區科學技術協會協辦；獲民政及青年事務局、青年發展委員會「青年內地交流資助計劃」資助",
+      "eligibility": "邀請函對象為中學生；海報列活動對象為 12–35 歲香港青年。額滿 40 人即止，或需通過遴選面試。報名要求：具求知慾並對新事物抱持開放態度；對創科和航空感興趣；熱愛交流及認識新朋友；優先未曾參加 2026-27 年度「青年內地交流資助計劃」下的其他內地交流項目。獲資助後團費每名 HK$500（含交通、住宿、餐飲及保險）。",
+      "summary": "三天兩夜河源考察，結合航空科普、綠色工業與德育實踐。學員參觀愛樂飛航空大世界（含阻力傘競賽、真機教學平台等），在綜合實踐基地及野趣溝研學基地參與國家安全講座、趣味物理科普實驗及 AI 技術實操，並探訪萬綠湖水源保護區與農夫山泉河源智慧生產基地，認識生態保育與綠色智造。完成所有交流團相關配套活動後可獲頒發出席證書。",
+      "official_link": "http://www.ysa.hk/",
+      "source": {
+        "subject": "Fwd: 「科創築夢·綠色匠心」河源航空科技及工業生態考察團招募-香港青年科學家協會",
+        "date": "2026-11-18",
+        "thread_id": "1a1ec99861d8f2db",
+        "message_id": "1a1ec99861d8f2db"
+      },
+      "scores": {
+        "organizer_scale": 4,
+        "awards": 1,
+        "recognition": 2,
+        "complexity": 2
+      },
+      "notes": "請於 2026-12-04 前填寫報名表 https://forms.gle/y33fCFqL4KgEJYyz6 。查詢活動籌委會黃小姐 9129-6271／hkysa2022@gmail.com。邀請函日期為 2026-11-10，2026-11-18 轉寄至學校郵箱。協會網站 http://www.ysa.hk/ 於掃描當日未見本團專頁，official_link 用協會官網，不臆造內頁連結。分數：規模4（民青局及青年發展委員會資助的內地交流）／獎項1（出席證書）／認受2／複雜2（三天兩夜考察，或需面試）。",
       "total_recommend": 7,
       "upcoming": true
     },
@@ -2204,6 +2420,33 @@
       "upcoming": true
     },
     {
+      "id": "lingnan-humanitarian-innovation-expo-2026",
+      "name": "人道創新與科技：成果發布、社區夥伴交流暨展覽",
+      "name_en": "Humanitarian Innovation and Technology: Results Showcase, Community Partner Exchange and Exhibition",
+      "domain": "STEM / Design / Civic Education / Health / Sustainability",
+      "event_dates": "2026-12-17（星期四）至 2026-12-19（星期六），10:00–17:30，嶺南大學西九龍校園 M+ 教學大樓 1405 室。可自由參觀或預約導賞。報名表所列參觀時段：12-17 14:30–16:00、16:00–17:30；12-18 及 12-19 各 10:00–11:30、11:30–13:00、13:00–14:30、14:30–16:00、16:00–17:30。現場包括人道創新及科技項目成果展覽、國際設計獎項及創新設計介紹、1:1 劏房及菲律賓醫院實景體驗展區，以及由社區項目參與者帶領的探索工作坊。",
+      "deadline": null,
+      "organizer": "嶺南大學服務研習處（Office of Service-Learning）；展覽介紹由聯合國嶺南大學人道創新及科技中心推動的人道科技項目",
+      "eligibility": "本地中、小學師生。歡迎學校安排班級或小組參觀；報名表可選小一至小三、小四至小六、中一至中三、中四至中六。展覽設有特定容量或導賞名額，以確認通知為準。",
+      "summary": "互動展覽介紹人道科技如何回應醫療、健康及社區生活需要，並展示相關國際設計獎項及創新成果。適合配合科學、科技、設計、健康教育、公民教育及價值教育等學習主題，讓學生從生活情境理解設計思維、科技應用、社會責任與可持續發展。",
+      "official_link": "https://lingnan.asia.qualtrics.com/jfe/form/SV_bpastfEuCMQazUq",
+      "source": {
+        "subject": "Fwd: 誠邀貴校師生參觀「人道創新與科技：成果發布、社區夥伴交流暨展覽」",
+        "date": "2026-11-19",
+        "thread_id": "1a1f1e068437a75c",
+        "message_id": "1a1f1e068437a75c"
+      },
+      "scores": {
+        "organizer_scale": 4,
+        "awards": 1,
+        "recognition": 2,
+        "complexity": 1
+      },
+      "notes": "2026-11-19 嶺南大學服務研習處發信，同日轉寄至學校郵箱。掃描當日未見獨立活動網頁，official_link 採用郵件及官方報名表 https://lingnan.asia.qualtrics.com/jfe/form/SV_bpastfEuCMQazUq ，不臆造其他網址。服務研習處頁 https://www.ln.edu.hk/osl 。日期、時間（10:00–17:30）、場地（1405室）及參觀時段以報名表為準；郵件開首正確寫 12月17日（星期四），資料欄誤寫「星期五」。郵件及報名表均將截止日期寫作「2026年11月31日」，十一月並無 31 日，deadline 留空，不臆造為 11月30日。查詢趙小姐 2616-8051／cheukningchiu@ln.edu.hk。分數：規模4（大學校級服務研習處，展覽介紹聯合國嶺南大學人道創新及科技中心項目）／獎項1（參觀／工作坊，未列獎項）／認受2／複雜1。",
+      "total_recommend": 7,
+      "upcoming": true
+    },
+    {
       "id": "ys-drone-football",
       "name": "青年廣場「YS 無人機足球挑戰賽」",
       "name_en": "Youth Square YS Drone Football Challenge",
@@ -2285,195 +2528,6 @@
       "upcoming": true
     },
     {
-      "id": "dbs-stem-research-symposium-2027",
-      "name": "DBS Inter-School STEM Research Symposium（Kickoff + Spring 2027）",
-      "name_en": "DBS Inter-School STEM Research Symposium (Kickoff Lecture + Spring 2027)",
-      "domain": "STEM / Research / Academic",
-      "event_dates": "Kickoff Lecture 2026-11-27 16:45–18:15（歡迎接待 16:15；拔萃男書院校堂；主講 Prof. Tony F. Chan）；主論壇／Symposium 暫定 2027 春季（詳情於 Kickoff 預告，尚未公布提交指引）",
-      "deadline": "2026-11-20",
-      "organizer": "拔萃男書院 STEAM Union／Symposium Working Group（學生主導）；Honorary Academic Advisor: Prof. Tony F. Chan",
-      "eligibility": "中學生、家長及教師；Kickoff 免費需預先報名",
-      "summary": "由中學生發起的校際 STEM 研究論壇。第一階段為開幕講座（AI、學術研究與教育未來）；第二階段 2027 春季 Symposium 的項目範圍與提交細節將於 Kickoff 預告後公布。",
-      "official_link": "https://DBSSTEMSymposiumkickoff.eventbrite.hk",
-      "source": {
-        "subject": "Fwd: Invitation: DBS Inter-School STEM Research Symposium – Kickoff Lecture by Prof. Tony F. Chan (27 Nov 2026)",
-        "date": "2026-10-28",
-        "thread_id": "1a18168aa7316493",
-        "message_id": "1a18168aa7316493"
-      },
-      "scores": {
-        "organizer_scale": 2,
-        "awards": 1,
-        "recognition": 2,
-        "complexity": 1
-      },
-      "notes": "Kickoff 報名截止 2026-11-20；Eventbrite https://DBSSTEMSymposiumkickoff.eventbrite.hk 。查詢 Marcus Wong dbs23071790@g.dbs.edu.hk。主賽事提交截止尚未公布，不臆造。分數：規模2（單校學生主導聯校邀請）、獎項1、認受2、複雜1（聽講）。",
-      "total_recommend": 5,
-      "upcoming": true
-    },
-    {
-      "id": "polyu-sytc-2027",
-      "name": "理大科學青年人才比賽2027（PolyU SCIENCE Young Talents Competition 2027）",
-      "name_en": "PolyU SCIENCE Young Talents Competition 2027",
-      "domain": "Science / Physics / Chemistry / Biology",
-      "event_dates": "網上簡介會 2026-12-03 16:30–17:15；預賽 2027-01-30 10:30–12:00 理大校園（後備 2027-01-31）；決賽及頒獎 2027-04-17 09:00–17:30 理大實驗室（後備 2027-04-18，見 notes）；約 2027-01 初確認成功申請，約 2027-02 公布決賽隊伍",
-      "deadline": "2026-12-18",
-      "organizer": "香港理工大學理學院（PolyU Faculty of Science）",
-      "eligibility": "持有效香港身份證、於 2026/27 學年就讀香港境內學校的中四至中五（Grade 10–11 / Year 11–12）學生；每隊 3–4 名學生另加 1 位本校導師；每校最多提名 1 隊；免費報名",
-      "summary": "理學院年度兩輪科學比賽，涵蓋生物與食品科學、化學、物理。預賽為 90 分鐘隊伍選擇題（90 題；約 70% 按 HKDSE 課程、30% 擴展知識；答對 +2、答錯 −1；英文／繁體中文），成績佔決賽 25%。決賽須親身在理大實驗室／教室完成 3 項各 90 分鐘任務。冠軍現金港幣 20,000、亞軍 10,000、季軍 5,000；另設團隊表現優異獎各港幣 1,000；得獎者報讀理大將獲優先考慮。",
-      "official_link": "https://www.polyu.edu.hk/fs/news-and-events/polyu-science-young-talents-competition/",
-      "source": {
-        "subject": "Fwd: [Invitation] PolyU SCIENCE Young Talents Competition 2027 – Nurturing Future Scientists",
-        "date": "2026-11-16",
-        "thread_id": "1a1e27af2851b08d",
-        "message_id": "1a1e27af2851b08d"
-      },
-      "scores": {
-        "organizer_scale": 4,
-        "awards": 4,
-        "recognition": 3,
-        "complexity": 4
-      },
-      "notes": "網上報名 2026-11-16 至 12-18：https://forms.gle/eMHFDBvdhfdKJx4Y8 ；簡介會報名 https://forms.gle/sqDjvA4frzmYEewG9 。查詢 fs.sytc@polyu.edu.hk／2766 5057。官方短鏈 https://polyu.hk/RzcKf 重定向至上述官網。惡劣天氣後備：預賽 2027-01-31；決賽中文頁為 2027-04-18（星期日，與決賽週六 2027-04-17 相符），英文頁誤植 18 April 2026，不採用。分數：規模4（大學理學院校級單位）／獎項4（現金最高 2 萬另加升學優先考慮；非獎學金故不評 5）／認受3（至少 2024 年起舉辦的理學院年度賽）／複雜4（兩輪、預賽加實驗室任務）。",
-      "total_recommend": 11,
-      "upcoming": true
-    },
-    {
-      "id": "ibc-2027",
-      "name": "第二十一屆中學基建模型創作比賽2027（Infrastructure Building Competition for Secondary Schools）",
-      "name_en": "21st Infrastructure Building Competition for Secondary Schools 2027",
-      "domain": "STEM / Engineering / Construction / Physics",
-      "event_dates": "簡介會 2027-01-30（星期六）；模型製作日 2027-02-27（星期六）；初賽 2027-03-20（星期六）；決賽 2027-04-24（星期六，暫定）；地點 IVE（青衣）或待定",
-      "deadline": "2027-01-23",
-      "organizer": "職業訓練局香港專業教育學院（IVE, VTC）主辦；香港建造商會（HKCA）、香港理工大學合辦；發展局、教育局、房屋局等政府部門支持",
-      "eligibility": "主辦委員會邀請函：全港中一至中六；每隊 3–5 人，每校最多報 3 隊（名額視整體報名人數分配）。VTC「專+導航」活動頁列出對象為中二至中六。",
-      "summary": "自 2004 年舉辦的學界基建模型比賽，上屆近 160 隊參加。隊伍以木條及膠水設計並建造建築模型，於初賽及決賽進行負重／震台測試，認識結構力學與工程設計。晉級初賽隊伍可獲獎品，決賽另設多個獎項。",
-      "official_link": "https://vpetpro.vtc.edu.hk/zh-hant/activities-and-sharing/upcoming-activities/detail/263",
-      "source": {
-        "subject": "Fwd: Invitation to Join the 21st Infrastructure Building Competition for Secondary Schools 2027 (第二十一屆中學基建模型創作比賽2027)",
-        "date": "2026-11-16",
-        "thread_id": "1a1e206fdd3ad66c",
-        "message_id": "1a1e206fdd3ad66c"
-      },
-      "scores": {
-        "organizer_scale": 4,
-        "awards": 3,
-        "recognition": 4,
-        "complexity": 4
-      },
-      "notes": "報名及比賽詳情連結見邀請函／海報 QR（VTC 專+導航頁寫「活動詳情有待公布」，尚未刊出報名表，不臆造連結）。查詢 Mr. Aaron CHUNG 2436 8518（電話或 WhatsApp）／ty-cn@vtc.edu.hk。具體日程以主辦委員會 2026-11-16 邀請函為準。分數：規模4（VTC/IVE 聯同商會及理大，政府政策局支持）／獎項3（初賽及決賽有獎，金額未列）／認受4（第二十一屆、上屆約 160 隊、學界長期活動）／複雜4（多輪製作與測試）。",
-      "total_recommend": 11,
-      "upcoming": true
-    },
-    {
-      "id": "piccks-winter-warmth-2026",
-      "name": "PICCKS學生獎勵計劃2026/27—冬日暖意自學挑戰",
-      "name_en": "PICCKS Student Award Scheme 2026/27 — Winter Warmth Self-Learning Challenge",
-      "domain": "Self-learning / Communication & Collaboration / EdTech",
-      "event_dates": "自學任務通知期 2026-12-14 至 2027-01-04（星期六、日及公眾假期除外）",
-      "deadline": "2026-12-20",
-      "organizer": "香港教育城（Hong Kong Education City）",
-      "eligibility": "全港中、小學生（須持有教城學生帳戶）。可以學校名義報名（表格電郵 katarina.but@hkecl.net），或學生以個人身分用教城帳戶填寫網上表格。單次報名即代表參加全年各期主題自學挑戰。",
-      "summary": "教城「PICCKS主題自學挑戰」本期以學習特質「溝通和協作」（C）為主題，鼓勵學生在學習中主動表達、接納多元觀點。成功報名者會於 2026-12-14 至 2027-01-04（星期六、日及公眾假期除外）經已登記電郵收到自學任務通知，須以教城帳戶登入完成指定任務（例如聖誕主題答題、於「教城學生」應用程式收藏主題學習卡、人工智能網上自學課程，以及「我的年度小記」投稿）。完成指定日數的任務可獲文具套裝或小校園夾公仔金幣等獎勵，全體參加者獲電子證書；小學及中學組各設「積極學校參與獎」，嘉許學生參與人數最多的前 10 間學校（實體證書）。教師以學校名義報名可於活動完結後獲學校參與報告。",
-      "official_link": "https://student.edcity.hk/pri/zh-hant/piccks-selflearning-winterwarmth/",
-      "source": {
-        "subject": "Fwd: 誠邀參加PICCKS學生獎勵計劃2026/27—冬日暖意自學挑戰",
-        "date": "2026-11-17",
-        "thread_id": "1a1e6fd18d6cfcaa",
-        "message_id": "1a1e6fd18d6cfcaa"
-      },
-      "scores": {
-        "organizer_scale": 4,
-        "awards": 2,
-        "recognition": 2,
-        "complexity": 1
-      },
-      "notes": "報名截止 **2026-12-20**。個人報名 https://www.hkedcity.net/registration/form.php?reg_form_id=1539 ；學校報名表（郵件所附連結）https://student.edcity.hk/pri/wp-content/uploads/2026/09/延展創意自學挑戰_學校報名表格.xlsx 。官網獎項表：完成 14 日任務 20 名文具套裝、10 日 100 名小校園夾公仔金幣、7 日 150 名小校園金幣 500 個；並列完成則先完成者優先。查詢畢小姐 Katarina But 3527 7133／katarina.but@hkecl.net。與學生創新大賽條目（piccks-2026-27）分開：此為 PICCKS 計劃下的假期主題自學挑戰。分數：規模4（教城主辦）／獎項2（文具、金幣、電子證書及學校證書）／認受2／複雜1。官網於 2026-11-17 核實。",
-      "total_recommend": 8,
-      "upcoming": true
-    },
-    {
-      "id": "fses-green-ideas-2026",
-      "name": "小想法 • 大改變—全港可持續發展與綠色點子個人比賽2026",
-      "name_en": "Small Ideas, Big Changes — Territory-wide Sustainable Development and Green Ideas Individual Competition 2026",
-      "domain": "Sustainability / SDGs / Environment / STEAM / AI",
-      "event_dates": "開放提交 2026-09-21；截止提交登記 2026-12-04；截止提交點子 2027-04-09；頒獎典禮 2027-06-19",
-      "deadline": "2026-12-04",
-      "organizer": "豐盛社企學會（Fullness Social Enterprises Society, FSES）主辦；香港交易所慈善基金資助；獲教育局支持。策略夥伴包括社創校園（SENSE）等（見公開活動頁）",
-      "eligibility": "全港小學、中學及大專院校在校學生；設高小組、初中組、高中組及大專組。費用全免。可個人於指定平台 MintMind.ai 註冊提交，或由學校／院校安排集體參賽並由負責老師聯絡大會統一開設帳號。",
-      "summary": "為推動聯合國 2030 可持續發展目標普及化，引導學生善用生成式 AI 自主學習與批判思考。參賽者於指定平台 MintMind.ai 探索全球及香港的環境、社會、經濟議題，從日常生活及校園經驗出發，提出具創意、可行性及在地性的綠色點子（公開活動頁列明須在平台回答 5 條問題）。每組設冠、亞、季軍及優異獎，獲頒證書及現金券（邀請信：最高達 1,000 元）；中小學另設「最積極參與學校獎」（獎座）；凡成功提交有效作品者獲電子參賽證明。大會亦提供入校工作坊、簡介會及專題課程等校本支援。",
-      "official_link": "https://www.sense-program.hk/secalendar/%E5%B0%8F%E6%83%B3%E6%B3%95-%C2%B7-%E5%A4%A7%E6%94%B9%E8%AE%8A%E2%80%94%E5%85%A8%E6%B8%AF%E5%8F%AF%E6%8C%81%E7%BA%8C%E7%99%BC%E5%B1%95%E8%88%87%E7%B6%A0%E8%89%B2%E9%BB%9E%E5%AD%90%E5%80%8B%E4%BA%BA%E6%AF%94%E8%B3%BD-2026",
-      "source": {
-        "subject": "Fwd: 【誠邀參與】獲教育局支持 之「小想法 • 大改變—全港可持續發展與綠色點子個人比賽2026」",
-        "date": "2026-11-17",
-        "thread_id": "1a1e6effcfd23257",
-        "message_id": "1a1e6effcfd23257"
-      },
-      "scores": {
-        "organizer_scale": 4,
-        "awards": 3,
-        "recognition": 2,
-        "complexity": 2
-      },
-      "notes": "資料以 2026-11-16 主辦邀請信（2026-11-17 轉寄至學校郵箱）為準：截止提交登記 **2026-12-04**；截止提交點子 **2027-04-09**；頒獎典禮 **2027-06-19**。邀請信未附專屬比賽網址，只列提交平台 MintMind.ai 及主辦網站 www.fses.hk（掃描當日首頁未見本比賽專頁）。official_link 採用社創校園（SENSE，聯絡 sense@fses.hk／與主辦同一地址）公開活動頁，該頁列有分組現金券金額（冠軍小學 $300／中學 $600／大專 $1,000 等），但未列 2027-04-09 交件及 2027-06-19 頒獎；該兩項日期以邀請信為準，不採用第三方彙整站可能過時的日程。個人可於 MintMind.ai 註冊提交；學校集體參賽可聯絡 sdgschool@fses.hk／6371 9951。分數：規模4（港交所慈善基金資助、教育局支持的全港賽，主辦為社企學會）／獎項3（每組冠亞季軍及優異獎現金券最高 $1,000、學校獎座、電子證明）／認受2（2026 年公開邀請，尚未見廣泛學界路徑）／複雜2（平台作答，輕量準備）。",
-      "total_recommend": 9,
-      "upcoming": true
-    },
-    {
-      "id": "hkie-engseeds-2026-27",
-      "name": "香港工程師學會「工程Seeds」計劃（EngSeeds Programme）",
-      "name_en": "HKIE EngSeeds Programme",
-      "domain": "STEM / Engineering / Career / Life Planning",
-      "event_dates": "計劃已展開，活動費用全免。附件一單張所列近期活動（細節以學會專頁為準，單張註明或會改期）：Colours and Architecture – Painting Technology in the Construction Industry 2026-11-28（星期六）10:00–12:00；Explore Engineering with PolyU 2026-12-29（星期四）09:00–17:00；Hydrogen Talent Development 2027-01-09（星期六）上午場；Development, Continuity, Sustainability: Empowering Next-Gen Talents towards Carbon Neutrality – District Cooling System 2027-01-09（星期六）14:00–16:30；2026–2027 STEM x Marine Vehicles Design and Construction Competition – STEM x Marine Vehicle Control & AI Self-Learning/Object Recognition Workshop 2027-01-16（星期六）09:00–13:00及17:00（單張所列時段；結束時間如未完整顯示則不補寫）；Build & Control – Create Your Own Smart Building System 2027-01-16（星期六）下午場；HKUST – Engineering STEAM Day! 2027-01-23（星期六）09:30–12:30；EngSeeds x CSHK Dream With STEAM 2027-01-23（星期六）09:30–11:30；2026–2027 STEM x Marine Vehicles Design and Construction Competition – 3D Printing & Model Making Workshop 2027-01-30（星期六）09:00–13:00；Wind Energy Challenge 2027-01-30（星期六）下午場；Design & Discover – Design Own 3D Space with BIM 2027-02-27（星期六）；單張註明另有更多活動",
-      "deadline": null,
-      "organizer": "香港工程師學會（The Hong Kong Institution of Engineers, HKIE）；獲教育局及建造業議會支持，並與多間開辦工程相關課程的本地大專院校簽訂合作備忘錄",
-      "eligibility": "專為中一至中三學生而設。學校可就各項工作坊、參觀活動及交流會提名 1 至 5 名學生。獲推薦學生須：現正就讀中一至中三；對工程及創新科技範疇具濃厚興趣，並願與專業人士及同儕交流行業發展與職涯規劃；積極參與各項學習及體驗活動；及有意於未來修讀 STEAM 或工程相關學科。須填妥家長或監護人同意書隨提名表格提交；學校須委派至少一名教師擔任計劃聯絡代表。所有活動費用全免。名額有限。",
-      "summary": "協助初中生及早認識工程專業、升學途徑及職涯發展，涵蓋建造及基建、人工智能及數碼工程、機械人及自動化、ESG及可持續基建、生物醫學及健康科技，以及可再生及先進能源系統六大範疇，並介紹學會轄下 22 個工程界別。透過工作坊、工程項目參觀、大學設施考察及專業交流，學生可與工程師及業界直接交流。出席活動後可獲出席證書；如符合計劃指定要求，將獲頒由香港工程師學會及相關合作單位認可的證書。學會正與合作院校、企業及機構商討拓展職場體驗機會，表現優秀的學員將有機會參與企業參訪、職場體驗或其他進階學習活動。",
-      "official_link": "https://hkie.org.hk/tc/teachers-students-zone/engseeds/",
-      "source": {
-        "subject": "Fwd: 香港工程師學會 ─「工程Seeds」計劃 邀請函 | HKIE ─ \"EngSeeds\" Programme_Invitation Letter",
-        "date": "2026-11-18",
-        "thread_id": "1a1ec1729ce91e35",
-        "message_id": "1a1ec1729ce91e35"
-      },
-      "scores": {
-        "organizer_scale": 4,
-        "awards": 2,
-        "recognition": 3,
-        "complexity": 2
-      },
-      "notes": "2026-11-17 學會發信，2026-11-18 轉寄至學校郵箱。網上報名 https://forms.cloud.microsoft/r/uZP0iLuPwX ，須於各項活動截止報名日前提交；單張及郵件均未列各場活動的具體報名截止日，deadline 留空，不臆造。英文專頁 https://hkie.org.hk/teachers-students-zone/engseeds/ 。查詢 engseedshkie@hkie.org.hk。單張註明條款適用，活動詳情或會更改，以學會專頁為準。STEM x Marine Vehicles 比賽僅見於單張工作坊名稱，未另附獨立章程或截止日，不另立目錄條目。分數：規模4（學會層級、教育局及建造業議會支持，並與多間院校簽備忘錄）／獎項2（出席證書；符合要求可獲學會及合作單位認可證書；職場體驗仍在商討）／認受3／複雜2。",
-      "total_recommend": 9,
-      "upcoming": true
-    },
-    {
-      "id": "ysa-heyuan-aviation-eco-2026",
-      "name": "「科創築夢·綠色匠心」河源航空科技及工業生態考察團",
-      "name_en": "Heyuan Aviation Technology and Industrial Ecology Study Tour (HKYSA)",
-      "domain": "STEM / Aviation / Environment / National Education / Civic Education",
-      "event_dates": "2026-12-23 至 2026-12-25（3天2夜）。12-23 上午香園圍口岸集合（海報：上午 9 時），乘車赴河源（約 2.5 小時），下午參訪愛樂飛航空大世界；12-24 上午河源市中小學生綜合實踐基地，下午河源市博物館（河源恐龍博物館）及河源市野趣溝研學實踐教育基地；12-25 上午萬綠湖及農夫山泉河源生產基地，下午總結分享會後乘車返回，香園圍口岸解散。行程據邀請函附件三「初定行程」，或會調整。",
-      "deadline": "2026-12-04",
-      "organizer": "香港青年科學家協會（Hong Kong Young Scientist Association, HKYSA）主辦；河源市高新區科學技術協會協辦；獲民政及青年事務局、青年發展委員會「青年內地交流資助計劃」資助",
-      "eligibility": "邀請函對象為中學生；海報列活動對象為 12–35 歲香港青年。額滿 40 人即止，或需通過遴選面試。報名要求：具求知慾並對新事物抱持開放態度；對創科和航空感興趣；熱愛交流及認識新朋友；優先未曾參加 2026-27 年度「青年內地交流資助計劃」下的其他內地交流項目。獲資助後團費每名 HK$500（含交通、住宿、餐飲及保險）。",
-      "summary": "三天兩夜河源考察，結合航空科普、綠色工業與德育實踐。學員參觀愛樂飛航空大世界（含阻力傘競賽、真機教學平台等），在綜合實踐基地及野趣溝研學基地參與國家安全講座、趣味物理科普實驗及 AI 技術實操，並探訪萬綠湖水源保護區與農夫山泉河源智慧生產基地，認識生態保育與綠色智造。完成所有交流團相關配套活動後可獲頒發出席證書。",
-      "official_link": "http://www.ysa.hk/",
-      "source": {
-        "subject": "Fwd: 「科創築夢·綠色匠心」河源航空科技及工業生態考察團招募-香港青年科學家協會",
-        "date": "2026-11-18",
-        "thread_id": "1a1ec99861d8f2db",
-        "message_id": "1a1ec99861d8f2db"
-      },
-      "scores": {
-        "organizer_scale": 4,
-        "awards": 1,
-        "recognition": 2,
-        "complexity": 2
-      },
-      "notes": "請於 2026-12-04 前填寫報名表 https://forms.gle/y33fCFqL4KgEJYyz6 。查詢活動籌委會黃小姐 9129-6271／hkysa2022@gmail.com。邀請函日期為 2026-11-10，2026-11-18 轉寄至學校郵箱。協會網站 http://www.ysa.hk/ 於掃描當日未見本團專頁，official_link 用協會官網，不臆造內頁連結。分數：規模4（民青局及青年發展委員會資助的內地交流）／獎項1（出席證書）／認受2／複雜2（三天兩夜考察，或需面試）。",
-      "total_recommend": 7,
-      "upcoming": true
-    },
-    {
       "id": "ccc-floral-workshop-2027",
       "name": "2026/27學年「心繫家國」——慶祝香港回歸祖國30周年暨「花藝同心」中國傳統插花工作坊",
       "name_en": "Hearts Connected with the Motherland — Traditional Chinese Floral Art Workshop (HKSAR 30th Anniversary)",
@@ -2501,57 +2555,30 @@
       "upcoming": true
     },
     {
-      "id": "lingnan-humanitarian-innovation-expo-2026",
-      "name": "人道創新與科技：成果發布、社區夥伴交流暨展覽",
-      "name_en": "Humanitarian Innovation and Technology: Results Showcase, Community Partner Exchange and Exhibition",
-      "domain": "STEM / Design / Civic Education / Health / Sustainability",
-      "event_dates": "2026-12-17（星期四）至 2026-12-19（星期六），10:00–17:30，嶺南大學西九龍校園 M+ 教學大樓 1405 室。可自由參觀或預約導賞。報名表所列參觀時段：12-17 14:30–16:00、16:00–17:30；12-18 及 12-19 各 10:00–11:30、11:30–13:00、13:00–14:30、14:30–16:00、16:00–17:30。現場包括人道創新及科技項目成果展覽、國際設計獎項及創新設計介紹、1:1 劏房及菲律賓醫院實景體驗展區，以及由社區項目參與者帶領的探索工作坊。",
-      "deadline": null,
-      "organizer": "嶺南大學服務研習處（Office of Service-Learning）；展覽介紹由聯合國嶺南大學人道創新及科技中心推動的人道科技項目",
-      "eligibility": "本地中、小學師生。歡迎學校安排班級或小組參觀；報名表可選小一至小三、小四至小六、中一至中三、中四至中六。展覽設有特定容量或導賞名額，以確認通知為準。",
-      "summary": "互動展覽介紹人道科技如何回應醫療、健康及社區生活需要，並展示相關國際設計獎項及創新成果。適合配合科學、科技、設計、健康教育、公民教育及價值教育等學習主題，讓學生從生活情境理解設計思維、科技應用、社會責任與可持續發展。",
-      "official_link": "https://lingnan.asia.qualtrics.com/jfe/form/SV_bpastfEuCMQazUq",
+      "id": "dbs-stem-research-symposium-2027",
+      "name": "DBS Inter-School STEM Research Symposium（Kickoff + Spring 2027）",
+      "name_en": "DBS Inter-School STEM Research Symposium (Kickoff Lecture + Spring 2027)",
+      "domain": "STEM / Research / Academic",
+      "event_dates": "Kickoff Lecture 2026-11-27 16:45–18:15（歡迎接待 16:15；拔萃男書院校堂；主講 Prof. Tony F. Chan）；主論壇／Symposium 暫定 2027 春季（詳情於 Kickoff 預告，尚未公布提交指引）",
+      "deadline": "2026-11-20",
+      "organizer": "拔萃男書院 STEAM Union／Symposium Working Group（學生主導）；Honorary Academic Advisor: Prof. Tony F. Chan",
+      "eligibility": "中學生、家長及教師；Kickoff 免費需預先報名",
+      "summary": "由中學生發起的校際 STEM 研究論壇。第一階段為開幕講座（AI、學術研究與教育未來）；第二階段 2027 春季 Symposium 的項目範圍與提交細節將於 Kickoff 預告後公布。",
+      "official_link": "https://DBSSTEMSymposiumkickoff.eventbrite.hk",
       "source": {
-        "subject": "Fwd: 誠邀貴校師生參觀「人道創新與科技：成果發布、社區夥伴交流暨展覽」",
-        "date": "2026-11-19",
-        "thread_id": "1a1f1e068437a75c",
-        "message_id": "1a1f1e068437a75c"
+        "subject": "Fwd: Invitation: DBS Inter-School STEM Research Symposium – Kickoff Lecture by Prof. Tony F. Chan (27 Nov 2026)",
+        "date": "2026-10-28",
+        "thread_id": "1a18168aa7316493",
+        "message_id": "1a18168aa7316493"
       },
       "scores": {
-        "organizer_scale": 4,
+        "organizer_scale": 2,
         "awards": 1,
         "recognition": 2,
         "complexity": 1
       },
-      "notes": "2026-11-19 嶺南大學服務研習處發信，同日轉寄至學校郵箱。掃描當日未見獨立活動網頁，official_link 採用郵件及官方報名表 https://lingnan.asia.qualtrics.com/jfe/form/SV_bpastfEuCMQazUq ，不臆造其他網址。服務研習處頁 https://www.ln.edu.hk/osl 。日期、時間（10:00–17:30）、場地（1405室）及參觀時段以報名表為準；郵件開首正確寫 12月17日（星期四），資料欄誤寫「星期五」。郵件及報名表均將截止日期寫作「2026年11月31日」，十一月並無 31 日，deadline 留空，不臆造為 11月30日。查詢趙小姐 2616-8051／cheukningchiu@ln.edu.hk。分數：規模4（大學校級服務研習處，展覽介紹聯合國嶺南大學人道創新及科技中心項目）／獎項1（參觀／工作坊，未列獎項）／認受2／複雜1。",
-      "total_recommend": 7,
-      "upcoming": true
-    },
-    {
-      "id": "amo-dinosaur-exhibition-2026-27",
-      "name": "見龍在田：赤洲與中國內地恐龍化石展（團體導賞及免費交通接送）",
-      "name_en": "Sighting Dragons in the Field: An Exhibition of Dinosaur Fossils from Port Island and the Chinese Mainland (school group docent and free transportation)",
-      "domain": "Science / Biology / Citizenship and Social Development / National Education",
-      "event_dates": "展覽期 2026-11-20 至 2027-05-12，香港文物探知館（尖沙咀九龍公園），免費入場。開放時間：星期一至三及星期五 10:00–18:00；星期六、日及公眾假期 10:00–19:00；聖誕前夕及農曆新年除夕 10:00–17:00；星期四（公眾假期除外）、農曆年初一及初二休館。學校團體導賞（粵語、普通話、英語）於星期一至三及星期五提供；英文申請表列時段 10:15–16:15，每節約 1 小時。",
-      "deadline": "2027-05-12",
-      "organizer": "發展局古物古蹟辦事處（Antiquities and Monuments Office, Development Bureau）",
-      "eligibility": "免費入場，公開展覽。免費導賞及交通接送只供本地註冊慈善團體、非牟利機構、幼稚園、中小學、特殊學校、專上學院及大學以團體申請。由即日起至 2027-05-12 可申請；導賞於星期一至三及星期五（公眾假期除外）舉行。郵件寫導賞以 20 人為一組、每節約 1 小時、參加人數不限；英文申請表列每節最少 10 人、參加人數不限。免費交通為 27 或 60 座旅遊巴士，每節核准時段 4 小時（含行車及等候），只提供予申請本展覽導賞的團體，結果最遲於導賞日前 10 個工作天通知。",
-      "summary": "展覽共展出 66 組珍貴展品，包括香港赤洲出土的全部恐龍骨骼化石，以及全國白堊紀恐龍化石。來自內地的 46 組化石中，34 組為國家一級重點保護古生物化石，大部分為首次在香港展出。亮點包括相信來自同一隻「泰坦巨龍形類」恐龍的赤洲化石、擁有完整頭骨的徐氏亞洲暴龍骨骼、具骨質頭冠但無上下牙齒的斑嵴龍頭骨、諸城暴龍頜骨、竊蛋龍類長形蛋，以及帶有胚胎的恐龍蛋化石。內容切合科學、生物、公民及社會發展科，讓學生認識香港首次發現的恐龍化石、國家在恐龍研究的成就，以及古生物學與國家自然歷史。",
-      "official_link": "https://www.amo.gov.hk/tc/visitor-centre/exhibitions/heritage-discovery-centre/dinosaur-exhibition/index.html",
-      "source": {
-        "subject": "Fwd: 古物古蹟辦事處e-通訊 : 「見龍在田：赤洲與中國內地恐龍化石展」團體導賞免費交通接送服務 / e-News of AMO: Free Transportation and Docent Service for Groups of \"Sighting Dragons in the Field: An Exhibition of Dinosaur Fossils from Port Island and the Chinese Mainland\"",
-        "date": "2026-11-19",
-        "thread_id": "1a1f1259e61e2d94",
-        "message_id": "1a1f1259e61e2d94"
-      },
-      "scores": {
-        "organizer_scale": 5,
-        "awards": 1,
-        "recognition": 2,
-        "complexity": 1
-      },
-      "notes": "2026-11-18 古物古蹟辦事處發信，2026-11-19 轉寄至學校郵箱。英文專頁 https://www.amo.gov.hk/en/visitor-centre/exhibitions/heritage-discovery-centre/dinosaur-exhibition/index.html 。中文申請表 https://www.amo.gov.hk/filemanager/amo/en/content_2568/DSG_Dino-TC.pdf ；英文申請表 https://www.amo.gov.hk/filemanager/amo/en/content_2568/DSG_Dino-EN.pdf （郵件所載路徑，不另行改寫）。deadline 採用郵件所述免費交通及導賞申請窗期終日 2027-05-12（與展覽結束日相同）；公眾可於開放時間免費入場，不一定須經此申請。查詢 2208 4487／registration@amo.gov.hk。分數：規模5（發展局部門政府機構）／獎項1（免費參觀／導賞，未列獎項）／認受2／複雜1。",
-      "total_recommend": 8,
+      "notes": "Kickoff 報名截止 2026-11-20；Eventbrite https://DBSSTEMSymposiumkickoff.eventbrite.hk 。查詢 Marcus Wong dbs23071790@g.dbs.edu.hk。主賽事提交截止尚未公布，不臆造。分數：規模2（單校學生主導聯校邀請）、獎項1、認受2、複雜1（聽講）。",
+      "total_recommend": 5,
       "upcoming": true
     }
   ]
