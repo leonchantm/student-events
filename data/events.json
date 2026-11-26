@@ -6,13 +6,13 @@
       "deadlines_filled": 19,
       "method": "Gmail plaintext bodies + raw_bodies + WebSearch/WebFetch; no invented URLs/dates"
     },
-    "generated_at": "2026-11-25T12:04:20+08:00",
+    "generated_at": "2026-11-26T12:04:04+08:00",
     "gmail_account_observed": "tmchan@skhbbss.edu.hk",
-    "search_window": "after:2026/11/23, then kept messages received after last scan 2026-11-24T12:09:04+08:00; reviewed student-competition/activity forwards and official pages for new events; no invented URLs/dates",
-    "as_of": "2026-11-25",
-    "event_count": 103,
+    "search_window": "after:2026/11/25, then kept messages received after last scan 2026-11-25T12:05:10+08:00; reviewed student-competition/activity forwards and official pages for new or materially updated upcoming events; no invented URLs/dates",
+    "as_of": "2026-11-26",
+    "event_count": 104,
     "rubric_note": "total_recommend = organizer_scale + awards + recognition (complexity excluded)",
-    "scan_notes": "Daily scan 2026-11-25 HKT. Added hkscea-festival-photo-xmas-ny-2026-27 (香港節日攝影大師賽（聖誕新年篇）; deadline 2027-01-15; results 2027-01-22; official https://hkscea.com/2026/11/22/%e9%a6%99%e6%b8%af%e7%af%80%e6%97%a5%e6%94%9d%e5%bd%b1%e5%a4%a7%e5%b8%ab%e8%b3%bd%e8%81%96%e8%aa%95%e6%96%b0%e5%b9%b4%e7%af%87/; total_recommend 4), hkscea-micro-story-2026-27 (微故事創作比賽; deadline 2027-01-15; results 2027-01-22; official https://hkscea.com/2026/11/22/%e5%be%ae%e6%95%85%e4%ba%8b%e5%89%b5%e4%bd%9c%e6%af%94%e8%b3%bd/; total_recommend 4), hkscea-gerontech-design-2026 (樂齡科技產品設計賽; deadline 2026-12-31; results 2027-01-07; official https://hkscea.com/2026/10/04/%e6%a8%82%e9%bd%a1%e7%a7%91%e6%8a%80%e7%94%a2%e5%93%81%e8%a8%ad%e8%a8%88%e8%b3%bd/; total_recommend 4), and hlma-talks-ekert-secrecy-2026 (HLMA Talks: Privacy for the Paranoid; event 2026-12-02 17:30–18:45 at Asia Society Hong Kong Center; free, prior registration required, no earlier cutoff stated so deadline left null; official https://asiasocietyhk.glueup.com/event/privacy-for-the-paranoid-the-ultimate-limits-of-secrecy-200274/; total_recommend 8). Updated piccks-2026-27 with online briefing and design-thinking workshop 2026-12-04 16:00–17:00 (https://info.edcity.hk/zh/event/12331); deadline still 2027-01-15. Updated cityu-science-patent-2026-27 with Developed Innovation expert-review deadline 2026-11-30 (https://go.cityu.hk/wemw1g) and consultation booking deadline 2026-12-11 (https://go.cityu.hk/ishvs1); submission deadline still 2027-01-15. Noted but not added: Mind To Think「智行世代」研討會 (teachers, 2026-12-05); 稻燊教育「好精神．醫生安心之旅」(paid $4988 talk for parents/teachers); 香港新聞博覽館 2026-11-29 public talk on children's flu and mental health; CUHK EAP 2027 education forum / MASIL briefing (teacher PD, 2027-01-16); 得人農舍 2027 campus greening sales pitch; eCG/eComGear AI toolkit vendor pitch; HKU UMAG teacher dance workshop 2026-12-21; Google account security alerts; Canva join request; Teamup prefect e-display; eClass punishment records; OUP teacher resources; Ocean Park Dynamic Physics remains the teacher's own application."
+    "scan_notes": "Daily scan 2026-11-26 HKT. Added cityu-bci-workshop-2027 (城大腦機介面工作坊 / CityUHK Brain-Computer Interface Workshop; event 2027-01-16 10:00–18:00 at CityUHK Campus; registration deadline 2026-11-27; F.3–F.6; free; certificate upon full participation; official https://go.cityu.hk/dzdl5t ; form https://cityu.qualtrics.com/jfe/form/SV_6sNQNUXyNT6DoYS ; total_recommend 8). Updated ideapop-2027: official 2027 page is now live, so official_link is now https://seedfoundation.hk/ideapop2027/zh-hant/ (replacing the previous /ideapop/ URL that still showed 2026 content); recorded official prizes (champion ~HK$3,200 headphones, first runner-up ~HK$1,000 speaker, second runner-up ~HK$500 photo printer; certificates for top 10/40/80); team registration still 2026-12-18 and materials deadline still 2027-01-06; scores unchanged, total_recommend 11. Noted but not added or materially changed: HKFYG GreenTech Youth Learning Lab 12 Dec seminar re-promotion (already catalogued as hkfyg-greentech-youth-lab-2026; school registration deadline 2026-11-06 already passed); OFCA reel-making competition final call (ofca-reel-phone-scam-2026 already has deadline 2026-12-07 noon, voting 2027-01-18 to 22, ceremony Q1 2027); FAX 2026大灣區傑出學生大獎 from 亞洲教育聯盟／粵港澳大灣區教育發展協會(香港) (15 Sep email said the deadline was extended only to 2026-10-02, which has passed); Logidemy in-school Python/AI vendor course pitch; Sun-Tech XCLASS campus-broadcast product pitch; 《符文戰場》strategy-card school promotion; 香港特殊教育學會 2026 annual seminar (teacher/professional PD, 2026-12-12, register by 2026-12-07); Bambu Lab printer quote thread; IFTTT/Manus marketing; Google account security alerts; Teamup prefect e-display; Ocean Park Dynamic Physics remains the teacher's own application."
   },
   "events": [
     {
@@ -916,13 +916,19 @@
       "deadline": "2027-01-06",
       "organizer": "SEED Foundation 主辦；阿里巴巴創業者基金（Alibaba Entrepreneurs Fund）贊助",
       "eligibility": "本港中學生、年齡 12–19；每隊同校 4 名學生 + 1 名負責老師；以校隊報名（不接受個人）；每校最多 5 隊",
-      "summary": "全港中學生初創計劃匯報比賽，聚焦四大社會議題（AI 時代的學習、傷健共融、長者護理、精神健康與抗逆力）。經師友指導與多輪匯報，向業界領袖／創業者／投資者 pitch 科技社會方案。",
-      "official_link": "https://seedfoundation.hk/ideapop/",
+      "summary": "全港中學生初創計劃匯報比賽，聚焦四大社會議題（AI 時代的學習、傷健共融、長者護理、精神健康與抗逆力）。經師友指導與多輪匯報，向業界領袖／創業者／投資者 pitch 科技社會方案。官方頁所列獎項包括冠軍約 HK$3,200 無線降噪耳機、亞軍約 HK$1,000 藍牙音箱、季軍約 HK$500 相片打印機，以及前 10／40／80 名證書。",
+      "official_link": "https://seedfoundation.hk/ideapop2027/zh-hant/",
       "source": {
-        "subject": "Fwd: 【共展Start-up旅程】 誠邀參加「IdeaPOP! 2027 全港中學生初創計劃匯報比賽」",
-        "date": "2026-11-03",
-        "thread_id": "1a19ef3a423b7b49",
-        "message_id": "1a19ef3a423b7b49"
+        "subject": "Fwd: 【共展Start-up旅程】 誠邀參加「IdeaPOP! 2027 全港中學生初創計劃匯報比賽」｜【Join the Start-up Journey】Invitation to IdeaPOP! 2027 Hong Kong Secondary School Students Startup Pitch Competition",
+        "date": "2026-11-26",
+        "thread_id": "1a2156c79aa9c15f",
+        "message_id": "1a2156c79aa9c15f",
+        "prior_source": {
+          "subject": "Fwd: 【共展Start-up旅程】 誠邀參加「IdeaPOP! 2027 全港中學生初創計劃匯報比賽」",
+          "date": "2026-11-03",
+          "thread_id": "1a19ef3a423b7b49",
+          "message_id": "1a19ef3a423b7b49"
+        }
       },
       "scores": {
         "organizer_scale": 4,
@@ -930,7 +936,7 @@
         "recognition": 4,
         "complexity": 4
       },
-      "notes": "隊伍資料登記表 https://forms.gle/sxGYkdYbkVK6i8tv9（2026-12-18 或之前）；簡介會報名 https://forms.gle/c2jbcMeZUNYVR6DU7。報名材料連結於登記後電郵發送。官網 ideapop 頁面掃描當日仍顯示 2026 屆內容；2027 細節以 SEED 官方邀請電郵為準。查詢 ideapop@seedfoundation.hk／5597 8144。分數：規模4（基金＋大型企業贊助）、獎項3（公開頒獎／證書；現金獎細節郵件未列）、認受4（歷屆逾 3000 學生）、複雜4（多輪師友＋pitch）。",
+      "notes": "2026-11-26 更新：2027 官方頁已上線 https://seedfoundation.hk/ideapop2027/zh-hant/ （英文 https://seedfoundation.hk/ideapop2027/）。官網列報名期 2026-11-02 至 2027-01-06；獎項為冠軍型格無線降噪耳機（約 HK$3,200）、亞軍高質便攜式藍牙音箱（約 HK$1,000）、季軍小型便攜相片打印機（約 HK$500），以及前 10／40／80 名成就證書。隊伍資料登記表 https://forms.gle/sxGYkdYbkVK6i8tv9（電郵：2026-12-18 或之前）；簡介會報名 https://forms.gle/c2jbcMeZUNYVR6DU7。報名材料連結於登記後電郵發送。查詢 ideapop@seedfoundation.hk／5597 8144。分數：規模4（基金＋大型企業贊助）、獎項3（公開頒獎、證書及實物獎）、認受4、複雜4（多輪師友＋pitch）。",
       "total_recommend": 11,
       "upcoming": true
     },
@@ -2794,6 +2800,33 @@
         "complexity": 1
       },
       "notes": "2026-11-25 恒隆數學獎辦公室來信，同日轉寄至學校郵箱；郵件稱為 reminder。節目及場地以亞洲協會 Glue Up 活動頁為準；恒隆數學獎介紹見 https://hlma.hanglung.com/en 。門票免費，須預先登記；郵件及活動頁均未列出早於活動當日的截止時間，故 deadline 留空，不臆造。查詢亦可聯絡 programhk@asiasociety.org.hk／2103 9511。分數：規模4（恒隆數學獎與亞洲協會合辦）／獎項1（公開講座，未列獎項）／認受3／複雜1。",
+      "total_recommend": 8,
+      "upcoming": true
+    },
+    {
+      "id": "cityu-bci-workshop-2027",
+      "name": "城大腦機介面工作坊（CityUHK Brain-Computer Interface Workshop, Jan 2027）",
+      "name_en": "CityUHK Brain-Computer Interface Workshop (January 2027)",
+      "domain": "STEM / Biomedical Engineering / Neuroscience",
+      "event_dates": "2027-01-16（星期六）10:00–18:00，香港城市大學校園；雙語進行；費用全免",
+      "deadline": "2026-11-27",
+      "organizer": "香港城市大學工程學院 Bright Future Engineering Talent Hub（CityU College of Engineering）",
+      "eligibility": "中三至中六學生；名額有限，反應熱烈時或會以抽籤分配",
+      "summary": "由生物醫學工程教授主持的一日工作坊，涵蓋腦電圖（EEG）行為識別、訊號分析及腦機介面編程，並以優化 BCI 系統的實作挑戰作結，探索神經科學與科技的結合。完成全日活動可獲證書。",
+      "official_link": "https://go.cityu.hk/dzdl5t",
+      "source": {
+        "subject": "[Reminder] Invitation to CityUHK’s Brain-Computer Interface Workshop (Jan 2027)",
+        "date": "2026-11-25",
+        "thread_id": "1a212553ef9f9e42",
+        "message_id": "1a212553ef9f9e42"
+      },
+      "scores": {
+        "organizer_scale": 4,
+        "awards": 1,
+        "recognition": 3,
+        "complexity": 2
+      },
+      "notes": "報名期 2026-10-26 至 2026-11-27。申請表 https://cityu.qualtrics.com/jfe/form/SV_6sNQNUXyNT6DoYS 。詳情短網址 https://go.cityu.hk/dzdl5t （掃描當日該短網址受網站防護，未能開啟完整內文，日期及場地以城大工程人才樞紐官方郵件為準，不臆造其他網址）。2026-10-23 已有首次邀請，目錄此前未收錄；本次為截止前提醒。查詢 BFEngg.Hub@cityu.edu.hk。分數：規模4（城大工程學院校級單位）、獎項1（完成者證書）、認受3、複雜2（全日技術工作坊，無需預先提交作品）。",
       "total_recommend": 8,
       "upcoming": true
     }

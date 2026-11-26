@@ -1,0 +1,15 @@
+FROM: Bright Future Engineering Talent Hub <BFEngg.Hub@cityu.edu.hk>
+DATE: 2026-11-25T10:51:41Z
+SUBJECT: [Reminder] Invitation to CityUHK’s Brain-Computer Interface Workshop (Jan 2027)
+ID: 1a212553ef9f9e42
+THREAD: 1a212553ef9f9e42
+
+Reminder that registration closes on 27 November 2026.
+Workshop: 16 January 2027 (Saturday), 10:00am – 6:00pm, CityUHK Campus.
+Target: F.3 – F.6 Students; bilingual; free of charge; certificate upon full participation.
+Application period: 26 October – 27 November 2026.
+Application: https://cityu.qualtrics.com/jfe/form/SV_6sNQNUXyNT6DoYS
+Further details: https://go.cityu.hk/dzdl5t
+Places limited; lottery may be adopted if oversubscribed.
+Enquiries: BFEngg.Hub@cityu.edu.hk
+First invitation was also received 2026-10-23 (message 1a1675160ca1c13c / 1a1674c7be8ffcf4) with the same dates and links.
